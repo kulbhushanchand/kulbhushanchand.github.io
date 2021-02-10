@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Kulbhushan Chand"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Personal website" # site tagline that appears below site title in masthead
 name                     : "Kulbhushan Chand"
 description              : "My personal website."
 url                      : https://kulbhushanchand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kulbhushan Chand"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "India"
+  name             : # "Kulbhushan Chand"
+  avatar           : # "/assets/images/pages/kulbhushanchand.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : #"I am an **amazing** person."
+  location         : # "India"
   email            :
   links:
     - label: "Email"
@@ -275,8 +275,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: # true
       read_time: true
       comments: # true
       share: true
       related: true
+
