@@ -3,7 +3,7 @@ permalink: /about/
 layout: single
 title: About me
 date:   2021-02-07 22:23:58 +0530
-author_profile: true
+author_profile: false
 classes: wide
 ---
 <br>
