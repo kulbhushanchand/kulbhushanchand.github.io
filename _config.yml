@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Kulbhushan Chand"
 title_separator          : "-"
-subtitle                 : "Personal website" # site tagline that appears below site title in masthead
+subtitle                 : # "Personal website" # site tagline that appears below site title in masthead
 name                     : "Kulbhushan Chand"
 description              : "My personal website."
 url                      : https://kulbhushanchand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -224,7 +224,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/ #/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -297,4 +297,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
 

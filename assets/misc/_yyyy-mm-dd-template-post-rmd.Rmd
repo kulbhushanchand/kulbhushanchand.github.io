@@ -1,0 +1,35 @@
+---
+title: "Title"
+output:
+  md_document:
+    pandoc_args: ["--wrap=none"]
+    variant: gfm
+    preserve_yaml: TRUE
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
+date: "dd/mm/yyyy"
+excerpt: "Excerpt"
+layout: single
+categories:
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+library(knitr)
+library(stringr)
+library(here)
+# get name of file during knitting and strip file extension
+rmd_filename <- str_remove(knitr::current_input(), "\\.Rmd")
+
+# Figure path on disk = base.dir + fig.path
+# Figure URL online = base.url + fig.path
+knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '/') # project root folder
+knitr::opts_chunk$set(
+	fig.path = str_c("assets/images/posts/", rmd_filename, '/'),
+	message = FALSE,
+	warning = FALSE,
+	cache.path = "../cache/",
+	dev = "svg",
+	dpi = 300
+)
+```
+

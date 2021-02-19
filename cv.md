@@ -263,6 +263,7 @@ Invited Talks
 *Jalandhar – 144011, Punjab, India*  
 *Phone: +91- xxxxxxxxxx*  
 *Email: khoslaak@nitj.ac.in*  
+*Webpage: https://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/38*  
 
 {% endcapture %}
 <div class="notice">
