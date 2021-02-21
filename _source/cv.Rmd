@@ -17,9 +17,54 @@ author_profile: true
 
 
 
+```{r setup, include=FALSE, cache=FALSE}
+library(knitr)
+library(stringr)
+library(here)
+# get name of file during knitting and strip file extension
+rmd_filename <- str_remove(knitr::current_input(), "\\.Rmd")
 
+# Figure path on disk = base.dir + fig.path
+# Figure URL online = base.url + fig.path
+knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '{{ site.url }}{{ site.baseurl }}/') # project root folder
+knitr::opts_chunk$set(
+	fig.path = str_c("assets/images/pages/", rmd_filename, '/'),
+	message = FALSE,
+	warning = FALSE,
+	cache.path = "../cache/",
+	dev = "svg",
+	dpi = 300
+)
+```
 
-![plot of chunk unnamed-chunk-1]({{ site.url }}{{ site.baseurl }}/assets/images/pages/cv/unnamed-chunk-1-1.svg)
+```{r echo=FALSE, fig.height=8, fig.width=12, message=FALSE, warning=FALSE}
+VisualResume::VisualResume(
+  titles.left = c("Kulbhushan Chand", "Electronics, Biofeedback, Games",""),
+  titles.right = c("kulbhushanchand.github.io", "kulbhushan.chand@gmail.com",""),
+  titles.right.cex = c(2, 2, 1),
+  titles.left.cex = c(4, 2, 1),
+  timeline.labels = c("Education", "Teaching"),
+  timeline = data.frame(title = c("GNDU", "LPU", "NITJ", "LPU", "LPU", "LPU", "NITJ"),
+                        sub = c("BTech Student", "MTech Student", "PhD Student", "Lecturer", "Teaching Assistant", "Assistant Prof.", "Teaching Assistant"),
+                        start = c(2006.6, 2011.6, 2015.6, 2010.9, 2012.1, 2013.6, 2015.6),
+                        end = c(2010.4, 2013.4, 2021.9, 2011.4, 2012.9, 2015.4, 2020.6),
+                        side = c(1, 1, 1, 0, 0, 0, 0)),
+  timeline.cex = c(1.8, 1.2),
+  milestones = data.frame(title = c("BTech", "MTech", "PhD (Persuing)"),
+                          sub = c("ECE", "ECE", "ECE"),
+                          year = c(2010, 2013, 2021)),
+  events = data.frame(year = c(2019.99, 2019.66, 2019.33, 2019.01),
+                      title = c("Jain, B. et al. (2019). The Pursuit of Zero Food Waste [...]. in Global \nInitiatives for Waste Reduction and Cutting Food Loss.",
+                                "Mukherjee, A. et al. (2019). Pursuit of Research [...]. in Fostering \nMultiple Levels of Engagement in Higher Education Environments.",
+                                "Padmakar, G.S.V. et al. (2019). LearnEasy-Android Application [...]. in \nEmerging Trends in the Diagnosis and Intervention of [...]",
+                                "Setia, D. et al. (2019). Enhancing Tourism [...]. in Positioning and \nBranding Tourism Destinations for Global Competitiveness.")),
+  interests = list("programming" = c(rep("MATLAB", 7), rep("R", 3), rep("C/C++", 5), rep("Lua", 1)),
+                   "research" = c(rep("Biofeedback", 7), rep("Gamification", 7), rep("Healthcare", 3), rep("Signal processing", 3)),
+                   "sports" = c(rep("Running", 7), rep("Basketball", 5), rep("Cycling", 4))
+                   ),
+  year.steps = 1
+)
+```
 
 {% capture notice-text %}
 

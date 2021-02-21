@@ -3,14 +3,11 @@ title: "Kb Rmd test"
 output:
   md_document:
     pandoc_args: ["--wrap=none"]
-    variant: gfm
+    variant: gfm+footnotes
     preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-author: "Kulbhushan"
+knit: (function(inputFile, encoding) {knitr::knit(inputFile, output = paste0('../_posts/',stringr::str_remove_all(inputFile, paste0(here::here(), '|', "/_source/", '|', "\\.Rmd")), '.md')) })
 date: "16/02/2021"
 excerpt: "Here are two tips for having what I think will be an easier blogging experience in R Markdown and Jekyll."
-layout: single
 categories:
   - R Markdown
   - Jekyll
@@ -27,7 +24,7 @@ rmd_filename <- str_remove(knitr::current_input(), "\\.Rmd")
 # Figure URL online = base.url + fig.path
 knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '/') # project root folder
 knitr::opts_chunk$set(
-	fig.path = str_c("assets/images/posts/", rmd_filename, '/'),
+	fig.path = str_c("assets/images/posts/", rmd_filename, "/"),
 	message = FALSE,
 	warning = FALSE,
 	cache.path = "../cache/",
@@ -36,14 +33,16 @@ knitr::opts_chunk$set(
 )
 ```
 
-Some footnote. [^1]
 
-some citation [^2]. 
+---
 
+# Initialization  
+{: .text-center}
 
+  
 
-
-# Initialization
+this is something.  
+{: .notice} 
 
 ```{r echo=TRUE, message=FALSE}
 library(readxl)
@@ -52,6 +51,8 @@ library(dplyr)
 library(tidyr)
 library(gt)
 library(formatR)
+library(extrafont)
+library(xkcd)
 ```
 
 ```{r message=FALSE}
@@ -70,11 +71,8 @@ g + geom_density(aes(fill=factor(cyl)), alpha=0.8) +
          subtitle="City Mileage Grouped by Number of cylinders",
          caption="Source: mpg",
          x="City Mileage",
-         fill="# Cylinders")
+         fill="No. of Cylinders") +
+  theme(text = element_text(size = 16, family = "xkcd"))
 ```
 
-## References
 
-[^1]: This is the foot note at the end.
-
-[^2]: hello 2nd citation

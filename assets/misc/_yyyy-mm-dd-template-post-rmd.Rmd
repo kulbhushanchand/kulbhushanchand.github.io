@@ -1,16 +1,14 @@
 ---
 title: "Title"
+excerpt: "Excerpt"
 output:
   md_document:
     pandoc_args: ["--wrap=none"]
-    variant: gfm
+    variant: gfm+footnotes
     preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {
-  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: "dd/mm/yyyy"
-excerpt: "Excerpt"
-layout: single
-categories:
+knit: (function(inputFile, encoding) {knitr::knit(inputFile, output = paste0('../_posts/',stringr::str_remove_all(inputFile, paste0(here::here(), '|', "/_source/", '|', "\\.Rmd")), '.md')) })
+date: "yyyy/mm/dd"
+categories: 
 ---
 
 ```{r setup, include=FALSE, cache=FALSE}
@@ -22,9 +20,9 @@ rmd_filename <- str_remove(knitr::current_input(), "\\.Rmd")
 
 # Figure path on disk = base.dir + fig.path
 # Figure URL online = base.url + fig.path
-knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '/') # project root folder
+knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '{{ site.url }}{{ site.baseurl }}/') # project root folder
 knitr::opts_chunk$set(
-	fig.path = str_c("assets/images/posts/", rmd_filename, '/'),
+	fig.path = str_c("assets/images/posts/", rmd_filename, "/"),
 	message = FALSE,
 	warning = FALSE,
 	cache.path = "../cache/",
@@ -32,4 +30,7 @@ knitr::opts_chunk$set(
 	dpi = 300
 )
 ```
+
+This is a template for post written in Rmd. The `knitr::knit` is used instead of `rmarkdown::render` to bypass the `pandoc` rendering, because `pandoc` was messing with the liquid markups and changes other formatting during Rmd -> md.
+
 
