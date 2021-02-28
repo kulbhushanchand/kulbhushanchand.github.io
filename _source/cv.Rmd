@@ -76,26 +76,21 @@ This is an online-version of my CV. (Updated *{{ page.last_modified_at | date: "
     {{ notice-text | markdownify }}
 </div>
 
----
 
-###### EDUCATION  
-
+## EDUCATION  
+{: .text-center}
 {% capture notice-text %}
 
-**PhD | Electronics and Communication Engineering** | **2015 - Present**       
+### `2015-Present`, **PhD in Electronics and Communication Engineering**  
 *Dr B R Ambedkar National Institute of Technology, Jalandhar, India*  
 Dissertation: Low cost multimodal biofeedback for mental relaxation    
 Advisor: Prof. Arun Khosla  
 
----
-
-**MTech - Electronics and Communication Engineering** | **2011 - 2013**        
+### `2011-2013`, **MTech in Electronics and Communication Engineering**  
 *Lovely professional University, Phagwara, India*  
 Thesis: A new approach for ECG signal denoising using Adaptive Filtering  
 
----
-
-**BTech - Electronics and Communication Engineering** | **2006 - 2010**    
+### `2006-2010`, **BTech in Electronics and Communication Engineering**  
 *Guru Nanak Dev University, Regional Campus, Jalandhar, India*   
 Graduated with Hons.  
 
@@ -104,100 +99,48 @@ Graduated with Hons.
     {{ notice-text | markdownify }}
 </div>
 
----
-
-###### TEACHING EXPERIENCE
-
+## TEACHING EXPERIENCE
+{: .text-center}
 {% capture notice-text %}
 
-**Teaching Assistant** | **Aug 2015 - Present**  
+### `Aug2015-Jul2020`, **Teaching Assistant**  
 *Department of ECE, Dr B R Ambedkar National Institute of Technology*  
-- Co-created and introduced Gamification, an undergraduate course averaging 120 students per semester. Designed various pedagogy, tools, assignments, and exams.
-- Other courses taught includes Network Analysis and Synthesis, Electronic Devices and Simulation Lab, Basic Electronics Lab.
-
----
-
-**Assistant Professor** | **Aug 2013 - Jun 2015**  
+### `Aug2013-Jun2015`, **Assistant Professor**  
 *Department of ECE, Lovely Professional University*  
-- Courses and labs taught includes Basic Electrical Engineering, Electronic Devices and Circuits, Probability and Stochastic Theory, Signal and Systems, Digital Signal Processing, Adaptive Filter Theory, Basic Electrical lab, Electronic Devices and Circuits lab, Digital Signal Processing lab.
-- Developed quizzes, exams, assignments and homework.
-- Revised the syllabus an instruction plans to meet accreditation standards.
-- Guided undergraduate students for their major project.
-
----
-
-**Teaching Assistant** | **Jan 2012 - Nov 2012**  
-Department of ECE, Lovely Professional University
-- Conducted lab Basic Electronics Lab course for undergraduate students.
-- Evaluated practical, viva-voce, and written exam.
-
----
-
-**Lecturer** | **Dec 2010 - May 2011**  
+### `Jan2012-Nov2012`, **Teaching Assistant**  
 *Department of ECE, Lovely Professional University*  
-- Taught Microcontroller and its Applications course to undergraduate students and conducted Microcontroller and Microprocessor lab.
-- Developed exams, assignments and homework.
-- Guided undergraduate students for their major project.
+### `Dec2010-May2011`, **Lecturer**  
+*Department of ECE, Lovely Professional University*   
 
 {% endcapture %}
 <div class="notice">
     {{ notice-text | markdownify }}
 </div>
 
----
 
-###### PUBLICATIONS
-
+## PUBLICATIONS
+{: .text-center}
 {% capture notice-text %}
 
-**Book Chapters**  
-
-- Jain, B., Khosla, A., **Chand, K.**, & Ahuja, K. (2019). The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions. In Global Initiatives for Waste Reduction and Cutting Food Loss (pp. 243–267). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7706-5.ch013){: .btn .btn--info .btn--small}    
-
-- Mukherjee, A., Goyal, P., Singh, A., Khosla, A. K., Ahuja, K., & **Chand, K.** (2019). Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students. In Fostering Multiple Levels of Engagement in Higher Education Environments (pp. 132–155). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7470-5.ch006){: .btn .btn--info .btn--small}  
-
-- Padmakar, G. S. V., Khosla, A., & **Chand, K**. (2019). LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia. In Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders (pp. 236–248). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7004-2.ch012){: .btn .btn--info .btn--small}  
-
-- Setia, D., Singh, R., Sharma, A., Khosla, A., Ahuja, K., & **Chand, K.** (2019). Enhancing Tourism and Cultural Experience Through Gamification. In Positioning and Branding Tourism Destinations for Global Competitiveness (pp. 152–171). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7253-4.ch007){: .btn .btn--info .btn--small}  
+### **Book Chapters**  
+1. Jain, B., Khosla, A., **Chand, K.**, & Ahuja, K. (2019). The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions. In Global Initiatives for Waste Reduction and Cutting Food Loss (pp. 243–267). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7706-5.ch013){: .btn .btn--info .btn--small}    
+2. Mukherjee, A., Goyal, P., Singh, A., Khosla, A. K., Ahuja, K., & **Chand, K.** (2019). Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students. In Fostering Multiple Levels of Engagement in Higher Education Environments (pp. 132–155). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7470-5.ch006){: .btn .btn--info .btn--small}  
+3. Padmakar, G. S. V., Khosla, A., & **Chand, K**. (2019). LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia. In Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders (pp. 236–248). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7004-2.ch012){: .btn .btn--info .btn--small}  
+4. Setia, D., Singh, R., Sharma, A., Khosla, A., Ahuja, K., & **Chand, K.** (2019). Enhancing Tourism and Cultural Experience Through Gamification. In Positioning and Branding Tourism Destinations for Global Competitiveness (pp. 152–171). IGI Global. [DOI](https://doi.org/10.4018/978-1-5225-7253-4.ch007){: .btn .btn--info .btn--small}  
 
 {% endcapture %}
 <div class="notice">
     {{ notice-text | markdownify }}
 </div>
 
----
-
-###### HONORS AND AWARDS
-
+## TALKS  
+{: .text-center}
 {% capture notice-text %}
 
-**University Topper (MTech)** | **2013**  
-.
-
----
-
-**Honors Roll (BTech)** | **2010**  
-.
-  
-{% endcapture %}
-<div class="notice">
-    {{ notice-text | markdownify }}
-</div>
-
----
-
-###### TALKS  
-
-{% capture notice-text %}
-
-**Invited Talks**  
-
-- Octalysis | Nov 2020  [Online](https://www.youtube.com/watch?t=5592&v=QlXb7kStWFk&feature=youtu.be){: .btn .btn--info .btn--small}  
-*AICTE ATAL Sponsored Online Faculty Development Program on Gamification*  
-*Dr B R Ambedkar National Institute of Technology, Jalandhar*  
-
-- Arduino and Open-Source Technologies | Jun 2019   
-*One day workshop*  
+### **Invited Talks**  
+1. `Nov2020`, Octalysis, AICTE ATAL Sponsored Online Faculty Development Program on Gamification    
+*Dr B R Ambedkar National Institute of Technology, Jalandhar* [Online](https://www.youtube.com/watch?t=5592&v=QlXb7kStWFk&feature=youtu.be){: .btn .btn--info .btn--small}  
+2. `Jun2019`, Arduino and Open-Source Technologies, One day workshop  
 *DAVIET, Jalandhar*  
 
 {% endcapture %}
@@ -205,83 +148,40 @@ Department of ECE, Lovely Professional University
     {{ notice-text | markdownify }}
 </div>
 
-<!--
----
-###### UNIVERSITY SERVICE
 
-Invited Talks
--->
-
----
-
-##### PROFESSIONAL DEVELOPMENT
-
+## PROFESSIONAL DEVELOPMENT
+{: .text-center}
 {% capture notice-text %}
 
-**Short Term Courses**  
+### **Short Term Courses**  
+1. `Sep2020`, The Education Factory, *Dr B R Ambedkar National Institute of Technology*  
+2. `Sep2020`, Machine Learning Using Python, *Dr B R Ambedkar National Institute of Technology*  
+3. `Sep2020`, Computational Cardiac Engineering - Predictive Modelling and Innovative Sensing Systems, *Rajasthan Technical University*   
+4. `Sep2020`, Autism and Assisted Technologies (Gian Course), *Dr B R Ambedkar National Institute of Technology*   
+5. `Dec2016`, Brain Science & Technology: Tools and Techniques to understand the Human Brain, *Indian Institute of Technology Delhi*  
+6. `Jun2016`, Biology for Engineers, *Indian Institute of Technology Bombay*  
 
-- Biology for Engineers | Jun 2016  
-*Indian Institute of Technology Bombay*  
+### **Certifications**  
+1. `Dec2017`, The Octalysis Framework - Level 1, *The Octalysis Group* [Cert.](https://drive.google.com/file/d/10aeVvoC4YjFz4byAYW37hapzrv3Y9Kcs/view)   
 
-- Brain Science & Technology: Tools and Techniques to understand the Human Brain | Dec 2016  
-*Indian Institute of Technology Delhi*  
-
-- Autism and Assisted Technologies (Gian Course) | Sep 2020  
-*Dr B R Ambedkar National Institute of Technology*  
-
-- Computational Cardiac Engineering - Predictive Modelling and Innovative Sensing Systems | Sep 2020  
-*Rajasthan Technical University*  
-
-- Machine Learning Using Python | Sep 2020  
-*Dr B R Ambedkar National Institute of Technology*  
-
-- The Education Factory | Sep 2020  
-*Dr B R Ambedkar National Institute of Technology*  
-
----
-
-**Certifications**  
-
-- The Octalysis Framework - Level 1 | Dec 2017 [Cert.](https://drive.google.com/file/d/10aeVvoC4YjFz4byAYW37hapzrv3Y9Kcs/view)   
-*The Octalysis Group*  
-
----
-
-**MOOC Courses (with certificates)**  
-
-- Statistics in Medicine | Mar 2020 [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/9d1d1b8262f443afac764d36f33943bf/Statement.pdf)       
-*Stanford University*    
-
-- Computer Science 101 | Mar 2020 [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/d18501c4030641818d4ed078667120ad/Statement.pdf)  
-*Stanford University*  
-
-- Introduction to CAD: Learn Fusion 360 in 90 minutes | Sep 2019 [SoA](https://adsk-designacademy-content-live.s3.amazonaws.com/s3fs-public/user_certificates/1125118_129267_certificate.pdf)      
-*Autodesk*  
-
-- Vital Signs: Understanding What the Body Is Telling Us | May 2018 [SoA](https://www.coursera.org/account/accomplishments/verify/HCE8K3UCQMJ6)     
-*University of Pennsylvania*  
-
-- Advanced MATLAB for Scientific Computing | Dec 2017 [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d6dc4176b5b4524b715ab2809e028f9/Statement.pdf)   
-*Stanford University*   
-
-- Introduction to Game Development | Mar 2017 [SoA](https://www.coursera.org/account/accomplishments/verify/G38XY89X737L)   
-*Michigan State University*  
-
-- Calculus One | May 2013 [SoA](https://drive.google.com/file/d/13XanEQo1CNxqNZl5S2KlWJxc9lHIyuG8/view)   
-*The Ohio State University*  
-
-- Image and video processing | Mar 2013 [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)   
-*Duke University*  
+### **MOOC Courses (with certificates)**  
+1. `Mar2020`, Statistics in Medicine, *Stanford University* [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/9d1d1b8262f443afac764d36f33943bf/Statement.pdf)       
+2. `Mar2020`, Computer Science 101, *Stanford University* [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/d18501c4030641818d4ed078667120ad/Statement.pdf)  
+3. `Sep2019`, Introduction to CAD: Learn Fusion 360 in 90 minutes, *Autodesk* [SoA](https://adsk-designacademy-content-live.s3.amazonaws.com/s3fs-public/user_certificates/1125118_129267_certificate.pdf)   
+4. `May2018`, Vital Signs: Understanding What the Body Is Telling Us, *University of Pennsylvania* [SoA](https://www.coursera.org/account/accomplishments/verify/HCE8K3UCQMJ6)  
+5. `Dec2017`, Advanced MATLAB for Scientific Computing, *Stanford University* [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d6dc4176b5b4524b715ab2809e028f9/Statement.pdf)  
+6. `Mar2017`, Introduction to Game Development, *Michigan State University* [SoA](https://www.coursera.org/account/accomplishments/verify/G38XY89X737L)  
+7. `May 2013`, Calculus One, *The Ohio State University* [SoA](https://drive.google.com/file/d/13XanEQo1CNxqNZl5S2KlWJxc9lHIyuG8/view)  
+8. `Mar 2013`, Image and video processing, *Duke University* [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)  
 
 {% endcapture %}
 <div class="notice">
     {{ notice-text | markdownify }}
 </div>
 
----
 
-###### SKILLS
-
+## TECHNICAL SKILLS
+{: .text-center}
 {% capture notice-text %}
 
 **Programming:** Assembly, C, C++, R, Lua, MATLAB  
@@ -293,10 +193,9 @@ Invited Talks
     {{ notice-text | markdownify }}
 </div>
 
----
 
-###### LANGUAGES
-
+## LANGUAGES
+{: .text-center}
 {% capture notice-text %}
 
 **English:** Advanced  
@@ -308,10 +207,9 @@ Invited Talks
     {{ notice-text | markdownify }}
 </div>
 
----
 
-###### PERSONAL
-
+## PERSONAL
+{: .text-center}
 {% capture notice-text %}
 
 **Birth year:** 1988  
