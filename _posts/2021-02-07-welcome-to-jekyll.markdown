@@ -3,6 +3,7 @@ layout: single
 title: "Welcome to Jekyll! kb "
 date: "07/02/2021"
 categories: jekyll update
+tags: tag1 tag2
 ---
 
 
