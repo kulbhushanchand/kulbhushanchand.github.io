@@ -1,0 +1,93 @@
+---
+permalink: /about/
+title: "About Me"
+excerpt: "About me"
+output:
+  md_document:
+    pandoc_args: ["--wrap=none"]
+    variant: gfm-smart
+    preserve_yaml: TRUE
+knit: (function(inputFile, encoding) {knitr::knit(inputFile, output = paste0('../',stringr::str_remove_all(inputFile, paste0(here::here(), '|', "/_source/", '|', "\\.Rmd")), '.md')) })
+date: "2021/03/06"
+last_modified_at: "2021/03/06"
+layout: single
+classes: wide
+author_profile: true
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+library(knitr)
+library(stringr)
+library(here)
+# get name of file during knitting and strip file extension
+rmd_filename <- str_remove(knitr::current_input(), "\\.Rmd")
+
+# Figure path on disk = base.dir + fig.path
+# Figure URL online = base.url + fig.path
+knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '{{ site.url }}{{ site.baseurl }}/') # project root folder
+knitr::opts_chunk$set(
+	fig.path = str_c("assets/images/pages/", rmd_filename, '/'),
+	message = FALSE,
+	warning = FALSE,
+	cache.path = "../cache/",
+	dev = "svg",
+	dpi = 300
+)
+```
+
+<!-- ![kulbhushanchand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/kulbhushanchand.jpg){: .align-center} -->
+
+```{r echo=FALSE, fig.height=8, fig.width=14, message=FALSE, warning=FALSE}
+VisualResume::VisualResume(
+  titles.left = c("Kulbhushan Chand", "Electronics, Biofeedback, Games","*Built with love in R using VisualResume package"),
+  titles.right = c("kulbhushanchand.github.io", "kulbhushan.chand@gmail.com",""),
+  titles.right.cex = c(2, 2, 1),
+  titles.left.cex = c(4, 2, 2),
+  timeline.labels = c("Education", "Teaching"),
+  timeline = data.frame(title = c("GNDU", "LPU", "NITJ", "LPU", "LPU", "LPU", "NITJ"),
+                        sub = c("BTech Student", "MTech Student", "PhD Student", "Lecturer", "Teaching Assistant", "Assistant Prof.", "Teaching Assistant"),
+                        start = c(2006.6, 2011.6, 2015.6, 2010.9, 2012.1, 2013.6, 2015.6),
+                        end = c(2010.4, 2013.4, 2021.9, 2011.4, 2012.9, 2015.4, 2020.6),
+                        side = c(1, 1, 1, 0, 0, 0, 0)),
+  timeline.cex = c(1.8, 1.2),
+  milestones = data.frame(title = c("BTech", "MTech", "PhD (Persuing)"),
+                          sub = c("ECE", "ECE", "ECE"),
+                          year = c(2010, 2013, 2021)),
+  events = data.frame(year = c(2019.99, 2019.66, 2019.33, 2019.01),
+                      title = c("Jain, B. et al. (2019). The Pursuit of Zero Food Waste [...]. in Global \nInitiatives for Waste Reduction and Cutting Food Loss.",
+                                "Mukherjee, A. et al. (2019). Pursuit of Research [...]. in Fostering \nMultiple Levels of Engagement in Higher Education Environments.",
+                                "Padmakar, G.S.V. et al. (2019). LearnEasy-Android Application [...]. in \nEmerging Trends in the Diagnosis and Intervention of [...]",
+                                "Setia, D. et al. (2019). Enhancing Tourism [...]. in Positioning and \nBranding Tourism Destinations for Global Competitiveness.")),
+  interests = list("programming" = c(rep("MATLAB", 7), rep("R", 3), rep("C/C++", 5), rep("Lua", 1)),
+                   "research" = c(rep("Biofeedback", 6), rep("Gamification", 6), rep("Healthcare", 3)),
+                   "sports" = c(rep("Running", 7), rep("Basketball", 5), rep("Cycling", 4))
+                   ),
+  year.steps = 1
+)
+```
+
+## Education
+
+My educational background is in **Electronics and Communication Engineering**. I received the B.Tech. degree in electronics and communication engineering from the [Guru Nanak Dev University](http://www.gndu.ac.in/) and the M.Tech. degree in electronics and communication engineering from the [Lovely Professional University](https://www.lpu.in/). At present, I'm working towards the Ph.D. degree in electronics and communication engineering with Prof. Arun Khosla at the [Dr B R Ambedkar National Institute of Technology](https://www.nitj.ac.in/). 
+
+## Research Philosophy
+
+My research interests include biofeedback, embedded systems, wearable physiological sensors and computing, healthcare, and gamification. I am passionate about open science and reproducible research and use Open Source Technologies for most of my projects.
+
+## Teaching Philosophy
+
+I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications`, `Digital signal processing`, `Probability and stochastic theory`. I've TA'ed `Gamification` and `Electronics devices and digital electronics Lab` course.
+
+## CV
+
+- CV: [Download CV as PDF (Updated March, 2021)]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf)
+
+## Contact
+
+You can reach me via:  
+**Email:** ```kulbhushan dot chand at gmail dot com```  
+**PGP key ID:** ```065AFAF6``` and [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
+
+
+
+
