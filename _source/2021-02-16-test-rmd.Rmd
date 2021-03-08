@@ -1,5 +1,6 @@
 ---
 title: "Kb Rmd test"
+always_allow_html: yes
 output:
   md_document:
     pandoc_args: ["--wrap=none"]
@@ -29,7 +30,8 @@ knitr::opts_chunk$set(
 	warning = FALSE,
 	cache.path = "../cache/",
 	dev = "svg",
-	dpi = 300
+	dpi = 300,
+	screenshot.force = FALSE
 )
 ```
 
@@ -74,5 +76,7 @@ g + geom_density(aes(fill=factor(cyl)), alpha=0.8) +
          fill="No. of Cylinders") +
   theme(text = element_text(size = 16, family = "xkcd"))
 ```
+
+
 
 

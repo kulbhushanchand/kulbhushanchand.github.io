@@ -1,0 +1,142 @@
+---
+title: "Html widgets test"
+excerpt: "Excerpt"
+output:
+  md_document:
+    pandoc_args: ["--wrap=none"]
+    variant: gfm+footnotes
+    preserve_yaml: TRUE
+knit: (function(inputFile, encoding) {
+  knitr::knit(inputFile, output = paste0('../_posts/',stringr::str_remove_all(inputFile, paste0(here::here(), '|', "/_source/", '|', "\\.Rmd")), '.md'));
+  l = knitr::knit_meta();
+  dep_dir = stringr::str_c(here::here(),'/assets/htmlwidgets_deps');
+  base_path = stringr::str_c(here::here(),'/');
+  includes_dir = "_includes/htmlwidgets/";
+  hrefFilter = function(x) {paste0("/", x)};
+  if (length(l) > 0) {dir.create(dep_dir, showWarnings = FALSE, recursive = TRUE)};
+  l <- lapply(unique(l), function(dep) {
+      dep <- htmltools::copyDependencyToDir(dep, dep_dir, FALSE);
+      dep <- htmltools::makeDependencyRelative(dep, base_path, FALSE);
+      dep } );
+  l <- htmltools::renderDependencies(l,  hrefFilter=hrefFilter);
+  render_markdown();
+  prev_doc_hook <- knitr::knit_hooks$get("document");
+  knitr::knit_hooks$set(document = function(x) {prev_doc_hook(append(x, l))});
+  knitr::knit(inputFile, output = paste0('../_posts/',stringr::str_remove_all(inputFile, paste0(here::here(), '|', "/_source/", '|', "\\.Rmd")), '.md'))
+  })
+date: "2021/03/07"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+library(knitr)
+library(stringr)
+library(here)
+# get name of file during knitting and strip file extension
+rmd_filename <- str_remove(knitr::current_input(), "\\.Rmd")
+
+# Figure path on disk = base.dir + fig.path
+# Figure URL online = base.url + fig.path
+knitr::opts_knit$set(base.dir = str_c(here::here(),'/'), base.url= '{{ site.url }}{{ site.baseurl }}/') # project root folder
+knitr::opts_chunk$set(
+	fig.path = str_c("assets/images/posts/", rmd_filename, "/"),
+	message = FALSE,
+	warning = FALSE,
+	cache.path = "../cache/",
+	dev = "svg",
+	dpi = 300,
+	screenshot.force = FALSE,
+	out.width = "100%",
+  fig.height=1.5
+)
+```
+
+This is a template for post written in Rmd. The `knitr::knit` is used instead of `rmarkdown::render` to bypass the `pandoc` rendering, because `pandoc` was messing with the liquid markups and changes other formatting during Rmd -> md.
+
+
+
+```{r }
+library(leaflet)
+
+m <- leaflet(width="100%", options = leafletOptions(attributionControl = FALSE)) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+m  # Print the map
+```
+
+
+
+```{r }
+library(ggplot2)
+library(plotly)
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+            geom_bar(position = "dodge")
+ggplotly(p)
+```
+
+
+```{r}
+library(dygraphs)
+dygraph(nhtemp, main = "New Haven Temperatures") %>% 
+  dyRangeSelector(dateWindow = c("1920-01-01", "1960-01-01"))
+```
+
+```{r}
+library(metricsgraphics)
+
+plots <- lapply(1:4, function(x) {
+  mjs_plot(rbeta(1000, x, x), width = 300, height = 300, linked = TRUE) %>%
+    mjs_histogram(bar_margin = 2) %>%
+    mjs_labs(x_label = sprintf("Plot %d", x))
+})
+
+mjs_grid(plots)
+```
+
+```{r}
+library(threejs)
+library(maps)
+## 
+##  # ATTENTION: maps v3.0 has an updated 'world' map.        #
+##  # Many country borders and names have changed since 1990. #
+##  # Type '?world' or 'news(package="maps")'. See README_v3. #
+data(world.cities, package = "maps")
+cities <- world.cities[order(world.cities$pop,decreasing = TRUE)[1:1000],]
+value  <- 100 * cities$pop / max(cities$pop)
+
+# Set up a data color map and plot
+col <- rainbow(10, start = 2.8 / 6, end = 3.4 / 6)
+col <- col[floor(length(col) * (100 - value) / 100) + 1]
+globejs(lat = cities$lat, long = cities$long, value = value, color = col,
+        atmosphere = TRUE)
+```
+
+```{r}
+library(formattable)
+
+df <- data.frame(
+  id = 1:10,
+  name = c("Bob", "Ashley", "James", "David", "Jenny", 
+    "Hans", "Leo", "John", "Emily", "Lee"), 
+  age = c(28, 27, 30, 28, 29, 29, 27, 27, 31, 30),
+  grade = c("C", "A", "A", "C", "B", "B", "B", "A", "C", "C"),
+  test1_score = c(8.9, 9.5, 9.6, 8.9, 9.1, 9.3, 9.3, 9.9, 8.5, 8.6),
+  test2_score = c(9.1, 9.1, 9.2, 9.1, 8.9, 8.5, 9.2, 9.3, 9.1, 8.8),
+  final_score = c(9, 9.3, 9.4, 9, 9, 8.9, 9.25, 9.6, 8.8, 8.7),
+  registered = c(TRUE, FALSE, TRUE, FALSE, TRUE, TRUE, TRUE, FALSE, FALSE, FALSE),
+  stringsAsFactors = FALSE)
+
+formattable(df, list(
+  age = color_tile("white", "orange"),
+  grade = formatter("span", style = x ~ ifelse(x == "A", 
+    style(color = "green", font.weight = "bold"), NA)),
+  area(col = c(test1_score, test2_score)) ~ normalize_bar("pink", 0.2),
+  final_score = formatter("span",
+    style = x ~ style(color = ifelse(rank(-x) <= 3, "green", "gray")),
+    x ~ sprintf("%.2f (rank: %02d)", x, rank(-x))),
+  registered = formatter("span",
+    style = x ~ style(color = ifelse(x, "green", "red")),
+    x ~ icontext(ifelse(x, "ok", "remove"), ifelse(x, "Yes", "No")))
+))
+```
+
+
