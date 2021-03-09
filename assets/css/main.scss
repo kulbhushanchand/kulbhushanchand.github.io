@@ -7,6 +7,26 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+p.caption {
+    margin-bottom: 0.5em;
+    color: #646769;
+    font-family: Georgia,Times,serif;
+    font-size: .75em;
+}
+
+.page__content a:not(.btn) {
+ 
+    text-decoration: none;
+    border-bottom: 2px solid #ef8b80;
+    box-shadow: inset 0 -4px 0 #ef8b80;
+    color: inherit;
+    transition: background 0.1s cubic-bezier(.33,.66,.66,1);
+    
+    &:hover {
+        background: #ef8b80;
+        text-decoration: none;
+      }
+}
 
 /*
 @import "custom";
