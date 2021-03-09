@@ -33,7 +33,6 @@ This is a template for post written in Rmd. The `knitr::knit` is used instead of
 
 
 
-
 ```r
 library(leaflet)
 
