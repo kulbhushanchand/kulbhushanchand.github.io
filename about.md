@@ -23,15 +23,15 @@ author_profile: true
 
 ## Education
 
-My educational background is in **Electronics and Communication Engineering**. I received the B.Tech. degree in electronics and communication engineering from the [Guru Nanak Dev University](http://www.gndu.ac.in/) and the M.Tech. degree in electronics and communication engineering from the [Lovely Professional University](https://www.lpu.in/). At present, I'm working towards the Ph.D. degree in electronics and communication engineering with Prof. Arun Khosla at the [Dr B R Ambedkar National Institute of Technology](https://www.nitj.ac.in/). 
+My educational background is in **Electronics and Communication Engineering (ECE)**. I received the B.Tech. degree in ECE from the [Guru Nanak Dev University](http://www.gndu.ac.in/) and the M.Tech. degree in ECE from the [Lovely Professional University](https://www.lpu.in/). At present, I'm working towards the Ph.D. degree in ECE under Prof. Arun Khosla at the [Dr B R Ambedkar National Institute of Technology](https://www.nitj.ac.in/). 
 
 ## Research Philosophy
 
-My research interests include biofeedback, embedded systems, wearable physiological sensors and computing, healthcare, and gamification. I am passionate about open science and reproducible research and use Open Source Technologies for most of my projects.
+My research interests include design of `biofeedback systems`, `wearable physiological sensors`, `using video games for biofeedback`, and `gamification`. I am passionate about open science and reproducible research and use `Open Source Technologies` for most of my projects.
 
 ## Teaching Philosophy
 
-I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications`, `Digital signal processing`, `Probability and stochastic theory`. I've TA'ed `Gamification` and `Electronics devices and digital electronics Lab` course.
+I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications`, `Digital signal processing`, `Probability and stochastic theory`, and `Adaptive filter theory`. I've TA'ed `Gamification` and `Electronics devices and digital electronics lab`, and `Simulation lab` course.
 
 ## CV
 
@@ -42,7 +42,6 @@ I have taught undergraduate and postgraduate engineering courses like `Microcont
 You can reach me via:  
 **Email:** ```kulbhushan dot chand at gmail dot com```  
 **PGP key ID:** ```065AFAF6``` and [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
-
 
 
 

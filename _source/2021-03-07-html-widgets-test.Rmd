@@ -54,23 +54,9 @@ This is a template for post written in Rmd. The `knitr::knit` is used instead of
 
 
 
-```{r }
-library(leaflet)
-
-m <- leaflet(width="100%", options = leafletOptions(attributionControl = FALSE)) %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
-m  # Print the map
-```
-
-
-
-```{r }
-library(ggplot2)
-library(plotly)
-p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
-            geom_bar(position = "dodge")
-ggplotly(p)
+```{r}
+library(DT)
+datatable(iris)
 ```
 
 
