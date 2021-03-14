@@ -1,6 +1,5 @@
 ---
 title: "Kb Rmd test"
-always_allow_html: yes
 output:
   md_document:
     pandoc_args: ["--wrap=none"]
@@ -26,7 +25,7 @@ knit: (function(inputFile, encoding) {
   })
 date: "16/02/2021"
 excerpt: "Here are two tips for having what I think will be an easier blogging experience in R Markdown and Jekyll."
-categories:
+tags:
   - R Markdown
   - Jekyll
 ---
@@ -47,8 +46,12 @@ knitr::opts_chunk$set(
 	warning = FALSE,
 	cache.path = "../cache/",
 	dev = "svg",
-	dpi = 300,
-	screenshot.force = FALSE
+	dpi = 72,
+	screenshot.force = FALSE,
+#	out.width = "100%",
+  fig.height = 4,
+	fig.cap = "",
+  fig.align = "center"
 )
 ```
 
@@ -58,12 +61,8 @@ knitr::opts_chunk$set(
 # Initialization  
 {: .text-center}
 
-  
 
-this is something.  
-{: .notice} 
-
-```{r echo=TRUE, message=FALSE}
+```{r echo=FALSE, message=FALSE}
 library(readxl)
 library(ggplot2)
 library(dplyr)
@@ -74,7 +73,7 @@ library(extrafont)
 library(xkcd)
 ```
 
-```{r message=FALSE}
+```{r echo=FALSE, message=FALSE}
 #font_import()
 #loadfonts(device = "win")
 windowsFonts(Times = windowsFont("TT Times New Roman"))
@@ -95,5 +94,23 @@ g + geom_density(aes(fill=factor(cyl)), alpha=0.8) +
 ```
 
 
+```{r fig.cap = "A map"}
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+m  # Print the map
+```
+
+
+```{r}
+library(tidyverse)
+mpg %>%
+  ggplot( aes(x=reorder(class, hwy), y=hwy, fill=class)) + 
+    geom_boxplot() +
+    xlab("class") +
+    theme(legend.position="none")
+```
 
 

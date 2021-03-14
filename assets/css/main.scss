@@ -7,18 +7,14 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-p.caption {
-    margin-bottom: 0.5em;
-    color: #646769;
-    font-family: Georgia,Times,serif;
-    font-size: .75em;
-}
+
+@import "custom";
+
+
 
 
 
 /*
-@import "custom";
-
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
     font-size: 12px; // originally 16px
