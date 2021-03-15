@@ -1,4 +1,4 @@
-
+// Custom CSS entries
 .csl-entry {
     display: list-item;
   }
@@ -8,10 +8,50 @@
     margin-bottom: 0.5em;
 }
 
-
+// Overrides to theme CSS
 p.caption {
-  margin-bottom: 1.5em;
-  color: #646769;
-  font-family: Georgia,Times,serif;
-  font-size: .75em;
+  margin-bottom: 0.5em;
+  color: $muted-text-color;
+  font-family: $caption-font-family;
+  font-size: $type-size-6;
+
+  a {
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
 }
+
+.sidebar img {
+  max-width: 150px;
+  border-radius: 0%;
+  
+  @include breakpoint($large) {
+    padding: 0px;
+    border: 0px solid $border-color;
+  }
+}
+
+
+/*
+// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+html {
+    font-size: 12px; // originally 16px
+    
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
+}
+
+*/

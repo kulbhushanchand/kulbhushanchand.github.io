@@ -79,6 +79,8 @@ library(xkcd)
 windowsFonts(Times = windowsFont("TT Times New Roman"))
 ```
 
+## ggplot
+
 ```{r}
 theme_set(theme_classic())
 
@@ -93,6 +95,7 @@ g + geom_density(aes(fill=factor(cyl)), alpha=0.8) +
   theme(text = element_text(size = 16, family = "xkcd"))
 ```
 
+## leaflet
 
 ```{r fig.cap = "A map"}
 library(leaflet)
@@ -104,13 +107,11 @@ m  # Print the map
 ```
 
 
+## dt
+
 ```{r}
-library(tidyverse)
-mpg %>%
-  ggplot( aes(x=reorder(class, hwy), y=hwy, fill=class)) + 
-    geom_boxplot() +
-    xlab("class") +
-    theme(legend.position="none")
+library(DT)
+datatable(iris)
 ```
 
 
