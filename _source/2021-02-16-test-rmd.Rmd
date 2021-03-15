@@ -49,7 +49,9 @@ knitr::opts_chunk$set(
 	dpi = 72,
 	screenshot.force = FALSE,
 #	out.width = "100%",
-  fig.height = 4,
+#  fig.height = 4,
+  fig.width = 8,
+  fig.asp = 0.75,
 	fig.cap = "",
   fig.align = "center"
 )
@@ -109,9 +111,19 @@ m  # Print the map
 
 ## dt
 
-```{r}
+```{r }
 library(DT)
-datatable(iris)
+datatable(iris, options = list(pageLength = 5))
+```
+
+## plotly
+
+```{r}
+library(plotly)
+d <- diamonds[sample(nrow(diamonds), 500), ]
+plot_ly(d, x = d$carat, y = d$price, 
+        text = paste("Clarity: ", d$clarity),
+        mode = "markers", color = d$carat, size = d$carat)
 ```
 
 

@@ -36,6 +36,26 @@ p.caption {
 }
 
 
+.dataTables_length {
+  label {
+  display: inline-flex;
+  }
+
+  select {
+    background-color: $lighter-gray;
+  }
+}
+
+.dataTables_filter {
+  label {
+    display: inline-flex;
+    }
+  input[type="search"] {
+    background-color: $lighter-gray;
+    }
+}
+
+
 /*
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
