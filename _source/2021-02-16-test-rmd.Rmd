@@ -95,21 +95,8 @@ m  # Print the map
 ```
 
 
-## dt
 
-```{r }
-library(DT)
-datatable(iris, options = list(pageLength = 5))
+```{r}
+knitr::kable(head(iris, 15))
 ```
-
-## plotly
-
-```{r out.width = "100%"}
-library(plotly)
-d <- diamonds[sample(nrow(diamonds), 500), ]
-plot_ly(d, x = d$carat, y = d$price, 
-        text = paste("Clarity: ", d$clarity),
-        mode = "markers", color = d$carat, size = d$carat)
-```
-
 

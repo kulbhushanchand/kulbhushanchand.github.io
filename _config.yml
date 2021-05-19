@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Kulbhushan Chand"
-  avatar           : "/assets/images/pages/kulbhushanchand.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pages/kulbhushanchand-mod.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "India"
   email            :
@@ -302,5 +302,5 @@ defaults:
       related: true
       show_date: true
 
-head_scripts:
-  - /assets/js/main.min.js
+#head_scripts:
+#  - /assets/js/main.min.js
