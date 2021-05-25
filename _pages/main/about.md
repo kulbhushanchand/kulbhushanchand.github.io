@@ -39,9 +39,17 @@ I have taught undergraduate and postgraduate engineering courses like `Microcont
 
 ## Contact
 
-You can reach me via:  
-**Email:** ```kulbhushan dot chand at gmail dot com```  
-**PGP key ID:** ```065AFAF6``` and [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
+**Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble</a></font>  
+**PGP key ID:** 065AFAF6 & [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
 
+
+
+<script src="/assets/js/others/scramble.js"></script>
+
+<script>
+		emailScramble = new scrambledString(document.getElementById('email'),
+		    'emailScramble', 'no.n@ashmbguahclc.iakldmuh',
+		    [10,25,11,15,17,9,7,5,19,4,18,2,14,8,12,3,24,23,21,20,1,22,16,26,6,13]);
+</script>
 
 
