@@ -19,19 +19,18 @@ author_profile: true
 
 <!-- ![kulbhushanchand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/kulbhushanchand.jpg){: .align-center} -->
 
-![plot of chunk unnamed-chunk-1]({{ site.url }}{{ site.baseurl }}/assets/images/pages/about/unnamed-chunk-1-1.svg)
+<!-- ![plot of chunk unnamed-chunk-1]({{ site.url }}{{ site.baseurl }}/assets/images/pages/about/unnamed-chunk-1-1.svg) -->
 
-## Education
+### Hi there 👋
+---
 
-My educational background is in **Electronics and Communication Engineering (ECE)**. I received the B.Tech. degree in ECE from the [Guru Nanak Dev University](http://www.gndu.ac.in/) and the M.Tech. degree in ECE from the [Lovely Professional University](https://www.lpu.in/). At present, I'm working towards the Ph.D. degree in ECE under Prof. Arun Khosla at the [Dr B R Ambedkar National Institute of Technology](https://www.nitj.ac.in/). 
+I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. 
 
-## Research Philosophy
+My research interests lie in the `design of biofeedback systems, using video games for biofeedback, wearable physiological sensors, and gamification`. I am passionate about open science and reproducible research.
 
-My research interests include design of `biofeedback systems`, `wearable physiological sensors`, `using video games for biofeedback`, and `gamification`. I am passionate about open science and reproducible research and use `Open Source Technologies` for most of my projects.
+I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications, Digital signal processing, Probability and stochastic theory, and Adaptive filter theory`. I've TA'ed `Gamification and Electronics devices and digital electronics lab, and Simulation` lab course.
 
-## Teaching Philosophy
-
-I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications`, `Digital signal processing`, `Probability and stochastic theory`, and `Adaptive filter theory`. I've TA'ed `Gamification` and `Electronics devices and digital electronics lab`, and `Simulation lab` course.
+I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
 ## CV
 
@@ -39,8 +38,26 @@ I have taught undergraduate and postgraduate engineering courses like `Microcont
 
 ## Contact
 
-**Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble</a></font>  
+**Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a class="btn" href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble</a></font>  
 **PGP key ID:** 065AFAF6 & [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
+
+[kbcd](){btn}
+
+## Online profiles
+
+- <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: [kulbhushanchand](https://github.com/kulbhushanchand)
+- <i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i> LinkedIn: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
+- <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar: [s9_oY5MAAAAJ&hl](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)
+- <i class="fas fa-fw fa-cog" aria-hidden="true"></i> OSF: [wxqdj](https://osf.io/wxqdj)
+- <i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID: [0000-0001-6502-0748](https://orcid.org/0000-0001-6502-0748)
+- <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
+
+
+---
+> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
+
+[*The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) --- Movie, 2006
+{: .small}
 
 
 
