@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Curriculum vitae"
 excerpt: "Kulbhushan Chand's CV"
 date: "2021/05/26"
-last_modified_at: "2021/05/26"
+last_modified_at: 2021-05-26 17:07:38 +05:30
 layout: single
 classes: wide
 author_profile: true
@@ -11,7 +11,7 @@ author_profile: true
 ---
 
 This is an online-version of my CV. `Updated {{ page.last_modified_at | date: "%B %-d, %Y" }}`    
-[Download CV as PDF]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf) `Updated March, 2021`
+[Download CV as PDF]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf) `Updated {{ "2021-05-26 17:07:31 +05:30" | date: "%B %-d, %Y"}}`
 
 
 {% capture notice-text %}
@@ -76,6 +76,12 @@ See my [Google Scholar page](https://scholar.google.co.in/citations?user=s9_oY5M
 8. Mar 2013`, Image and video processing, Duke University [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)  
 
 
+## COMMUNITY OUTREACH
+{: .text-center}
+
+- Nov2017, Arduino workshop for kids, Jalandhar [🔗](https://www.tribuneindia.com/news/archive/jalandhar/young-minds-dwell-on-e-concepts-496919)
+
+
 ## TECHNICAL SKILLS
 {: .text-center}
 
@@ -99,7 +105,7 @@ I support open source software, and below is a list of open source projects that
 <br>
 - **Research projects**
 
-See my [OSF page](https://osf.io/wxqdj) for a full list of open source research projects that I'm involved with. (At of now the projects are private and will be made public after the publication)
+See my [OSF page](https://osf.io/wxqdj) for a full list of open source research projects that I'm involved with. (As of now the projects are private and will be made public after the publication)
 
 
 ## LANGUAGES
