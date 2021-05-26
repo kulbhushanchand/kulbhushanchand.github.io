@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 excerpt: "About me"
 date: "2021/03/06"
-last_modified_at: "2021/03/06"
+last_modified_at: 2021-05-26 16:43:01 +05:30
 layout: single
 classes: wide
 author_profile: true
@@ -12,7 +12,6 @@ author_profile: true
 <!-- ![kulbhushanchand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/kulbhushanchand.jpg){: .align-center} -->
 
 <!-- ![plot of chunk unnamed-chunk-1]({{ site.url }}{{ site.baseurl }}/assets/images/pages/about/unnamed-chunk-1-1.svg) -->
-
 
 ### Hi there 👋
 ---
@@ -24,11 +23,6 @@ My research interests lie in the `design of biofeedback systems, using video gam
 I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications, Digital signal processing, Probability and stochastic theory, and Adaptive filter theory`. I've TA'ed `Gamification and Electronics devices and digital electronics lab, and Simulation` lab course.
 
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
-
-
-## CV
-
-- CV: [Download CV as PDF (Updated March, 2021)]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf)
 
 
 ## Contact
