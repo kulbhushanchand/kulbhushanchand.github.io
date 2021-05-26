@@ -2,12 +2,6 @@
 permalink: /about/
 title: "About Me"
 excerpt: "About me"
-output:
-  md_document:
-    pandoc_args: ["--wrap=none"]
-    variant: gfm-smart
-    preserve_yaml: TRUE
-knit: (function(inputFile, encoding) {knitr::knit(inputFile, output = paste0('../',stringr::str_remove_all(inputFile, paste0(here::here(), '|', "/_source/", '|', "\\.Rmd")), '.md')) })
 date: "2021/03/06"
 last_modified_at: "2021/03/06"
 layout: single
@@ -15,11 +9,10 @@ classes: wide
 author_profile: true
 ---
 
-
-
 <!-- ![kulbhushanchand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/kulbhushanchand.jpg){: .align-center} -->
 
 <!-- ![plot of chunk unnamed-chunk-1]({{ site.url }}{{ site.baseurl }}/assets/images/pages/about/unnamed-chunk-1-1.svg) -->
+
 
 ### Hi there 👋
 ---
@@ -32,16 +25,17 @@ I have taught undergraduate and postgraduate engineering courses like `Microcont
 
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
+
 ## CV
 
 - CV: [Download CV as PDF (Updated March, 2021)]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf)
 
+
 ## Contact
 
-**Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a class="btn" href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble</a></font>  
+**Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble </a></font>  
 **PGP key ID:** 065AFAF6 & [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
 
-[kbcd](){btn}
 
 ## Online profiles
 
