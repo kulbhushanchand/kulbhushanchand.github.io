@@ -44,7 +44,7 @@ See my [Google Scholar page](https://scholar.google.co.in/citations?user=s9_oY5M
 
 - **Invited Talks**  
 
-1. Nov2020, Octalysis, AICTE ATAL Sponsored Online Faculty Development Program on Gamification, Dr B R Ambedkar National Institute of Technology [Online](https://www.youtube.com/watch?t=5592&v=QlXb7kStWFk&feature=youtu.be){: .btn .btn--info .btn--small}  
+1. Nov2020, Octalysis, AICTE ATAL Sponsored Online Faculty Development Program on Gamification, Dr B R Ambedkar National Institute of Technology \| [Video](https://www.youtube.com/watch?t=5592&v=QlXb7kStWFk&feature=youtu.be)
 2. Jun2019, Arduino and Open-Source Technologies, One day workshop, DAV Institute of Engineering and Technology
 
 
@@ -62,24 +62,24 @@ See my [Google Scholar page](https://scholar.google.co.in/citations?user=s9_oY5M
 
 - **Certifications**  
 
-1. Dec2017, The Octalysis Framework - Level 1, The Octalysis Group [Cert.](https://drive.google.com/file/d/10aeVvoC4YjFz4byAYW37hapzrv3Y9Kcs/view)   
+1. Dec2017, The Octalysis Framework - Level 1, The Octalysis Group \| [Cert.](https://drive.google.com/file/d/10aeVvoC4YjFz4byAYW37hapzrv3Y9Kcs/view)   
 
 - **MOOC Courses (with certificates)**  
 
-1. Mar2020, Statistics in Medicine, Stanford University [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/9d1d1b8262f443afac764d36f33943bf/Statement.pdf)       
-2. Mar2020, Computer Science 101, Stanford University [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/d18501c4030641818d4ed078667120ad/Statement.pdf)  
-3. Sep2019, Introduction to CAD: Learn Fusion 360 in 90 minutes, Autodesk [SoA](https://adsk-designacademy-content-live.s3.amazonaws.com/s3fs-public/user_certificates/1125118_129267_certificate.pdf)   
-4. May2018, Vital Signs: Understanding What the Body Is Telling Us, University of Pennsylvania [SoA](https://www.coursera.org/account/accomplishments/verify/HCE8K3UCQMJ6)  
-5. Dec2017, Advanced MATLAB for Scientific Computing, Stanford University [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d6dc4176b5b4524b715ab2809e028f9/Statement.pdf)  
-6. Mar2017, Introduction to Game Development, Michigan State University [SoA](https://www.coursera.org/account/accomplishments/verify/G38XY89X737L)  
-7. May 2013`, Calculus One, The Ohio State University [SoA](https://drive.google.com/file/d/13XanEQo1CNxqNZl5S2KlWJxc9lHIyuG8/view)  
-8. Mar 2013`, Image and video processing, Duke University [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)  
+1. Mar2020, Statistics in Medicine, Stanford University \| [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/9d1d1b8262f443afac764d36f33943bf/Statement.pdf)       
+2. Mar2020, Computer Science 101, Stanford University \| [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/d18501c4030641818d4ed078667120ad/Statement.pdf)  
+3. Sep2019, Introduction to CAD: Learn Fusion 360 in 90 minutes, Autodesk \| [SoA](https://adsk-designacademy-content-live.s3.amazonaws.com/s3fs-public/user_certificates/1125118_129267_certificate.pdf)   
+4. May2018, Vital Signs: Understanding What the Body Is Telling Us, University of Pennsylvania \| [SoA](https://www.coursera.org/account/accomplishments/verify/HCE8K3UCQMJ6)  
+5. Dec2017, Advanced MATLAB for Scientific Computing, Stanford University \| [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d6dc4176b5b4524b715ab2809e028f9/Statement.pdf)  
+6. Mar2017, Introduction to Game Development, Michigan State University \| [SoA](https://www.coursera.org/account/accomplishments/verify/G38XY89X737L)  
+7. May 2013`, Calculus One, The Ohio State University \| [SoA](https://drive.google.com/file/d/13XanEQo1CNxqNZl5S2KlWJxc9lHIyuG8/view)  
+8. Mar 2013`, Image and video processing, Duke University \| [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)  
 
 
 ## COMMUNITY OUTREACH
 {: .text-center}
 
-- Nov2017, Arduino workshop for kids, Jalandhar [🔗](https://www.tribuneindia.com/news/archive/jalandhar/young-minds-dwell-on-e-concepts-496919)
+- Nov2017, Arduino workshop for kids, Jalandhar \| [Link](https://www.tribuneindia.com/news/archive/jalandhar/young-minds-dwell-on-e-concepts-496919)
 
 
 ## TECHNICAL SKILLS
