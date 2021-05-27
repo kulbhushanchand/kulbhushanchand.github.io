@@ -19,7 +19,7 @@ A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback.
 
 - **GamificationCourseBook** 
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/GamificationCourseBook){: .btn}|
-[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://kulbhushanchand.github.io/GamificationCourseBook/){: .btn}    
+[<i class="fas fa-book-open" aria-hidden="true"></i> Book](https://kulbhushanchand.github.io/GamificationCourseBook/){: .btn}    
 An online course book for Gamification (ECX-488).
 
 - **classroom-gamification** 
