@@ -95,18 +95,7 @@ See my [Google Scholar page](https://scholar.google.co.in/citations?user=s9_oY5M
 ## PROJECTS
 {: .text-center}
 
-- **Software Projects**  
-
-I support open source software, and below is a list of open source projects that I have developed:
-
-- [**BioNES**](https://github.com/kulbhushanchand/BioNES): A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback
-- [**GamificationCourseBook**](https://github.com/kulbhushanchand/GamificationCourseBook): An online coursebook for Gamification (ECX-488)
-- [**classroom-gamification**](https://github.com/kulbhushanchand/classroom-gamification): Tool to gamify your classroom with an online leaderboard  
-<br>
-
-- **Research projects**
-
-See my [OSF page](https://osf.io/wxqdj) for a full list of open source research projects that I'm involved with. (As of now the projects are private and will be made public after the publication)
+Check the [Projects]({{ site.url }}{{ site.baseurl }}/projects) page for the open source projects that I've developed or involved with. 
 
 
 ## LANGUAGES
