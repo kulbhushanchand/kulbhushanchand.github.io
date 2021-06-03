@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Curriculum vitae"
 excerpt: "Kulbhushan Chand's CV"
 date: "2021/05/26"
-last_modified_at: 2021-05-26 17:07:38 +05:30
+last_modified_at: 2021-06-03 21:01:49 +05:30
 layout: single
 classes: wide
 author_profile: true
@@ -14,7 +14,6 @@ This is an online-version of my CV. `Updated {{ page.last_modified_at | date: "%
 [Download CV as PDF]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf) `Updated {{ "2021-05-26 17:07:31 +05:30" | date: "%B %-d, %Y"}}`
 
 
-{% capture notice-text %}
 
 ## EDUCATION  
 {: .text-center}
@@ -44,7 +43,7 @@ See my [Google Scholar page](https://scholar.google.co.in/citations?user=s9_oY5M
 
 - **Invited Talks**  
 
-1. Nov2020, Octalysis, AICTE ATAL Sponsored Online Faculty Development Program on Gamification, Dr B R Ambedkar National Institute of Technology \| [Video](https://www.youtube.com/watch?t=5592&v=QlXb7kStWFk&feature=youtu.be)
+1. Nov2020, Octalysis, AICTE ATAL Sponsored Online Faculty Development Program on Gamification, Dr B R Ambedkar National Institute of Technology \| [Video](https://www.youtube.com/watch?t=5592&v=QlXb7kStWFk&feature=youtu.be) 
 2. Jun2019, Arduino and Open-Source Technologies, One day workshop, DAV Institute of Engineering and Technology
 
 
@@ -112,11 +111,6 @@ Check the [Projects]({{ site.url }}{{ site.baseurl }}/projects) page for the ope
 - **Birth year:** 1988  
 - **Citizenship:** Indian  
 - **Residence:** India (Permanent resident)  
-
-{% endcapture %}
-<div class="notice">
-    {{ notice-text | markdownify }}
-</div>
 
 
 
