@@ -1,7 +1,11 @@
 // Custom CSS entries
+
+/*// For references at the footer 
 .csl-entry {
     display: list-item;
   }
+*/
+
 
 .html-widget {
     margin: auto;
@@ -36,6 +40,7 @@ p.caption {
 }
 
 
+/*// For the dt-html widget in R
 .dataTables_length {
   label {
   display: inline-flex;
@@ -54,24 +59,26 @@ p.caption {
     background-color: $lighter-gray;
     }
 }
+*/
 
 
-/*
+/*// For the font size on the site
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
-    font-size: 12px; // originally 16px
+    font-size: 14px; // originally 16px
     
     @include breakpoint($medium) {
-        font-size: 14px; // originally 18px
+        font-size: 16px; // originally 18px
     }
 
     @include breakpoint($large) {
-        font-size: 16px; // originally 20px
+        font-size: 18px; // originally 20px
     }
 
     @include breakpoint($x-large) {
-        font-size: 18px; // originally 22px
+        font-size: 22px; // originally 22px
     }
 }
 
 */
+

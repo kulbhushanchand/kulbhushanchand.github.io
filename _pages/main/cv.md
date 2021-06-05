@@ -11,7 +11,7 @@ author_profile: true
 ---
 
 This is an online-version of my CV. `Updated {{ page.last_modified_at | date: "%B %-d, %Y" }}`    
-[Download CV as PDF]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf) `Updated {{ "2021-05-26 17:07:31 +05:30" | date: "%B %-d, %Y"}}`
+[Download CV as PDF]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf) `Updated {{ "2021-06-05 14:56:23 +05:30" | date: "%B %-d, %Y"}}`
 
 
 
