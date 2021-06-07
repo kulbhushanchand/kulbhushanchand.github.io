@@ -9,10 +9,8 @@ classes: wide
 author_profile: true
 #toc: true
 ---
-
-This is an online-version of my CV. `Updated {{ page.last_modified_at | date: "%B %-d, %Y" }}`    
+ 
 [Download CV as PDF]({{ site.url }}{{ site.baseurl }}/assets/misc/CV.pdf) `Updated {{ "2021-06-05 14:56:23 +05:30" | date: "%B %-d, %Y"}}`
-
 
 
 ## EDUCATION  
@@ -71,8 +69,8 @@ See my [Google Scholar page](https://scholar.google.co.in/citations?user=s9_oY5M
 4. May2018, Vital Signs: Understanding What the Body Is Telling Us, University of Pennsylvania \| [SoA](https://www.coursera.org/account/accomplishments/verify/HCE8K3UCQMJ6)  
 5. Dec2017, Advanced MATLAB for Scientific Computing, Stanford University \| [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d6dc4176b5b4524b715ab2809e028f9/Statement.pdf)  
 6. Mar2017, Introduction to Game Development, Michigan State University \| [SoA](https://www.coursera.org/account/accomplishments/verify/G38XY89X737L)  
-7. May 2013`, Calculus One, The Ohio State University \| [SoA](https://drive.google.com/file/d/13XanEQo1CNxqNZl5S2KlWJxc9lHIyuG8/view)  
-8. Mar 2013`, Image and video processing, Duke University \| [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)  
+7. May 2013, Calculus One, The Ohio State University \| [SoA](https://drive.google.com/file/d/13XanEQo1CNxqNZl5S2KlWJxc9lHIyuG8/view)  
+8. Mar 2013, Image and video processing, Duke University \| [SoA](https://drive.google.com/file/d/16vT_nyN_oV_aaI-y9dgDacQ5x42EHw45/view)  
 
 
 ## COMMUNITY OUTREACH
