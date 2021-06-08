@@ -1,9 +1,10 @@
 {% capture text %}
 {% if page.RmdSource %}
-  [View <i class="fab fa-fw fa-r-project" aria-hidden="true"></i> <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> source](https://github.com/{{ site.repository }}/blob/master/{{ page.RmdSource }}){: .btn}
+  [View <i class="fab fa-fw fa-r-project" aria-hidden="true"></i> <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> source](https://github.com/{{ site.repository }}/blob/master/{{ page.RmdSource }}){: .small}
 {% else %}
-  [View <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> source](https://github.com/{{ site.repository }}/blob/master/{{ page.path }}){: .btn}
+  [View <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> source](https://github.com/{{ site.repository }}/blob/master/{{ page.path }}){: .small}
 {% endif %}
 {% endcapture %}
 
 {{ text | markdownify }}
+
