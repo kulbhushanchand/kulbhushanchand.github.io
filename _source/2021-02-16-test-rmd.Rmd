@@ -14,6 +14,7 @@ excerpt: "Here are two tips for having what I think will be an easier blogging e
 tags:
   - R Markdown
   - Jekyll
+RmdSource: '_source/`r knitr::current_input()`'
 ---
 
 ```{r setup, include=FALSE, cache=FALSE}
@@ -42,6 +43,7 @@ knitr::opts_chunk$set(
   fig.align = "center"
 )
 ```
+
 
 
 ---

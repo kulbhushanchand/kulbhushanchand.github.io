@@ -1,0 +1,9 @@
+{% capture text %}
+{% if page.RmdSource %}
+  [View <i class="fab fa-fw fa-r-project" aria-hidden="true"></i> <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> source](https://github.com/{{ site.repository }}/blob/master/{{ page.RmdSource }}){: .btn}
+{% else %}
+  [View <i class="fab fa-fw fa-markdown" aria-hidden="true"></i> source](https://github.com/{{ site.repository }}/blob/master/{{ page.path }}){: .btn}
+{% endif %}
+{% endcapture %}
+
+{{ text | markdownify }}
