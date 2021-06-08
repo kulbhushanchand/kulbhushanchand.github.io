@@ -9,12 +9,7 @@ classes: wide
 author_profile: true
 ---
 
-<!-- ![kulbhushanchand]({{ site.url }}{{ site.baseurl }}/assets/images/pages/kulbhushanchand.jpg){: .align-center} -->
-
-<!-- ![plot of chunk unnamed-chunk-1]({{ site.url }}{{ site.baseurl }}/assets/images/pages/about/unnamed-chunk-1-1.svg) -->
-
-### Hi there 👋
----
+Hi there 👋
 
 I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. 
 
