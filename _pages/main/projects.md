@@ -15,8 +15,7 @@ These are some of the open source projects I have made. Hope you'll find them us
 
 - **AfDaq** 
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/AfDaq){: .btn}|
-[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://github.com/kulbhushanchand/AfDaq){: .btn}|
-[![View AfDaq on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/93395-afdaq)    
+[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://github.com/kulbhushanchand/AfDaq){: .btn}   
 A plug and play MATLAB based tool for biofeedback and arduino based instruments.
 
 - **BioNES** 
