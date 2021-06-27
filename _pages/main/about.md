@@ -13,17 +13,13 @@ Hi there 👋
 
 I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. 
 
-My research interests lie in the `design of biofeedback systems, using video games for biofeedback, wearable physiological sensors, and gamification`. I am passionate about open science and reproducible research.
-
-I have taught undergraduate and postgraduate engineering courses like `Microcontroller and its applications, Digital signal processing, Probability and stochastic theory, and Adaptive filter theory`. I've TA'ed `Gamification and Electronics devices and digital electronics lab, and Simulation` lab course.
-
-I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
+My research interests lie in the design of biofeedback systems, using video games for biofeedback, wearable physiological sensors, and gamification. I am an avid supporter of open source technologies and used them for most of my projects. I like working on electronics hardware/software projects and learning new tools & technologies. My projects (including PhD work) are open source (see [projects page]({{ site.url }}{{ site.baseurl }}/projects) for more). When not working, I like running and cycling.  
 
 
 ## Contact
 
-**Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble </a></font>  
-**PGP key ID:** 065AFAF6 & [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
+- **✉️ Email:** <font id="email" style="display:inline;">clgsb@mdhaao.ukh.cihlnamnu <a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble </a></font>  
+- **🔑 PGP key ID:** 065AFAF6 & [key]({{ site.url }}{{ site.baseurl }}/assets/misc/4089AAAE4C9FDA8C24C9385F3D5410BB065AFAF6.asc)  
 
 
 ## Online profiles
@@ -39,9 +35,9 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 
 ---
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
+>
+><cite>[The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)</cite>
 
-<cite>[The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)</cite> --- Movie, 2006
-{: .small}
 
 
 
@@ -53,5 +49,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 		    'emailScramble', 'no.n@ashmbguahclc.iakldmuh',
 		    [10,25,11,15,17,9,7,5,19,4,18,2,14,8,12,3,24,23,21,20,1,22,16,26,6,13]);
 </script>
+
+
 
 
