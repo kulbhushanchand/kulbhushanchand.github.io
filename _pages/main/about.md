@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 excerpt: "About me"
 date: "2021/03/06"
-last_modified_at: 2021-05-26 16:43:01 +05:30
+last_modified_at: 2021-06-27 20:40:12 +05:30
 layout: single
 classes: wide
 author_profile: true
