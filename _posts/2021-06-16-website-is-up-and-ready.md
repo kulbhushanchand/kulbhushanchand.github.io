@@ -29,10 +29,9 @@ I am using both **markdown** and **r-markdown** for writing posts and prefer the
 
 Speaking of performance, the google lighthouse audit for local testing passed the homepage with flying numbers.
 
-{% include figure class="align-center" image_path="/assets\images\posts\website-lighthouse-audit-desktop.jpg" alt="Lighthouse audit for the website in desktop mode" caption="Desktop audit (all green 💚)" %}
+{% include figure class="align-center" image_path="/assets/images/posts/website-lighthouse-audit-desktop.jpg" alt="Lighthouse audit for the website in desktop mode" caption="Desktop audit (all green 💚)" %}
 
 ## Links 🔗
 
 The source code is available at the [GitHub repository](https://github.com/kulbhushanchand/kulbhushanchand.github.io). You are free to fork and use for your project.
-
 
