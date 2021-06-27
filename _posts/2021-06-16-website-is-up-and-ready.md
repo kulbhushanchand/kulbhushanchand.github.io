@@ -1,6 +1,6 @@
 ---
 title: "Website is up and ready!! 🎉"
-excerpt: "My personal website is ready again for the third time."
+excerpt: "My website is up and ready."
 date: 2021-06-27 20:41:01 +05:30 # eg "2021-06-16 16:02:57 +05:30"
 last_modified_at: 2021-06-27 20:41:06 +05:30
 toc: 
