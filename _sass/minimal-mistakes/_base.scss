@@ -222,7 +222,10 @@ figure {
   }
 
   img {
-    width: 100%;
+    max-width: 100%; // original is width: 100%; // modified is max-width: 100%; 
+    display: block; // manually added to center the image
+    margin-left: auto; // manually added to center the image
+    margin-right: auto; // manually added to center the image
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
@@ -266,6 +269,7 @@ figcaption {
   color: $muted-text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
+  text-align: center; // manually added
 
   a {
     -webkit-transition: $global-transition;
