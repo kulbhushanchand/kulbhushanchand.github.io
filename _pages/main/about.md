@@ -24,13 +24,13 @@ My research interests lie in the design of biofeedback systems, using video game
 
 ## Online profiles
 
-- <i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i> LinkedIn: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
-- <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar: [s9_oY5MAAAAJ&hl](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)
-- <i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID: [0000-0001-6502-0748](https://orcid.org/0000-0001-6502-0748)
-- <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate: [Kulbhushan-Chand](https://www.researchgate.net/profile/Kulbhushan-Chand)
-- <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: [kulbhushanchand](https://github.com/kulbhushanchand)
-- <i class="fas fa-fw fa-cog" aria-hidden="true"></i> OSF: [wxqdj](https://osf.io/wxqdj)
-- <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
+- <i class="brands-linkedin-in ic-fw" aria-hidden="true"></i> LinkedIn: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
+- <i class="googlescholar ic-fw" aria-hidden="true"></i> Google Scholar: [s9_oY5MAAAAJ&hl](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)
+- <i class="brands-orcid ic-fw" aria-hidden="true"></i> ORCID: [0000-0001-6502-0748](https://orcid.org/0000-0001-6502-0748)
+- <i class="brands-researchgate ic-fw" aria-hidden="true"></i> ResearchGate: [Kulbhushan-Chand](https://www.researchgate.net/profile/Kulbhushan-Chand)
+- <i class="brands-github ic-fw" aria-hidden="true"></i> GitHub: [kulbhushanchand](https://github.com/kulbhushanchand)
+- <i class="osf ic-fw" aria-hidden="true"></i> OSF: [wxqdj](https://osf.io/wxqdj)
+- <i class="brands-youtube ic-fw" aria-hidden="true"></i> YouTube: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 
 
 ---
