@@ -23,7 +23,7 @@ Finally, my website is up and ready (again). It's the third iteration, with the 
 
 ## Workflow ⚙️
 
-I am using both **markdown** and **r-markdown** for writing posts and prefer the latter when there is a need for an executable R code. To support the R-html-widgets, a custom [`knit`]({{ site.url }}{{ site.baseurl }}/_source/custom-function.R) function is used that saves the dependencies in the assets folder and insert the code to load them at the end of knitted markdown files. In this way, we can avoid loading them on every page except ones using them for performance gains.
+I am using both **markdown** and **r-markdown** for writing posts and prefer the latter when there is a need for an executable R code. To support the R-html-widgets, a custom [`knit`](https://github.com/{{ site.repository }}/blob/master/_source/custom-function.R) function is used that saves the dependencies in the assets folder and insert the code to load them at the end of knitted markdown files. In this way, we can avoid loading them on every page except ones using them for performance gains.
 
 ## Performance 💯
 
