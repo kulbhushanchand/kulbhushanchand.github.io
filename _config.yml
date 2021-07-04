@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Kulbhushan Chand"
 title_separator          : "-"
-subtitle                 : "In the pursuit of happyness" # "Personal website" # site tagline that appears below site title in masthead
+subtitle                 :  # "Personal website" # site tagline that appears below site title in masthead
 name                     : "Kulbhushan Chand"
 description              : "My personal website."
 url                      : https://kulbhushanchand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
