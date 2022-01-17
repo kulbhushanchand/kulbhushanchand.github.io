@@ -29,7 +29,8 @@ A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback.
 Arduino library for MCP4251 Digital Potentiometer.
 
 - **classroom-gamification** 
-[<i class="brands-github ic-fw" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/classroom-gamification){: .btn}  
+[<i class="brands-github ic-fw" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/classroom-gamification){: .btn}|
+[▶️ Demo](https://kulbhushanchand.github.io/classroom-gamification/){: .btn}  
 Tool to gamify your classroom with an online leaderboard.
 
 
