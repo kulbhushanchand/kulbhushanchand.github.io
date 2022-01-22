@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "CV"
-    url: /cv/
+    url: /assets/misc/CV.pdf
   - title: "About"
     url: /about/
 
