@@ -42,6 +42,23 @@ p.caption {
 }
 
 
+/* Add drop case to the first letter of the first paragraph  */
+
+.dropcase .page__content > p:first-of-type:first-letter  {
+
+  //font-family:  serif;
+  font-size: 3.2em; // 4em for no background
+  font-weight: bold;
+  color: $background-color;
+  background: $primary-color;
+  border-radius: 0.0625em;
+  text-align: center;
+  float: left;
+  padding: 0.125em 0.125em 0.125em 0.125em;
+  margin: -0.03em 0.125em 0em 0em; // 0.0625em 0.125em 0em 0em; for no background
+}
+
+
 /*// For the dt-html widget in R
 .dataTables_length {
   label {

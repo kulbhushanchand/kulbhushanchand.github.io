@@ -312,6 +312,7 @@ defaults:
       share: false
       related: true
       show_date: true
+      classes: dropcase
 
 #head_scripts:
 #  - /assets/js/main.min.js
