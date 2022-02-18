@@ -52,6 +52,9 @@ Fun experiments with arduino for kids
 [<i i class="osf ic-fw" aria-hidden="true"></i> OSF](https://doi.org/10.17605/OSF.IO/VCTJM){: .btn}   
 An open-source plug and play MATLAB based tool for biofeedback and arduino based instruments, which offers the capabilities of multi-channel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. 
 
+- **Efficacy of a multimodal biofeedback system for mental relaxation using NES games** 
+[<i i class="osf ic-fw" aria-hidden="true"></i> OSF](https://doi.org/10.17605/OSF.IO/Q5EZ3){: .btn}   
+This study will look at the effectiveness of a multimodal biofeedback system that uses NES games for mental relaxation. The developed system, called BioNES, is used to deliver relaxation training using NES games via HRV biofeedback. Besides evaluating the effectiveness of the developed system, this study also aims to evaluate the user's motivation and the system's usability. 
 
 
 
