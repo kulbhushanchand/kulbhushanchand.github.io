@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 excerpt: "About me"
 date: "2021/03/06"
-last_modified_at: 2021-06-27 20:40:12 +05:30
+last_modified_at: 2022-04-14 15:30:31 +05:30
 layout: single
 classes: wide
 author_profile: true
@@ -31,15 +31,6 @@ My research interests lie in the design of biofeedback systems, using video game
 - <i class="brands-github ic-fw" aria-hidden="true"></i> GitHub: [kulbhushanchand](https://github.com/kulbhushanchand)
 - <i class="osf ic-fw" aria-hidden="true"></i> OSF: [wxqdj](https://osf.io/wxqdj)
 - <i class="brands-youtube ic-fw" aria-hidden="true"></i> YouTube: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
-
-
----
-> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
->
-><cite>[The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)</cite>
-
-
-
 
 
 <script src="/assets/js/others/scramble.js"></script>
