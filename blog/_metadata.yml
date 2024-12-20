@@ -12,7 +12,7 @@ format:
       giscus: 
         repo: kulbhushanchand/kulbhushanchand.github.io
         category: Blog comments
-#        category-id: 
+        category-id: DIC_kwDONgSC4c4ClZVE
         mapping: pathname
     quarto-template-params:
       banner-header-class: "blog-post"
