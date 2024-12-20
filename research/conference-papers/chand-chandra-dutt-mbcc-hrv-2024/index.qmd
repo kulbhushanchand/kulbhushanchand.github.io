@@ -1,0 +1,66 @@
+---
+title: "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters"
+date: 2023-12-15
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation
+  - name: Shilpa Chandra
+    affiliation: Indian Institute of Technology Mandi
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi
+categories:
+  - Heart rate variability
+  - Autonomic nervous system
+  - Mental relaxation
+  - Mental stress
+  - Paced breathing
+  - Cognitive workload
+pub-info:
+  reference: >-
+    <strong>Kulbhushan Chand</strong>, Shilpa Chandra, and Varun Dutt, “Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters,” <em>Mind, Brain, and Consciousness Conference (MBCC)</em> (2024), url: <a href="https://iksmha.iitmandi.ac.in/mbcc/#proceedings"><code>https://iksmha.iitmandi.ac.in/mbcc/#proceedings</code></a>
+  links:
+    - name: PDF
+      url: mbcc-hrv-2024.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://iksmha.iitmandi.ac.in/mbcc/#proceedings
+      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+#    - name: Add to Zotero
+#      url: 
+#      icon: ai ai-zotero-square
+#doi: 
+#haiku:
+#  - 
+#  - 
+#  - 
+  extra: >- 
+    It is an abstract publication for an ongoing study at that time.
+---
+
+## Important links
+
+- [Paper (open acess)](mbcc-hrv-2024.pdf)
+
+## Citation
+<!--
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+-->
+```bibtex
+@article{chand_comprehensive_2024,
+    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},
+    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},
+    doi = {10.1016/j.heliyon.2024.e32195},
+    journal = {Heliyon},
+    year = {2024},
+    volume = {10},
+    number = {11},
+    pages = {e32195}}
+```

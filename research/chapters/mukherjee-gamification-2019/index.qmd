@@ -1,0 +1,64 @@
+---
+title: "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students"
+date: 2019-01-01
+author:
+  - name: Ayushman Mukherjee
+    affiliation: National Institute of Technology Jalandhar, India
+  - name: Prachi Goyal
+    affiliation: National Institute of Technology Jalandhar, India
+  - name: Amandeep Singh
+    affiliation: National Institute of Technology Jalandhar, India
+  - name: Arun Khosla
+    affiliation: National Institute of Technology Jalandhar, India
+  - name: Kiran Ahuja
+    affiliation: DAV Institute of Engineering and Technology, India
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: National Institute of Technology Jalandhar, India
+
+categories:
+    - Gamification
+    - Research engagement
+pub-info:
+  reference: >-
+    Ayushman Mukherjee, Prachi Goyal, Amandeep Singh, Arun Khosla, Kiran Ahuja, and <strong>Kulbhushan Chand</strong>, “Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students,” chap. 6 in <em>Fostering Multiple Levels of Engagement in Higher Education Environments</em>, doi: <a href="https://doi.org/10.4018/978-1-5225-7470-5.ch006"><code>10.4018/978-1-5225-7470-5.ch006</code></a>
+  links:
+#  - name: Preprint (PDF)
+#    url: 
+#    local: true
+#    icon: fa-solid fa-file-pdf
+  - name: Final version
+    url: https://doi.org/10.4018/978-1-5225-7470-5.ch006
+    icon: fa-solid fa-scroll
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.4018/978-1-5225-7470-5.ch006
+    icon: ai ai-zotero-square
+doi: 10.4018/978-1-5225-7470-5.ch006
+haiku:
+  - Engineers stray wide
+  - Dreams of research cast aside
+  - Games can turn the tide
+---
+
+## Abstract
+
+Research and development are important for the sustenance of any modern economy. Hence, in any society it is important to have a strong supply of scientists and engineers. From an Indian context, it is observed, however, that very few engineers choose to pursue research as their primary domain of interest. This chapter tries to identify from an institutional perspective on why engineers repeatedly shun their core branch subjects to pursue something else. The study highlights the mental framework of an engineering student and how the environment can be molded to invoke the interest of the student towards research and development. A gamified approach to solving this problem is proposed. The entire problem is fit into a gamification framework called Octalysis to identify the core motivators for engaging students in research. Finally, the chapter proposes reforms that can be adopted in order to create a holistic environment where students can participate freely and engage positively in cutting-edge projects.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.4018/978-1-5225-7470-5.ch006">{{< ai zotero-square >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+``` bibtex
+@incollection{mukherjee_pursuit_2019,
+    title = {Pursuit of {Research}: {A} {Gamified} {Approach} {Promoting} {Research} {Engagement} {Among} {Undergraduate} {Students}},
+    author = {Jain, Bhavika and Khosla, Arun and Chand, Kulbhushan and Ahuja, Kiran},
+    doi = {10.4018/978-1-5225-7470-5.ch006},
+    booktitle = {Fostering {Multiple} {Levels} of {Engagement} in {Higher} {Education} {Environments}},
+    publisher = {IGI Global},
+    year = {2019},
+    chapter = {6},
+    pages = {132-155}}
+```

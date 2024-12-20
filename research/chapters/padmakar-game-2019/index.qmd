@@ -1,0 +1,59 @@
+---
+title: "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia"
+date: 2019-01-01
+author:
+  - name: Ganta Sandeep V. Padmakar
+    affiliation: National Institute of Technology Jalandhar, India
+  - name: Arun Khosla
+    affiliation: National Institute of Technology Jalandhar, India
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: National Institute of Technology Jalandhar, India
+
+categories:
+    - Dyslexia
+    - Learning disabilities 
+    - Android app
+pub-info:
+  reference: >-
+    Ganta Sandeep V. Padmakar, Arun Khosla, Kiran Ahuja, and <strong>Kulbhushan Chand</strong>, “LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia,” chap. 12 in <em>Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders</em>, doi: <a href="https://doi.org/10.4018/978-1-5225-7004-2.ch012"><code>10.4018/978-1-5225-7004-2.ch012</code></a>
+  links:
+#  - name: Preprint (PDF)
+#    url: 
+#    local: true
+#    icon: fa-solid fa-file-pdf
+  - name: Final version
+    url: https://doi.org/10.4018/978-1-5225-7004-2.ch012
+    icon: fa-solid fa-scroll
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.4018/978-1-5225-7004-2.ch012
+    icon: ai ai-zotero-square
+doi: 10.4018/978-1-5225-7004-2.ch012
+haiku:
+  - Dyslexia they face
+  - Sound and symbol find their place
+  - Tech brings them to grace
+---
+
+## Abstract
+
+The recent studies show that the children with learning disabilities numbers have been gradually increased in India. Though the main reason for the cause of this disorder is unknown, the authors strongly believe that this neurological disorder is explained as a genetic disorder passed from elder hierarchy to the next generation. With the available resources, the awareness programs are limited to urban areas only on account of using current technology in diagnosing disorders. In developed countries, it is seen that new technologies taking birth every day for the treatment of these disorders. This includes LCD 3D display, Kinect games, computer games (psychotherapeutic) in therapy sessions, etc. These kinds of games make children more attentive towards the intervention bringing new changes in the day-to-day lives of the children. In this chapter, a new algorithm has been highlighted for the intervention of children with dyslexia by using the Android application as a source to increase the level of perception and sound-symbol association of the respective alphabets used and studied.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.4018/978-1-5225-7004-2.ch012">{{< ai zotero-square >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+``` bibtex
+@incollection{padmakar_learneasy-android_2019,
+    title = {{LearnEasy}-{Android} {Application} as a {Technological} {Intervention} for {Children} {With} {Dyslexia}},
+    author = {Padmakar, Ganta Sandeep V and Khosla, Arun and Chand, Kulbhushan},
+    doi = {10.4018/978-1-5225-7004-2.ch012},
+    booktitle = {Emerging {Trends} in the {Diagnosis} and {Intervention} of {Neurodevelopmental} {Disorders}},
+    publisher = {IGI Global},
+    year = {2019},
+    chapter = {12},
+    pages = {236-248}}
+```

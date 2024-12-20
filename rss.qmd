@@ -1,0 +1,15 @@
+---
+title: "Kulbhushan Chand's blog"
+search: false
+listing:
+  sort: "date desc"
+  feed: 
+    title: "Kulbhushan Chand's blog"
+    description: "Kulbhushan Chand's blog"
+    items: 60
+    type: partial
+    language: en
+  contents:
+    - "blog/**/index.qmd"
+    - "!blog/index.qmd"
+---

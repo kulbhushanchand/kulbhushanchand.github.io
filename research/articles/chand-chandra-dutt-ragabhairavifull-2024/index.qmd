@@ -1,0 +1,76 @@
+---
+title: "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers"
+date: 2024-10-22
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation, Indian Institute of Technology Mandi, India
+  - name: Shilpa Chandra
+    affiliation: Indian Institute of Technology Mandi, India
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi, India
+categories:
+  - Indian classical music
+  - Raga bhairavi
+  - DASS
+  - Heart rate variability
+  - Virtual reality
+pub-info:
+  reference: >-
+    <strong>Kulbhushan Chand</strong>, Shilpa Chandra, and Varun Dutt, “Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers,” <em>Scientific Reports</em> (2024), doi: <a href="https://doi.org/10.1038/s41598-024-74932-1"><code>10.1038/s41598-024-74932-1</code></a>
+  links:
+    - name: PDF
+      url: ragabhairavifull-2024.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1038/s41598-024-74932-1
+      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1038/s41598-024-74932-1
+      icon: ai ai-zotero-square
+doi: 10.1038/s41598-024-74932-1
+haiku:
+  - Bhairavi in VR
+  - Six days of healing within
+  - Stress fades, hearts find peace
+---
+
+## Important links
+
+- [Paper (open acess)](ragabhairavifull-2024.pdf)
+
+
+## Abstract
+
+The effects of classical music on psychophysiological parameters are not well understood. This study aimed to investigate the impact of listening to raga Bhairavi, an Indian Classical Music for six days on anxiety, stress, depression, and heart rate variability (HRV) parameters. Forty-four individuals were randomly assigned to either the intervention group (VR-raga), where they listened to raga Bhairavi via 360° video in a virtual reality environment, or the control group, where there was no exposure to raga Bhairavi for six days. Before allocation, the HRV baselines (relax-baseline and stress-baseline) were recorded on the first day. On the first and sixth days of the intervention, HRV was monitored, and the Depression, Anxiety, and Stress Scale (DASS-21) questionnaire was administered before and after the intervention. After six days, all DASS-21 subscales were significantly reduced in the VR-raga group. A similar trend was observed in the seven HRV parameters evaluated in this study, which demonstrated reduced physiological stress and enhanced autonomic balance following the six-day intervention. The findings collectively indicated the efficacy of the VR-based raga Bhairavi intervention in reducing psychological stress markers and highlighted the potential applications of utilizing the VR-based raga intervention for improving mental well-being in the real-world context.
+
+
+## Important figures
+
+![Figure 1: Participants from the VR-raga group wearing Meta Quest2 during the intervention. The PPG data was taken from the ear lobe, where an ear clip can be seen. The hardware was connected to the left side of the computer’s USB port and data acquisition software can be seen running on the computer’s screen.](ragabhairavifull-2024-fig1.jpg)
+
+![Figure 2: Phase-wise experimental design for the between-group study.](ragabhairavifull-2024-fig2.jpg)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1038/s41598-024-74932-1">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{chand_raga_2024,
+    title = {Raga {Bhairavi} in virtual reality reduces stress-related psychophysiological markers},
+    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},
+    doi = {10.1038/s41598-024-74932-1},
+    journal = {Scientific Reports},
+    year = {2024},
+    volume = {14},
+    number = {1},
+    pages = {24816}}
+```

@@ -1,0 +1,55 @@
+---
+title: Contact
+date: 2024-12-20
+description: Kulbhushan Chand's email and online profiles
+published-title: Last updated
+title-block-banner: "#771C6D"
+toc: false
+engine: knitr
+freeze: false
+include-before-body:
+  text: |
+    <script type="application/javascript" src="/html/scramble.js"></script>
+include-after-body:
+  text: |
+    <script> emailScramble = new scrambledString(document.getElementById('email'), 'emailScramble', 'no.n@ashmbguahclc.iakldmuh', [10,25,11,15,17,9,7,5,19,4,18,2,14,8,12,3,24,23,21,20,1,22,16,26,6,13]); </script>
+    
+---
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+You can reach me out on my email-id. Additionally you can visit my online profiles listed below:
+
+::::: grid
+
+::: {.g-col-12 .g-col-sm-8}
+
+## Contact
+The email ID is obfuscated to prevent scraping. Click below to reveal it.
+
+<div>
+  <div style="display: inline;">{{< iconify bi envelope-at-fill size=1.1em title='Email' >}} Email: </div>
+  <div id="email" style="display: inline;">clgsb@mdhaao.ukh.cihlnamnu<a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble </a></div>
+</div>
+
+:::
+
+
+::: {.g-col-12 .g-col-sm-4}
+## Online profiles
+[{{< iconify bi linkedin size=1.1em title='LinkedIn' >}} LinkedIn](https://www.linkedin.com/in/kulbhushan-chand)  
+[{{< fa brands google-scholar size=1.1em title='Google Scholar' >}} Google Scholar](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)  
+[{{< fa brands orcid size=1.1em title='ORCID' >}} ORCID](https://orcid.org/0000-0001-6502-0748)  
+[{{< iconify academicons:researchgate-square size=1.1em title='ResearchGate' >}} ResearchGate](https://www.researchgate.net/profile/Kulbhushan-Chand)  
+[{{< fa brands github size=1.1em title='GitHub' >}} GitHub](https://github.com/kulbhushanchand)  
+[{{< iconify academicons:osf size=1.1em title='OSF' >}} OSF](https://osf.io/wxqdj)  
+[{{< iconify bi youtube size=1.1em title='OSF' >}} YouTube](https://www.youtube.com/c/KulbhushanChand)  
+
+:::
+
+:::::
+

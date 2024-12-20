@@ -1,0 +1,20 @@
+---
+title: Disclaimer
+date: 2024-12-20
+description: Just a friendly note that everything on this website are my opinions only
+title-block-banner: "#CF4446"
+published-title: Last updated
+toc: true
+toc-location: left
+toc-title: "Contents"
+engine: knitr
+freeze: false
+---
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+The opinions expressed on this website are author's own in his personal capacity. They do not reflect the views of anyone else.

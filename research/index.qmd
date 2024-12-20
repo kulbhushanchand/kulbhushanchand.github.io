@@ -1,0 +1,46 @@
+---
+title: "Research"
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: working-papers
+    contents: "working-papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: conference-papers
+    contents: "conference-papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs    
+  - id: book-chapters
+    contents: "chapters/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IKS), biofeedback systems, and healthcare technologies. I study mental wellness and stress regulation, focusing on HRV biofeedback and the effects of Indian classical music, such as ragas, on emotional well-being. My work emphasizes integrating IKS principles to enhance user engagement and therapeutic outcomes. I also focus on developing affordable biofeedback systems to make mental wellness technologies more accessible. {{< ai blank-just-to-add-ai-dependency-to-this-page >}}
+
+## Journal articles
+
+::: {#articles}
+:::
+
+## Working papers
+
+::: {#working-papers}
+:::
+
+## Conference papers
+
+::: {#conference-papers}
+:::
+
+## Book chapters
+
+::: {#book-chapters}
+:::

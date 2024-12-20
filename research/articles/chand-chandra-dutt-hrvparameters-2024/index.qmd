@@ -1,0 +1,79 @@
+---
+title: "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state"
+date: 2024-06-15
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation, Indian Institute of Technology Mandi, India
+  - name: Shilpa Chandra
+    affiliation: Indian Institute of Technology Mandi, India
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi, India
+categories:
+  - Heart rate variability
+  - Relaxation
+  - Stress
+  - Paced breathing
+  - Autonomic nervous system
+  - Linear and non-linear HRV
+pub-info:
+  reference: >-
+    <strong>Kulbhushan Chand</strong>, Shilpa Chandra, and Varun Dutt, “A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state,” <em>Heliyon</em> (2024), doi: <a href="https://doi.org/10.1016/j.heliyon.2024.e32195"><code>10.1016/j.heliyon.2024.e32195</code></a>
+  links:
+    - name: PDF
+      url: hrvparameters-2024.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1016/j.heliyon.2024.e32195
+      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.heliyon.2024.e32195
+      icon: ai ai-zotero-square
+doi: 10.1016/j.heliyon.2024.e32195
+haiku:
+  - In stress, chaos reigns
+  - In relax, calm sustains
+  - Heartbeat tells its truth
+---
+
+## Important links
+
+- [Paper (open acess)](hrvparameters-2024.pdf)
+
+
+## Abstract
+
+*Background:* Heart rate variability (HRV) is a crucial metric that provides valuable insight into the balance between relaxation and stress. Previous research has shown that most HRV parameters improve during periods of mental relaxation, while decreasing during tasks involving cognitive workload. Although a comprehensive analysis of both linear and non-linear HRV parameters has been carried out in existing literature, there still exists a need for further research in this area. Additionally, limited knowledge exists regarding how specific interventions may influence the interpretation of these parameters and how the different parameters correlate under different interventions. This study aims to address these gaps by conducting a thorough comparison of different linear and non-linear HRV parameters under mentally relaxed versus stressful states.  
+*Methodology:* Participants were randomly and equally divided among two between-subjects groups: relaxed-stress (RS) (N = 22) and stress-relaxed (SR) (N = 22). In the RS group, a paced breathing task was given for 5 min to create relaxation, and was followed by a 5-min time-based mental calculation task to create stress. In the SR group, the order of the stress and relaxed tasks was reversed. There was a washout period of 15 min after the first task in both groups.  
+*Results:* Of the 37 HRV parameters, 33 differed significantly between the two interventions. The majority of the parameters exhibited an improving and degrading tendency of HRV parameters in the relaxed and stressed states, respectively. The correlation of the majority of HRV parameters decreases during stress, while prominent time domain and geometric domain parameters stand out in the correlation.  
+*Conclusion: *Overall, HRV parameters can be reliably used to assess a person's relaxed and stressed mental states during paced breathing and mental arithmetic task respectively. Furthermore, non-linear HRV parameters provide accurate estimators of the mental state, in addition to the commonly used linear parameters.
+
+## Important figures
+
+![Figure 2: Experimental design of the study.](hrvparameters-2024-fig2.jpg)
+
+![Figure 4: Data from one of the participants showing the TD (left) and FD (right) representation of the RR tachogram taken during 5 min of relaxation (top) and stress (bottom). In TD plots (left), RR intervals are shown with a mean (dotted blue line) and SD (gray band). In the FD plots (right), four frequency bands are shown in the spectrum of the RR tachogram: Very Low Frequency (VLF), Low Frequency (LF), High Frequency (HF), and Very High Frequency (VHF). (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)](hrvparameters-2024-fig4.png)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1016/j.heliyon.2024.e32195">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{chand_comprehensive_2024,
+    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},
+    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},
+    doi = {10.1016/j.heliyon.2024.e32195},
+    journal = {Heliyon},
+    year = {2024},
+    volume = {10},
+    number = {11},
+    pages = {e32195}}
+```

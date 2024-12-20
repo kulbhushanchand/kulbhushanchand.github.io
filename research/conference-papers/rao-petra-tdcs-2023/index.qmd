@@ -1,0 +1,74 @@
+---
+title: "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning"
+date: 2023-08-10
+author:
+  - name: Akash K Rao
+    affiliation: Indian Institute of Technology Mandi
+  - name: Zoha Fatma
+    affiliation: Indian Institute of Technology Mandi
+  - name: Vishnu K Menon
+    affiliation: Indian Institute of Technology Mandi
+  - name: Arnav Bhavsar
+    affiliation: Indian Institute of Technology Mandi
+  - name: Shubhajit Roy Chowdhury
+    affiliation: Indian Institute of Technology Mandi
+  - name: Sushil Chandra
+    affiliation: Indian Institute of Technology Mandi  
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation              
+categories:
+  - Feature selection
+  - Machine learning
+  - Univariate feature selection
+  - Random forest
+  - tDCS
+  - High-dimensional EEG dataset
+pub-info:
+  reference: >-
+    Akash K Rao, Zoha Fatma, Vishnu K Menon, Arnav Bhavsar, Shubhajit Roy Chowdhury, Sushil Chandra, Varun Dutt, and <strong>Kulbhushan Chand</strong>, “Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning,” <em>Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments</em> (2024), doi: <a href="https://doi.org/10.1145/3594806.3596579"><code>10.1145/3594806.3596579</code></a>
+  links:
+#    - name: PDF
+#      url: 
+#      icon: fa-solid fa-file-pdf
+#      local: true
+    - name: Final version
+      url: https://doi.org/10.1145/3594806.3596579
+      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1145/3594806.3596579
+      icon: ai ai-zotero-square
+#  extra: >- 
+#    
+doi: 10.1145/3594806.3596579
+#haiku:
+#  - 
+#  - 
+#  - 
+---
+
+## Abstract
+
+Prior research shows that transcranial direct current stimulation (tDCS) has the propensity to induce performance gains in human subjects in various cognitive processes. However, very little is known about whether these gains can be predicted via machine learning data using Electroencephalography (EEG) data. To address this gap, in this study, feature-selection approaches and machine learning (ML) are performed on various features extracted from EEG data to predict human performance gains due to tDCS administration. Human data was collected from two distinct groups of people (tDCS (N = 15) and sham (N = 15)), one of which undertook tDCS administration over six days (sham did not undertake the tDCS administration). On day 1 and day 8, data was collected on the user's performance in an underwater search-and-shoot simulation. 32-channel EEG data was acquired during task execution. Different feature-selection and regression-based machine learning techniques were attempted to predict the change in performance on day 8 compared to day 1. Results revealed that univariate feature selection performed best with random forest regression with an 8% error among different feature selection techniques. We highlight the inferences of our results for performance gain prediction from tDCS and allied interventions.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1145/3594806.3596579">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@inproceedings{k_rao_prediction_2023,
+	title = {Prediction of decision-making performance post-longitudinal {tDCS} administration via {EEG} features and machine learning},
+	author = {K Rao, Akash and Fatma, Zoha and K Menon, Vishnu and Bhavsar, Arnav and Roy Chowdhury, Shubhajit and Chandra, Sushil and Dutt, Varun and Chand, Kulbhushan},
+	doi = {10.1145/3594806.3596579},
+	booktitle = {Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}},
+	year = {2023},
+	pages = {760--765}}
+```

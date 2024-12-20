@@ -1,0 +1,28 @@
+---
+title: "Welcome quarto...!"
+date: 2024-12-20
+description: "Testing out the blog post"
+image: "img/quarto-logo.png"
+twitter-card:
+  image: "img/quarto-logo"
+open-graph:
+  image: "img/quarto-logo"
+categories:
+  - first
+  - goals
+  - quarto
+resources:
+  - "img/*"
+#doi: 
+citation: true
+---
+
+::: callout-important
+## Work in progress
+
+This is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.
+:::
+
+Welcome to quarto website
+
+

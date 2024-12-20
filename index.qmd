@@ -1,0 +1,38 @@
+---
+title: "Hello there!"
+pagetitle: "Kulbhushan Chand"
+description-meta: "Kulbhushan Chand is a post doctoral fellow at Technology Innovation Hub, Indian institute of Tehchnology Mandi, researching Human Computer Interaction."
+main-photo: /files/profiles/kulbhushan-chand-2024.jpg
+main-photo-square: /files/profiles/kulbhushan-chand-2024-square.jpg
+title-block-banner: "#CF4446"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+---
+
+::::: grid
+::: {.g-col-12 .g-col-sm-4}
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+I'm a Post Doctoral fellow in [Technology Innovation Hub](https://www.ihubiitmandi.in/) at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in/). I received a PhD in electronics and communication engineering from [National Institute of Technology Jalandhar](https://www.nitj.ac.in/) in 2022.
+
+Broadly my research areas overlaps [Human Computer Interaction (HCI)](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), [Indian Knowledge System (IKS)](https://en.wikipedia.org/wiki/Indian_Knowledge_Systems) and mental healthcare. Specifically, I do research in developing biofeedback systems, validating alternate form of medications (like biofeedback, music, meditation etc.) for mental stress management, and making biofeedback protocols more engaging through gamification.
+
+I mostly use open-source tools/technologies in my work, and my PhD work is freely available. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative.
+:::
+:::::
