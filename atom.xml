@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kulbhushan Chand&#39;s blog</title>
+<link>https://kulbhushanchand.github.io/atom.html</link>
+<atom:link href="https://kulbhushanchand.github.io/atom.xml" rel="self" type="application/rss+xml"/>
+<description>Kulbhushan Chand&#39;s blog</description>
+<language>en</language>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Thu, 19 Dec 2024 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome quarto…!</title>
+  <dc:creator>Kulbhushan Chand</dc:creator>
+  <link>https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Work in progress
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.</p>
+</div>
+</div>
+<p>Welcome to quarto website</p>
+
+
+<!-- -->
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{chand2024,
+  author = {Chand, Kulbhushan},
+  title = {Welcome Quarto...!},
+  date = {2024-12-20},
+  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chand2024" class="csl-entry quarto-appendix-citeas">
+Chand, Kulbhushan. 2024. <span>“Welcome Quarto...!”</span> December 20,
+2024. <a href="https://kulbhushanchand.github.io/blog/2024/12/20/first-post/">https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</a>.
+</div></div></section></div> ]]></description>
+  <category>first</category>
+  <category>goals</category>
+  <category>quarto</category>
+  <guid>https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</guid>
+  <pubDate>Thu, 19 Dec 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://kulbhushanchand.github.io/blog/2024/12/20/first-post/img/quarto-logo.png" medium="image" type="image/png" height="166" width="144"/>
+</item>
+</channel>
+</rss>

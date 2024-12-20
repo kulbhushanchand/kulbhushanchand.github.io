@@ -1,0 +1,37 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
+      "/research/articles/chand-chandra-dutt-hrvparameters-2024/index.html",
+      "/research/articles/chand-khosla-biones-2022/index.html",
+      "/research/articles/chand-khosla-biofeedback-2022/index.html",
+      "/research/articles/chand-khosla-daq-2022/index.html",
+      "/research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html",
+      "/research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html",
+      "/research/conference-papers/rao-petra-tdcs-2023/index.html",
+      "/research/chapters/jain-gamification-2019/index.html",
+      "/research/chapters/mukherjee-gamification-2019/index.html",
+      "/research/chapters/padmakar-game-2019/index.html",
+      "/research/chapters/setia-gamification-2019/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/rss.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  }
+]

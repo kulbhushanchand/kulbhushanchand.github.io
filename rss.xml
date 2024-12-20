@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kulbhushan Chand&#39;s blog</title>
+<link>https://kulbhushanchand.github.io/rss.html</link>
+<atom:link href="https://kulbhushanchand.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+<description>Kulbhushan Chand&#39;s blog</description>
+<language>en</language>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Thu, 19 Dec 2024 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome quarto…!</title>
+  <dc:creator>Kulbhushan Chand</dc:creator>
+  <link>https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</link>
+  <description><![CDATA[ Testing out the blog post ]]></description>
+  <category>first</category>
+  <category>goals</category>
+  <category>quarto</category>
+  <guid>https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</guid>
+  <pubDate>Thu, 19 Dec 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://kulbhushanchand.github.io/blog/2024/12/20/first-post/img/quarto-logo.png" medium="image" type="image/png" height="166" width="144"/>
+</item>
+</channel>
+</rss>
