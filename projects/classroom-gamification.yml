@@ -1,0 +1,31 @@
+title: "classroom-gamification"
+subtitle: classroom-gamification
+date: 2022-01-18
+description: Tool to gamify your classroom with an online leaderboard 
+logo: logos/classroom-gamification-logo.png
+role: Author
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation:
+      - name: National Institute of Technology Jalandhar, India 
+        city: Jalandhar
+        state: Punjab
+        country: India
+        url: https://www.nitj.ac.in/
+categories:
+  - Gamification
+links:
+  - name: Repository
+    url: https://github.com/kulbhushanchand/classroom-gamification
+    icon: fa-brands:github
+  - name: v1.1.2
+    url: https://github.com/kulbhushanchand/classroom-gamification/releases/tag/v1.1.2
+    icon: bi:tag-fill
+  - name: Demo
+    url: https://kulbhushanchand.github.io/classroom-gamification/
+    icon: tdesign:play-demo-filled
+  - name: Open Software
+    url: 
+    icon: raphael:opensource

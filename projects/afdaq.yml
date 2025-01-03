@@ -1,0 +1,32 @@
+title: "Arduino Firmata Data Acquisition"
+subtitle: AfDaq
+date: 2021-04-20
+description: A plug and play MATLAB based tool for biofeedback and Arduino based instruments 
+logo: logos/afdaq-logo.svg
+role: Author
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation:
+      - name: National Institute of Technology Jalandhar, India 
+        city: Jalandhar
+        state: Punjab
+        country: India
+        url: https://www.nitj.ac.in/
+categories:
+  - Arduino
+  - MATLAB
+links:
+  - name: Repository
+    url: https://github.com/kulbhushanchand/AfDaq
+    icon: fa-brands:github
+  - name: v1.0.0
+    url: https://github.com/kulbhushanchand/AfDaq/releases/tag/1.0.0
+    icon: bi:tag-fill
+  - name: Documentation
+    url: https://kulbhushanchand.github.io/AfDaq/
+    icon: bi:book-fill
+  - name: Open Software
+    url: 
+    icon: raphael:opensource

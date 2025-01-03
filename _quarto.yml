@@ -57,6 +57,8 @@ website:
         file: "blog/index.qmd"
       - text: "Research"
         file: "research/index.qmd"
+      - text: "Projects"
+        file: "projects/index.qmd"        
       - text: "Now"
         href: "now/index.qmd"
       - text: "Uses"

@@ -1,0 +1,42 @@
+title: "Biofeedback Nintendo Entertainment System"
+subtitle: BioNES
+date: 2021-05-03
+description: A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback 
+logo: logos/biones-logo.svg
+role: Author
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation:
+      - name: IIT Mandi iHub and HCI Foundation
+        city: Mandi
+        state: Himachal
+        country: India
+        url: https://www.ihubiitmandi.in/
+      - name: National Institute of Technology Jalandhar, India 
+        city: Jalandhar
+        state: Punjab
+        country: India
+        url: https://www.nitj.ac.in/
+categories:
+  - Arduino
+  - MATLAB
+  - Biofeedback
+  - Video game
+links:
+  - name: Repository
+    url: https://github.com/kulbhushanchand/BioNES
+    icon: fa-brands:github
+  - name: v1.0.0
+    url: https://github.com/kulbhushanchand/BioNES/releases/tag/1.0.0
+    icon: bi:tag-fill
+  - name: Documentation
+    url: https://kulbhushanchand.github.io/BioNES/
+    icon: bi:book-fill
+  - name: Open Software
+    url: 
+    icon: raphael:opensource
+  - name: Open Hardware
+    url: 
+    icon: simple-icons:opensourcehardware

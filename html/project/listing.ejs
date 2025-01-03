@@ -1,0 +1,61 @@
+```{=html}
+<div class="projects">
+    <ul class="list">
+    <% for (const course of items) { %>
+    <div class="course-entry" <%=metadataAttrs(course) %>>
+        <div class="logo">
+            <% if (course.url) { %>
+            <a href="<%= course.url %>" target="_blank"><img src="<%= course.logo %>" alt="<%= course.title %>" title="<%= course.title %>" /></a>
+            <% } else { %>
+            <img src="<%= course.logo %>" alt="<%= course.title %>" title="<%= course.title %>" />
+            <% } %>
+        </div>
+        <div class="body">
+            <p class="course-title">
+                <% if (course.url) { %>
+                <a href="<%= course.url %>" target="_blank"><%= course.title %></a> 
+                <% } else { %>
+                <%= course.title %> 
+                <% } %>
+            </p>
+            <p class="course-details">
+                <span class="course-number"><%= course.subtitle %></span>
+                <% if (course.role) { %>
+                | <span class="course-role"><%= course.role %></span>
+                <% } %>
+            </p>
+
+            <% if(course.categories) { %>
+                <div class="projects-categories">
+                    <% for (const cat of course.categories) { %>
+                        <div class="projects-category"><a href="#category=<%= cat %>">
+                                <%= cat %>
+                            </a></div>
+                        <% } %>
+                </div>
+            <% } %>
+
+            <p class="course-description"><%= course.description %></p>
+
+            <% if (course.links) { %>
+                <ul class="talk-links">
+                    <% for (const link of course.links) { %>
+                    <li class="talk-link">
+                        <% if (link.local) { %>
+                        <a href="<%- talk.path.substring(0, talk.path.lastIndexOf('/')) %>/<%- link.url %>">
+                        <% } else { if (link.url) { %>
+                        <a href="<%- link.url %>">
+                        <% } } %>
+                            <iconify-icon icon="<%- link.icon %>" inline=""></iconify-icon> <%= link.name %>
+                        </a>
+                    </li>
+                    <% } %>
+                <% } %>
+                </ul>
+
+        </div>
+    </div>
+    <% } %>
+</ul>
+</div>
+```
