@@ -17,16 +17,20 @@
     ]
   },
   {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/2024/12/20/first-post/index.html"
     ]
   },
   {
-    "listing": "/atom.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
+    "listing": "/projects/index.html",
+    "items": []
   },
   {
     "listing": "/rss.html",

@@ -217,32 +217,18 @@
     "text": "Citation\n\n Add to Zotero \n\n@article{chand_comprehensive_2024,\n    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1016/j.heliyon.2024.e32195},\n    journal = {Heliyon},\n    year = {2024},\n    volume = {10},\n    number = {11},\n    pages = {e32195}}"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there!",
+    "objectID": "now/index.html",
+    "href": "now/index.html",
+    "title": "What I’m doing now",
     "section": "",
-    "text": "I’m a Post Doctoral fellow in Technology Innovation Hub at the Indian Institute of Technology Mandi. I received a PhD in electronics and communication engineering from National Institute of Technology Jalandhar in 2022.\nBroadly my research areas overlaps Human Computer Interaction (HCI), Indian Knowledge System (IKS) and mental healthcare. Specifically, I do research in developing biofeedback systems, validating alternate form of medications (like biofeedback, music, meditation etc.) for mental stress management, and making biofeedback protocols more engaging through gamification.\nI mostly use open-source tools/technologies in my work, and my PhD work is freely available. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative."
+    "text": "As of December 20, 2024, I’m spending all my time on these things:\n\nStaying in the Himalayas and working as a Post Doctoral fellow in the IIT Mandi iHub and HCI Foundation at the Indian Institute of Technology Mandi\nMost of the time residing in the Center for Human Computer Interaction lab for research work.\nWorking in few large projects involving the use of technologies for mental health.\nDeveloping Proof of Concepts (mostly wearables and affordable healthcare devices) for the translation research.\nWriting and submitting manuscripts for the publication."
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
+    "objectID": "disclaimer/index.html",
+    "href": "disclaimer/index.html",
+    "title": "Disclaimer",
     "section": "",
-    "text": "Download current CV"
-  },
-  {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "Blog",
-    "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            December 20, 2024\n        \n        \n            Welcome quarto...!\n\n            \n            \n                \n                \n                    first\n                \n                \n                \n                    goals\n                \n                \n                \n                    quarto\n                \n                \n            \n            \n\n            Testing out the blog post\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/2024/12/20/first-post/index.html",
-    "href": "blog/2024/12/20/first-post/index.html",
-    "title": "Welcome quarto…!",
-    "section": "",
-    "text": "Work in progress\n\n\n\nThis is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.\n\n\nWelcome to quarto website\n\n\n\n\n\nCitationBibTeX citation:@online{chand2024,\n  author = {Chand, Kulbhushan},\n  title = {Welcome Quarto...!},\n  date = {2024-12-20},\n  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChand, Kulbhushan. 2024. “Welcome Quarto...!” December 20,\n2024. https://kulbhushanchand.github.io/blog/2024/12/20/first-post/."
+    "text": "The opinions expressed on this website are author’s own in his personal capacity. They do not reflect the views of anyone else."
   },
   {
     "objectID": "contact/index.html",
@@ -266,18 +252,46 @@
     "text": "Online profiles\n LinkedIn\n Google Scholar\n ORCID\n ResearchGate\n GitHub\n OSF\n YouTube"
   },
   {
-    "objectID": "disclaimer/index.html",
-    "href": "disclaimer/index.html",
-    "title": "Disclaimer",
+    "objectID": "blog/2024/12/20/first-post/index.html",
+    "href": "blog/2024/12/20/first-post/index.html",
+    "title": "Welcome quarto…!",
     "section": "",
-    "text": "The opinions expressed on this website are author’s own in his personal capacity. They do not reflect the views of anyone else."
+    "text": "Work in progress\n\n\n\nThis is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.\n\n\nWelcome to quarto website\n\n\n\n\n\nCitationBibTeX citation:@online{chand2024,\n  author = {Chand, Kulbhushan},\n  title = {Welcome Quarto...!},\n  date = {2024-12-20},\n  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChand, Kulbhushan. 2024. “Welcome Quarto...!” December 20,\n2024. https://kulbhushanchand.github.io/blog/2024/12/20/first-post/."
   },
   {
-    "objectID": "now/index.html",
-    "href": "now/index.html",
-    "title": "What I’m doing now",
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            December 20, 2024\n        \n        \n            Welcome quarto...!\n\n            \n            \n                \n                \n                    first\n                \n                \n                \n                    goals\n                \n                \n                \n                    quarto\n                \n                \n            \n            \n\n            Testing out the blog post\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
     "section": "",
-    "text": "As of December 20, 2024, I’m spending all my time on these things:\n\nStaying in the Himalayas and working as a Post Doctoral fellow in the IIT Mandi iHub and HCI Foundation at the Indian Institute of Technology Mandi\nMost of the time residing in the Center for Human Computer Interaction lab for research work.\nWorking in few large projects involving the use of technologies for mental health.\nDeveloping Proof of Concepts (mostly wearables and affordable healthcare devices) for the translation research.\nWriting and submitting manuscripts for the publication."
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello there!",
+    "section": "",
+    "text": "I’m a Post Doctoral fellow in Technology Innovation Hub at the Indian Institute of Technology Mandi. I received a PhD in electronics and communication engineering from National Institute of Technology Jalandhar in 2022.\nBroadly my research areas overlaps Human Computer Interaction (HCI), Indian Knowledge System (IKS) and mental healthcare. Specifically, I do research in developing biofeedback systems, validating alternate form of medications (like biofeedback, music, meditation etc.) for mental stress management, and making biofeedback protocols more engaging through gamification.\nI mostly use open-source tools/technologies in my work, and my PhD work is freely available. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I am an avid supporter of open source technologies and use most of them for my projects. These are some of the open source projects I have made. Hope you’ll find them useful."
+  },
+  {
+    "objectID": "projects/index.html#technical-projects",
+    "href": "projects/index.html#technical-projects",
+    "title": "Projects",
+    "section": "Technical Projects",
+    "text": "Technical Projects\n\n\n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Biofeedback Nintendo Entertainment System \n                \n            \n            \n                BioNES\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                MATLAB\n                            \n                        \n                        \n                                Biofeedback\n                            \n                        \n                        \n                                Video game\n                            \n                        \n                \n            \n\n            A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                    \n                        \n                             Open Hardware\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Arduino Firmata Data Acquisition \n                \n            \n            \n                AfDaq\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                MATLAB\n                            \n                        \n                \n            \n\n            A plug and play MATLAB based tool for biofeedback and Arduino based instruments\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                MCP4251 \n                \n            \n            \n                MCP4251\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                Library\n                            \n                        \n                        \n                                Digital potentiometer\n                            \n                        \n                \n            \n\n            Arduino library for MCP4251 Digital Potentiometer\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                classroom-gamification \n                \n            \n            \n                classroom-gamification\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Gamification\n                            \n                        \n                \n            \n\n            Tool to gamify your classroom with an online leaderboard\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.1.2\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Demo\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n\n\n\nNo matching items"
   },
   {
     "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
