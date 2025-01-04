@@ -1,0 +1,13 @@
+- title: "Octalysis"
+  date: 2020-11-17
+  description: Invited talk for AICTE ATAL Sponsored Online Faculty Development Program on Gamification conducted by National Institute of Technology Jalandhar
+  location: Jalandhar, India 
+  type: Invited talk
+  mode: Online
+  links:
+  - name: Invited talk
+    url: 
+    icon: mdi:talk
+  - name: Online
+    url: 
+    icon: fa:globe

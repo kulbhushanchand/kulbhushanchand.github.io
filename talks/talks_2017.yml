@@ -1,0 +1,13 @@
+- title: "Arduino workshop for kids"
+  date: 2017-11-01
+  description: Workshop for the school going children on arduino
+  location: Jalandhar, India 
+  type: Instructor
+  mode: In-person
+  links:
+  - name: Instructor
+    url: 
+    icon: material-symbols:co-present
+  - name: In-person
+    url: 
+    icon: fa:university

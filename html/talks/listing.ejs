@@ -16,10 +16,10 @@
                 <li class="talk-link">
                     <% if (link.local) { %>
                     <a href="<%- talk.path.substring(0, talk.path.lastIndexOf('/')) %>/<%- link.url %>">
-                    <% } else { %>
+                    <% } else { if (link.url) { %>
                     <a href="<%- link.url %>">
-                    <% } %>
-                        <i class="<%- link.icon %>"></i> <%= link.name %>
+                    <% } } %>
+                    <iconify-icon icon="<%- link.icon %>" inline=""></iconify-icon> <%= link.name %>
                     </a>
                 </li>
                 <% } %>

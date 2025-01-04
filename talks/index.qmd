@@ -1,0 +1,59 @@
+---
+title: "Talks"
+listing:
+  - id: talks_2023
+    contents: talks_2023.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2022
+    contents: talks_2022.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2020
+    contents: talks_2020.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2019
+    contents: talks_2019.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2017
+    contents: talks_2017.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+title-block-banner: "#FB9E07"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Year
+date-format: "MMMM D, YYYY"
+---
+
+
+This page contains the briefs of various workshops, talks, lectures, and presentations I've given.
+
+::: {.callout-note}
+### Copyright
+
+Except where noted, all content is © Kulbhushan Chand and licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
+:::
+
+## 2023
+
+:::{#talks_2023}
+:::
+
+## 2022
+
+:::{#talks_2022}
+:::
+
+## 2020
+
+:::{#talks_2020}
+:::
+
+## 2019
+
+:::{#talks_2019}
+:::

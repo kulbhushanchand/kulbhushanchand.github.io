@@ -1,0 +1,27 @@
+- title: "Human Motivation and Engagement Analysis using Octalysis Gamification Framework"
+  date: 2022-10-18
+  description: Invited talk for 4th Winter School on Cognitive Modeling - 2022 conducted by Indian Institute of Technology Mandi
+  location: Mandi, India
+  type: Invited talk
+  mode: Online
+  links:
+  - name: Invited talk
+    url: 
+    icon: mdi:talk
+  - name: Online
+    url: 
+    icon: fa:globe
+
+- title: "Octalysis Gamification Framework"
+  date: 2022-09-15
+  description: Guest Lectures (4) for undergraduate course Gamification (ECX-488) at National Institute of Technology Jalandhar
+  location: Jalandhar, India 
+  type: Expert Lecture 
+  mode: Online
+  links:
+  - name: Expert lecture
+    url: 
+    icon: material-symbols:co-present
+  - name: Online
+    url: 
+    icon: fa:globe

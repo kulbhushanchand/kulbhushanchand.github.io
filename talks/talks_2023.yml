@@ -1,0 +1,41 @@
+- title: "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters"
+  date: 2023-12-15
+  description: Conference presentation at Mind, Brain, and Consciousness Conference (MBCC) - 2023 conducted by Indian Institute of Technology Mandi
+  location: Mandi, India
+  type: Conference presentation
+  mode: In-person
+  links:
+  - name: Conference presentation
+    url: 
+    icon: ri:presentation-fill
+  - name: In-person
+    url: 
+    icon: fa:university
+
+- title: "Human Motivation and Engagement Analysis using Octalysis Gamification Framework"
+  date: 2023-10-15
+  description: Invited talk for 5th Winter School on Cognitive Modeling - 2023 conducted by Indian Institute of Technology Mandi
+  location: Mandi, India
+  type: Invited talk
+  mode: Online
+  links:
+  - name: Invited talk
+    url: 
+    icon: mdi:talk
+  - name: Online
+    url: 
+    icon: fa:globe
+
+- title: "Octalysis Gamification Framework"
+  date: 2023-02-22
+  description: Guest Lecture for undergraduate course Gamification (ECOE-496) at National Institute of Technology Jalandhar
+  location: Jalandhar, India 
+  type: Expert lecture 
+  mode: Online
+  links:
+  - name: Expert lecture
+    url: 
+    icon: material-symbols:co-present
+  - name: Online
+    url: 
+    icon: fa:globe
