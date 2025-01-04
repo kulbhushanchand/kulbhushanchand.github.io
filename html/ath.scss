@@ -554,12 +554,21 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .logo {
-            flex: 0 0 140px;
-            display: flex;
-            align-items: center;
+            flex: 0 0 100px;
 
             img {
                 width: 100%;
+            }
+        }
+
+        @media (min-width: map-get($grid-breakpoints, md)) {
+
+            .logo {
+                flex: 0 0 140px;
+    
+                img {
+                    width: 100%;
+                }
             }
         }
 
