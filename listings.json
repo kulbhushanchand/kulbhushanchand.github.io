@@ -1,5 +1,27 @@
 [
   {
+    "listing": "/rss.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
     "listing": "/research/index.html",
     "items": [
       "/research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
@@ -17,25 +39,7 @@
     ]
   },
   {
-    "listing": "/atom.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
+    "listing": "/talks/index.html",
     "items": []
-  },
-  {
-    "listing": "/rss.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
   }
 ]
