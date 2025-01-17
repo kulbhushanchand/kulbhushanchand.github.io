@@ -1,6 +1,6 @@
 ---
 title: Disclaimer
-date: 2024-12-20
+date: 2025-01-17
 description: Just a friendly note that everything on this website are my opinions only
 title-block-banner: "#CF4446"
 published-title: Last updated

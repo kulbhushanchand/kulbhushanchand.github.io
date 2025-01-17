@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-date: 2024-12-20
+date: 2025-01-17
 description: Kulbhushan Chand is working on a bunch of exciting projects
 published-title: Last updated
 title-block-banner: "#771C6D"
@@ -15,7 +15,7 @@ freeze: false
 }
 ```
 
-As of December 20, 2024, I'm spending all my time on these things:
+As of January 17, 2025, I'm spending all my time on these things:
 
 -   Staying in the Himalayas and working as a Post Doctoral fellow in the [IIT Mandi iHub and HCI Foundation](https://www.ihubiitmandi.in/) at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in/)
 - Most of the time residing in the [Center for Human Computer Interaction](https://chci.iitmandi.ac.in/) lab for research work.

@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2024-12-20
+date: 2025-01-17
 description: Kulbhushan Chand's email and online profiles
 published-title: Last updated
 title-block-banner: "#771C6D"

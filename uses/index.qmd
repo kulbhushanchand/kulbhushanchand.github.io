@@ -1,6 +1,6 @@
 ---
 title: What I use
-date: 2024-12-20
+date: 2025-01-17
 description: Kulbhushan Chand is working on a bunch of exciting projects
 title-block-banner: "#771C6D"
 published-title: Last updated
@@ -25,7 +25,7 @@ I have to yet to populate this page. Stay tuned…!
 
 I often discuss with the curious ones about my research workflow and the different tools I use. I tried to describe in a more detailed list of all the interconnected programs I use.
 
-I try to keep this updated fairly regularly. As of December 19, 2024 this is what I’m using:
+I try to keep this updated fairly regularly. As of January 17, 2025 this is what I’m using:
 
 ## Development
 
