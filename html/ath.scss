@@ -554,17 +554,17 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .logo {
-            flex: 0 0 100px;
+            flex: 0 0 140px;
 
             img {
                 width: 100%;
             }
         }
 
-        @media (min-width: map-get($grid-breakpoints, md)) {
+        @media (max-width: map-get($grid-breakpoints, md)) {
 
             .logo {
-                flex: 0 0 140px;
+                flex: 0 0 100px;
     
                 img {
                     width: 100%;
