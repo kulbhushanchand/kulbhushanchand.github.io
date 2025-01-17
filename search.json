@@ -4,7 +4,7 @@
     "href": "uses/index.html",
     "title": "What I use",
     "section": "",
-    "text": "I often discuss with the curious ones about my research workflow and the different tools I use. I tried to describe in a more detailed list of all the interconnected programs I use.\nI try to keep this updated fairly regularly. As of December 19, 2024 this is what I’m using:"
+    "text": "I often discuss with the curious ones about my research workflow and the different tools I use. I tried to describe in a more detailed list of all the interconnected programs I use.\nI try to keep this updated fairly regularly. As of January 17, 2025 this is what I’m using:"
   },
   {
     "objectID": "uses/index.html#development",
@@ -14,403 +14,39 @@
     "text": "Development\n\nScience and research\n\nI post almost everything I write or develop on GitHub.\n\n\n\nWeb\n\nI build my website using Quarto hosted on GitHub.\nI use firefox dediactely with enough extensions for my need for all by web browsing tasks."
   },
   {
-    "objectID": "research/conference-papers/rao-petra-tdcs-2023/index.html",
-    "href": "research/conference-papers/rao-petra-tdcs-2023/index.html",
-    "title": "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
-    "text": "Prior research shows that transcranial direct current stimulation (tDCS) has the propensity to induce performance gains in human subjects in various cognitive processes. However, very little is known about whether these gains can be predicted via machine learning data using Electroencephalography (EEG) data. To address this gap, in this study, feature-selection approaches and machine learning (ML) are performed on various features extracted from EEG data to predict human performance gains due to tDCS administration. Human data was collected from two distinct groups of people (tDCS (N = 15) and sham (N = 15)), one of which undertook tDCS administration over six days (sham did not undertake the tDCS administration). On day 1 and day 8, data was collected on the user’s performance in an underwater search-and-shoot simulation. 32-channel EEG data was acquired during task execution. Different feature-selection and regression-based machine learning techniques were attempted to predict the change in performance on day 8 compared to day 1. Results revealed that univariate feature selection performed best with random forest regression with an 8% error among different feature selection techniques. We highlight the inferences of our results for performance gain prediction from tDCS and allied interventions."
+    "text": "This page contains the briefs of various workshops, talks, lectures, and presentations I’ve given."
   },
   {
-    "objectID": "research/conference-papers/rao-petra-tdcs-2023/index.html#abstract",
-    "href": "research/conference-papers/rao-petra-tdcs-2023/index.html#abstract",
-    "title": "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning",
-    "section": "",
-    "text": "Prior research shows that transcranial direct current stimulation (tDCS) has the propensity to induce performance gains in human subjects in various cognitive processes. However, very little is known about whether these gains can be predicted via machine learning data using Electroencephalography (EEG) data. To address this gap, in this study, feature-selection approaches and machine learning (ML) are performed on various features extracted from EEG data to predict human performance gains due to tDCS administration. Human data was collected from two distinct groups of people (tDCS (N = 15) and sham (N = 15)), one of which undertook tDCS administration over six days (sham did not undertake the tDCS administration). On day 1 and day 8, data was collected on the user’s performance in an underwater search-and-shoot simulation. 32-channel EEG data was acquired during task execution. Different feature-selection and regression-based machine learning techniques were attempted to predict the change in performance on day 8 compared to day 1. Results revealed that univariate feature selection performed best with random forest regression with an 8% error among different feature selection techniques. We highlight the inferences of our results for performance gain prediction from tDCS and allied interventions."
+    "objectID": "talks/index.html#section",
+    "href": "talks/index.html#section",
+    "title": "Talks",
+    "section": "2023",
+    "text": "2023\n\n\n\n    \n    \n                  \n            December 15, 2023\n        \n        \n            Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters\n            Conference presentation at Mind, Brain, and Consciousness Conference (MBCC) - 2023 conducted by Indian Institute of Technology Mandi | Mandi, India\n\n            \n            \n                \n                \n                    \n                     Conference presentation\n                    \n                \n                \n                \n                    \n                     In-person\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            October 15, 2023\n        \n        \n            Human Motivation and Engagement Analysis using Octalysis Gamification Framework\n            Invited talk for 5th Winter School on Cognitive Modeling - 2023 conducted by Indian Institute of Technology Mandi | Mandi, India\n\n            \n            \n                \n                \n                    \n                     Invited talk\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            February 22, 2023\n        \n        \n            Octalysis Gamification Framework\n            Guest Lecture for undergraduate course Gamification (ECOE-496) at National Institute of Technology Jalandhar | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Expert lecture\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "research/conference-papers/rao-petra-tdcs-2023/index.html#citation",
-    "href": "research/conference-papers/rao-petra-tdcs-2023/index.html#citation",
-    "title": "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@inproceedings{k_rao_prediction_2023,\n    title = {Prediction of decision-making performance post-longitudinal {tDCS} administration via {EEG} features and machine learning},\n    author = {K Rao, Akash and Fatma, Zoha and K Menon, Vishnu and Bhavsar, Arnav and Roy Chowdhury, Shubhajit and Chandra, Sushil and Dutt, Varun and Chand, Kulbhushan},\n    doi = {10.1145/3594806.3596579},\n    booktitle = {Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}},\n    year = {2023},\n    pages = {760--765}}"
+    "objectID": "talks/index.html#section-1",
+    "href": "talks/index.html#section-1",
+    "title": "Talks",
+    "section": "2022",
+    "text": "2022\n\n\n\n    \n    \n                  \n            October 18, 2022\n        \n        \n            Human Motivation and Engagement Analysis using Octalysis Gamification Framework\n            Invited talk for 4th Winter School on Cognitive Modeling - 2022 conducted by Indian Institute of Technology Mandi | Mandi, India\n\n            \n            \n                \n                \n                    \n                     Invited talk\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 15, 2022\n        \n        \n            Octalysis Gamification Framework\n            Guest Lectures (4) for undergraduate course Gamification (ECX-488) at National Institute of Technology Jalandhar | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Expert lecture\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html",
-    "href": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html",
-    "title": "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters",
-    "section": "",
-    "text": "Paper (open acess)"
+    "objectID": "talks/index.html#section-2",
+    "href": "talks/index.html#section-2",
+    "title": "Talks",
+    "section": "2020",
+    "text": "2020\n\n\n\n    \n    \n                  \n            November 17, 2020\n        \n        \n            Octalysis\n            Invited talk for AICTE ATAL Sponsored Online Faculty Development Program on Gamification conducted by National Institute of Technology Jalandhar | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Invited talk\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#important-links",
-    "href": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#important-links",
-    "title": "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters",
-    "section": "",
-    "text": "Paper (open acess)"
-  },
-  {
-    "objectID": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#citation",
-    "href": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#citation",
-    "title": "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters",
-    "section": "Citation",
-    "text": "Citation\n\n@article{chand_comprehensive_2024,\n    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1016/j.heliyon.2024.e32195},\n    journal = {Heliyon},\n    year = {2024},\n    volume = {10},\n    number = {11},\n    pages = {e32195}}"
-  },
-  {
-    "objectID": "research/chapters/padmakar-game-2019/index.html",
-    "href": "research/chapters/padmakar-game-2019/index.html",
-    "title": "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia",
-    "section": "",
-    "text": "The recent studies show that the children with learning disabilities numbers have been gradually increased in India. Though the main reason for the cause of this disorder is unknown, the authors strongly believe that this neurological disorder is explained as a genetic disorder passed from elder hierarchy to the next generation. With the available resources, the awareness programs are limited to urban areas only on account of using current technology in diagnosing disorders. In developed countries, it is seen that new technologies taking birth every day for the treatment of these disorders. This includes LCD 3D display, Kinect games, computer games (psychotherapeutic) in therapy sessions, etc. These kinds of games make children more attentive towards the intervention bringing new changes in the day-to-day lives of the children. In this chapter, a new algorithm has been highlighted for the intervention of children with dyslexia by using the Android application as a source to increase the level of perception and sound-symbol association of the respective alphabets used and studied."
-  },
-  {
-    "objectID": "research/chapters/padmakar-game-2019/index.html#abstract",
-    "href": "research/chapters/padmakar-game-2019/index.html#abstract",
-    "title": "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia",
-    "section": "",
-    "text": "The recent studies show that the children with learning disabilities numbers have been gradually increased in India. Though the main reason for the cause of this disorder is unknown, the authors strongly believe that this neurological disorder is explained as a genetic disorder passed from elder hierarchy to the next generation. With the available resources, the awareness programs are limited to urban areas only on account of using current technology in diagnosing disorders. In developed countries, it is seen that new technologies taking birth every day for the treatment of these disorders. This includes LCD 3D display, Kinect games, computer games (psychotherapeutic) in therapy sessions, etc. These kinds of games make children more attentive towards the intervention bringing new changes in the day-to-day lives of the children. In this chapter, a new algorithm has been highlighted for the intervention of children with dyslexia by using the Android application as a source to increase the level of perception and sound-symbol association of the respective alphabets used and studied."
-  },
-  {
-    "objectID": "research/chapters/padmakar-game-2019/index.html#citation",
-    "href": "research/chapters/padmakar-game-2019/index.html#citation",
-    "title": "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{padmakar_learneasy-android_2019,\n    title = {{LearnEasy}-{Android} {Application} as a {Technological} {Intervention} for {Children} {With} {Dyslexia}},\n    author = {Padmakar, Ganta Sandeep V and Khosla, Arun and Chand, Kulbhushan},\n    doi = {10.4018/978-1-5225-7004-2.ch012},\n    booktitle = {Emerging {Trends} in the {Diagnosis} and {Intervention} of {Neurodevelopmental} {Disorders}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {12},\n    pages = {236-248}}"
-  },
-  {
-    "objectID": "research/chapters/jain-gamification-2019/index.html",
-    "href": "research/chapters/jain-gamification-2019/index.html",
-    "title": "The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions",
-    "section": "",
-    "text": "Games are ordered activities, generally undertaken for recreation. The design elements of these games are being used by people all around the planet to make this world a better place. The opportunities for gamification are being discussed in this chapter along with the use of a decision-making method as both have been applied to the study using a local running mobile application as platform for encouraging students enrolled in various educational institutions to promote avoidance of mess food wastage and in gaining confidence to integrate to use this approach to fight the cause of this global malady in their everyday life. The overarching issue of student mentality about food wastage is being discussed along with how to merge gamification with digital technology in this aspect and its participatory design. This provides the background for addressing points of using a gameful system to foster empowerment and connection among the students of NIT Jalandhar where this case was studied and the proposed approach was implemented."
-  },
-  {
-    "objectID": "research/chapters/jain-gamification-2019/index.html#abstract",
-    "href": "research/chapters/jain-gamification-2019/index.html#abstract",
-    "title": "The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions",
-    "section": "",
-    "text": "Games are ordered activities, generally undertaken for recreation. The design elements of these games are being used by people all around the planet to make this world a better place. The opportunities for gamification are being discussed in this chapter along with the use of a decision-making method as both have been applied to the study using a local running mobile application as platform for encouraging students enrolled in various educational institutions to promote avoidance of mess food wastage and in gaining confidence to integrate to use this approach to fight the cause of this global malady in their everyday life. The overarching issue of student mentality about food wastage is being discussed along with how to merge gamification with digital technology in this aspect and its participatory design. This provides the background for addressing points of using a gameful system to foster empowerment and connection among the students of NIT Jalandhar where this case was studied and the proposed approach was implemented."
-  },
-  {
-    "objectID": "research/chapters/jain-gamification-2019/index.html#citation",
-    "href": "research/chapters/jain-gamification-2019/index.html#citation",
-    "title": "The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{jain_pursuit_2019,\n    title = {The {Pursuit} of {Zero} {Food} {Waste}: {A} {Gamified} {Approach} {Promoting} {Avoidance} of {Dormitory} {Mess} {Food} {Wastage} in {Educational} {Institutions}},\n    author = {Jain, Bhavika and Khosla, Arun and Chand, Kulbhushan and Ahuja, Kiran},\n    doi = {10.4018/978-1-5225-7706-5.ch013},\n    booktitle = {Global {Initiatives} for {Waste} {Reduction} and {Cutting} {Food} {Loss}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {13},\n    pages = {243-267}}"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biones-2022/index.html",
-    "href": "research/articles/chand-khosla-biones-2022/index.html",
-    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
-    "section": "",
-    "text": "Paper (open acess)\nGitHub repository"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biones-2022/index.html#important-links",
-    "href": "research/articles/chand-khosla-biones-2022/index.html#important-links",
-    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
-    "section": "",
-    "text": "Paper (open acess)\nGitHub repository"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biones-2022/index.html#abstract",
-    "href": "research/articles/chand-khosla-biones-2022/index.html#abstract",
-    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
-    "section": "Abstract",
-    "text": "Abstract\nIn the traditional biofeedback system, videogames are effectively used to increase engagement as a feedback delivery mechanism via changing in-game mechanics. The original 8-bit Nintendo Entertainment System (NES) games make them an excellent choice for biofeedback for their popularity and simple gameplay mechanics. For this, we present BioNES, which is a MATLAB-based GUI tool to leverage the NES games for multimodal biofeedback. The RR beats can be received from any Arduino compatible board to compute the heart rate variability (HRV). The deviation of HRV from baseline corresponds to the mental stress of the player and is used to compute feedback which is then delivered via NES game running in FCEUX emulator. The player can then use any relaxation protocol, like paced breathing to learn stress management during gameplay. The system performance and efficacy via randomized controlled trials have been proved in the separate open data research. The BioNES is meant to be a simple plug-and-play and affordable biofeedback solution for researchers without programming experience and casual users to use video games for health."
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biones-2022/index.html#important-figures",
-    "href": "research/articles/chand-khosla-biones-2022/index.html#important-figures",
-    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: (a) Block diagram of overall biofeedback system. BioNES forms the software part for the system, (b) Graphical user interface of BioNES, (c) Screenshot of NES game running in FCEUX. The biofeedback bar (current position is at bar = 4) is shown at the top of the in-game screen.\n\n\n\n\n\nFigure 5: The player interacts with the system during biofeedback intervention. The acquisition hardware is attached to the ear-lobe to acquire the PPG signal. The screen shows both the BioNES GUI and FCEUX window."
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biones-2022/index.html#citation",
-    "href": "research/articles/chand-khosla-biones-2022/index.html#citation",
-    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{chand_biones_2022,\n    title = {BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback},\n    author = {Chand, Kulbhushan and Khosla, Arun},\n    doi = {10.1016/j.softx.2022.101184},\n    journal = {SoftwareX},\n    year = {2022},\n    volume = {19},\n    number = {1},\n    pages = {101184}}"
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
-    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
-    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
-    "section": "",
-    "text": "Paper (open acess)"
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-links",
-    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-links",
-    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
-    "section": "",
-    "text": "Paper (open acess)"
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#abstract",
-    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#abstract",
-    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
-    "section": "Abstract",
-    "text": "Abstract\nThe effects of classical music on psychophysiological parameters are not well understood. This study aimed to investigate the impact of listening to raga Bhairavi, an Indian Classical Music for six days on anxiety, stress, depression, and heart rate variability (HRV) parameters. Forty-four individuals were randomly assigned to either the intervention group (VR-raga), where they listened to raga Bhairavi via 360° video in a virtual reality environment, or the control group, where there was no exposure to raga Bhairavi for six days. Before allocation, the HRV baselines (relax-baseline and stress-baseline) were recorded on the first day. On the first and sixth days of the intervention, HRV was monitored, and the Depression, Anxiety, and Stress Scale (DASS-21) questionnaire was administered before and after the intervention. After six days, all DASS-21 subscales were significantly reduced in the VR-raga group. A similar trend was observed in the seven HRV parameters evaluated in this study, which demonstrated reduced physiological stress and enhanced autonomic balance following the six-day intervention. The findings collectively indicated the efficacy of the VR-based raga Bhairavi intervention in reducing psychological stress markers and highlighted the potential applications of utilizing the VR-based raga intervention for improving mental well-being in the real-world context."
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-figures",
-    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-figures",
-    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: Participants from the VR-raga group wearing Meta Quest2 during the intervention. The PPG data was taken from the ear lobe, where an ear clip can be seen. The hardware was connected to the left side of the computer’s USB port and data acquisition software can be seen running on the computer’s screen.\n\n\n\n\n\nFigure 2: Phase-wise experimental design for the between-group study."
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#citation",
-    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#citation",
-    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{chand_raga_2024,\n    title = {Raga {Bhairavi} in virtual reality reduces stress-related psychophysiological markers},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1038/s41598-024-74932-1},\n    journal = {Scientific Reports},\n    year = {2024},\n    volume = {14},\n    number = {1},\n    pages = {24816}}"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "I am an avid supporter of open source technologies and use most of them for my projects. These are some of the open source projects I have made. Hope you’ll find them useful."
-  },
-  {
-    "objectID": "projects/index.html#technical-projects",
-    "href": "projects/index.html#technical-projects",
-    "title": "Projects",
-    "section": "Technical Projects",
-    "text": "Technical Projects\n\n\n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Biofeedback Nintendo Entertainment System \n                \n            \n            \n                BioNES\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                MATLAB\n                            \n                        \n                        \n                                Biofeedback\n                            \n                        \n                        \n                                Video game\n                            \n                        \n                \n            \n\n            A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                    \n                        \n                             Open Hardware\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Arduino Firmata Data Acquisition \n                \n            \n            \n                AfDaq\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                MATLAB\n                            \n                        \n                \n            \n\n            A plug and play MATLAB based tool for biofeedback and Arduino based instruments\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                MCP4251 \n                \n            \n            \n                MCP4251\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                Library\n                            \n                        \n                        \n                                Digital potentiometer\n                            \n                        \n                \n            \n\n            Arduino library for MCP4251 Digital Potentiometer\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                classroom-gamification \n                \n            \n            \n                classroom-gamification\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Gamification\n                            \n                        \n                \n            \n\n            Tool to gamify your classroom with an online leaderboard\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.1.2\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Demo\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there!",
-    "section": "",
-    "text": "I’m a Post Doctoral fellow in Technology Innovation Hub at the Indian Institute of Technology Mandi. I received a PhD in electronics and communication engineering from National Institute of Technology Jalandhar in 2022.\nBroadly my research areas overlaps Human Computer Interaction (HCI), Indian Knowledge System (IKS) and mental healthcare. Specifically, I do research in developing biofeedback systems, validating alternate form of medications (like biofeedback, music, meditation etc.) for mental stress management, and making biofeedback protocols more engaging through gamification.\nI mostly use open-source tools/technologies in my work, and my PhD work is freely available. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative."
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
-  },
-  {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "Blog",
-    "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            December 20, 2024\n        \n        \n            Welcome quarto...!\n\n            \n            \n                \n                \n                    first\n                \n                \n                \n                    goals\n                \n                \n                \n                    quarto\n                \n                \n            \n            \n\n            Testing out the blog post\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/2024/12/20/first-post/index.html",
-    "href": "blog/2024/12/20/first-post/index.html",
-    "title": "Welcome quarto…!",
-    "section": "",
-    "text": "Work in progress\n\n\n\nThis is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.\n\n\nWelcome to quarto website\n\n\n\n\n\nCitationBibTeX citation:@online{chand2024,\n  author = {Chand, Kulbhushan},\n  title = {Welcome Quarto...!},\n  date = {2024-12-20},\n  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChand, Kulbhushan. 2024. “Welcome Quarto...!” December 20,\n2024. https://kulbhushanchand.github.io/blog/2024/12/20/first-post/."
-  },
-  {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "You can reach me out on my email-id. Additionally you can visit my online profiles listed below:"
-  },
-  {
-    "objectID": "contact/index.html#contact",
-    "href": "contact/index.html#contact",
-    "title": "Contact",
-    "section": "Contact",
-    "text": "Contact\nThe email ID is obfuscated to prevent scraping. Click below to reveal it.\n\n\n Email:\n\n\nclgsb@mdhaao.ukh.cihlnamnuunscramble"
-  },
-  {
-    "objectID": "contact/index.html#online-profiles",
-    "href": "contact/index.html#online-profiles",
-    "title": "Contact",
-    "section": "Online profiles",
-    "text": "Online profiles\n LinkedIn\n Google Scholar\n ORCID\n ResearchGate\n GitHub\n OSF\n YouTube"
-  },
-  {
-    "objectID": "disclaimer/index.html",
-    "href": "disclaimer/index.html",
-    "title": "Disclaimer",
-    "section": "",
-    "text": "The opinions expressed on this website are author’s own in his personal capacity. They do not reflect the views of anyone else."
-  },
-  {
-    "objectID": "now/index.html",
-    "href": "now/index.html",
-    "title": "What I’m doing now",
-    "section": "",
-    "text": "As of December 20, 2024, I’m spending all my time on these things:\n\nStaying in the Himalayas and working as a Post Doctoral fellow in the IIT Mandi iHub and HCI Foundation at the Indian Institute of Technology Mandi\nMost of the time residing in the Center for Human Computer Interaction lab for research work.\nWorking in few large projects involving the use of technologies for mental health.\nDeveloping Proof of Concepts (mostly wearables and affordable healthcare devices) for the translation research.\nWriting and submitting manuscripts for the publication."
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html",
-    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html",
-    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
-    "section": "",
-    "text": "Paper (open acess)"
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-links",
-    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-links",
-    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
-    "section": "",
-    "text": "Paper (open acess)"
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#abstract",
-    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#abstract",
-    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
-    "section": "Abstract",
-    "text": "Abstract\nBackground: Heart rate variability (HRV) is a crucial metric that provides valuable insight into the balance between relaxation and stress. Previous research has shown that most HRV parameters improve during periods of mental relaxation, while decreasing during tasks involving cognitive workload. Although a comprehensive analysis of both linear and non-linear HRV parameters has been carried out in existing literature, there still exists a need for further research in this area. Additionally, limited knowledge exists regarding how specific interventions may influence the interpretation of these parameters and how the different parameters correlate under different interventions. This study aims to address these gaps by conducting a thorough comparison of different linear and non-linear HRV parameters under mentally relaxed versus stressful states.\nMethodology: Participants were randomly and equally divided among two between-subjects groups: relaxed-stress (RS) (N = 22) and stress-relaxed (SR) (N = 22). In the RS group, a paced breathing task was given for 5 min to create relaxation, and was followed by a 5-min time-based mental calculation task to create stress. In the SR group, the order of the stress and relaxed tasks was reversed. There was a washout period of 15 min after the first task in both groups.\nResults: Of the 37 HRV parameters, 33 differed significantly between the two interventions. The majority of the parameters exhibited an improving and degrading tendency of HRV parameters in the relaxed and stressed states, respectively. The correlation of the majority of HRV parameters decreases during stress, while prominent time domain and geometric domain parameters stand out in the correlation.\nConclusion: Overall, HRV parameters can be reliably used to assess a person’s relaxed and stressed mental states during paced breathing and mental arithmetic task respectively. Furthermore, non-linear HRV parameters provide accurate estimators of the mental state, in addition to the commonly used linear parameters."
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-figures",
-    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-figures",
-    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 2: Experimental design of the study.\n\n\n\n\n\nFigure 4: Data from one of the participants showing the TD (left) and FD (right) representation of the RR tachogram taken during 5 min of relaxation (top) and stress (bottom). In TD plots (left), RR intervals are shown with a mean (dotted blue line) and SD (gray band). In the FD plots (right), four frequency bands are shown in the spectrum of the RR tachogram: Very Low Frequency (VLF), Low Frequency (LF), High Frequency (HF), and Very High Frequency (VHF). (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)"
-  },
-  {
-    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#citation",
-    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#citation",
-    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{chand_comprehensive_2024,\n    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1016/j.heliyon.2024.e32195},\n    journal = {Heliyon},\n    year = {2024},\n    volume = {10},\n    number = {11},\n    pages = {e32195}}"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html",
-    "href": "research/articles/chand-khosla-biofeedback-2022/index.html",
-    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
-    "section": "",
-    "text": "Paper (open acess)\nGitHub repository"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#important-links",
-    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#important-links",
-    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
-    "section": "",
-    "text": "Paper (open acess)\nGitHub repository"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#abstract",
-    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#abstract",
-    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
-    "section": "Abstract",
-    "text": "Abstract\nVideo games are used to increase the engagement of biofeedback systems. For cost-effectiveness, the original Nintendo Entertainment System (NES) games can be used. Therefore, a multimodal biofeedback system was developed to leverage the NES games for biofeedback. This study aims to test the efficacy of the developed system, the motivation of participants, and the usability of the system. A within-group design study was conducted with 16 participants followed through four interventions: deep breathing, stress-test, non-biofeedback game (control), and biofeedback game (experiment), where their HRV was recorded. Participants showed significantly different HRV during interventions (F(1.60, 23.93) = 11.94, p &lt; 0.001) and reported higher HRV when using biofeedback game than the non-biofeedback game (t(15) = 9.14, p &lt; 0.0001). The motivation was reported to be the same with biofeedback and non-biofeedback version of the game, and the overall system was reported as usable. The results of this study support the efficacy of using original NES games in biofeedback for mental relaxation."
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#important-figures",
-    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#important-figures",
-    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 1: (a) Participant interacting with the system during biofeedback intervention. The acquisition hardware is attached to the ear-lobe to acquire the PPG signal. The GUI of the acquisition S/W is behind the game window and not visible to the player. The in-game visual feedback bar is displayed at the top of the in-game screen. In the figure, the feedback bar is at the 3rd level or 60%-70% deviation of current HRV from the baseline HRV value of the player, (b) System block diagram showing the various components of the developed biofeedback system.\n\n\n\n\n\nFigure 4: The phase-wise experiment design for the study. The three main phases are the baseline measurements, counterbalanced trials between control and experiment groups, and the final interview.\n\n\n\n\n\nFigure 6: Respiratory Sinus Arrhythmia (RSA) was exhibited by participant 1 during the 4 different interventions. The RSA is pronounced in the DB and Experiment conditions, whereas desynchronization occurs in both CWT and control conditions."
-  },
-  {
-    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#citation",
-    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#citation",
-    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{chand_efficacy_2022,\n    title = {Efficacy of {Using} {Retro} {Games} in {Multimodal} {Biofeedback} {Systems} for {Mental} {Relaxation}},\n    author = {Chand, Kulbhushan and Khosla, Arun},\n    doi = {10.4018/IJGCMS.295874},\n    journal = {International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)},\n    year = {2022},\n    volume = {14},\n    number = {1},\n    pages = {1-23}}"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-daq-2022/index.html",
-    "href": "research/articles/chand-khosla-daq-2022/index.html",
-    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
-    "section": "",
-    "text": "Paper (open acess)\nGitHub repository"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-daq-2022/index.html#important-links",
-    "href": "research/articles/chand-khosla-daq-2022/index.html#important-links",
-    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
-    "section": "",
-    "text": "Paper (open acess)\nGitHub repository"
-  },
-  {
-    "objectID": "research/articles/chand-khosla-daq-2022/index.html#abstract",
-    "href": "research/articles/chand-khosla-daq-2022/index.html#abstract",
-    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
-    "section": "Abstract",
-    "text": "Abstract\nAfDaq is an open-source, plug-and-play, MATLAB-based tool that offers the capabilities of multichannel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. The MATLAB Arduino package suffers from serious timing jitter during real-time data acquisition. This timing jitter associated with four main commands (analog read, digital read, digital write, and PWM set) available in MATLAB Arduino package is statistically analyzed, and a simple post-hoc timing jitter correction mechanism is proposed to acquire data points with high timing accuracy. The benchmark of the final program is conducted at various sampling rates for multichannel acquisition with 10 Hz comes as the maximum sampling rate for 5 channel recording. In the end, a use case of the developed tool for physiological data acquisition in multimodal biofeedback is presented. The software tool, data, and analysis scripts that support the findings of this study are released as an open-source project to support the replicability and reproducibility of the research."
-  },
-  {
-    "objectID": "research/articles/chand-khosla-daq-2022/index.html#important-figures",
-    "href": "research/articles/chand-khosla-daq-2022/index.html#important-figures",
-    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
-    "section": "Important figures",
-    "text": "Important figures\n\n\n\nFigure 4: (a) Timing jitter in MATLAB Arduino package for various commands computed for 100 samples, (b) Probability density plot of the timing jitter. The median value is represented by a red line in each plot, (c) Probability density plot of multiple calls to Analog Read command per sample, (d) Ridgeline probability density plot showing timing jitter associated with calculations and multiple line plots\n\n\n\n\n\nFigure 9: Acquisition of EDA and HR signal (blue and orange lines respectively) from a subject using AfDaq. A short video clip containing jump scare is manually shown at marked time intervals."
-  },
-  {
-    "objectID": "research/articles/chand-khosla-daq-2022/index.html#citation",
-    "href": "research/articles/chand-khosla-daq-2022/index.html#citation",
-    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{chand_matlab-based_2022,\n    title = {{MATLAB}-{Based} {Real}-{Time} {Data} {Acquisition} {Tool} for {Multimodal} {Biofeedback} and {Arduino}-{Based} {Instruments}: {Arduino} {Firmata} {Data} {Acquisition} ({AfDaq})},\n    author = {Chand, Kulbhushan and Khosla, Arun},\n    doi = {10.4018/JITR.299922},\n    journal = {Journal of Information Technology Research (JITR)},\n    year = {2022},\n    volume = {15},\n    number = {1},\n    pages = {1-20}}"
-  },
-  {
-    "objectID": "research/chapters/mukherjee-gamification-2019/index.html",
-    "href": "research/chapters/mukherjee-gamification-2019/index.html",
-    "title": "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students",
-    "section": "",
-    "text": "Research and development are important for the sustenance of any modern economy. Hence, in any society it is important to have a strong supply of scientists and engineers. From an Indian context, it is observed, however, that very few engineers choose to pursue research as their primary domain of interest. This chapter tries to identify from an institutional perspective on why engineers repeatedly shun their core branch subjects to pursue something else. The study highlights the mental framework of an engineering student and how the environment can be molded to invoke the interest of the student towards research and development. A gamified approach to solving this problem is proposed. The entire problem is fit into a gamification framework called Octalysis to identify the core motivators for engaging students in research. Finally, the chapter proposes reforms that can be adopted in order to create a holistic environment where students can participate freely and engage positively in cutting-edge projects."
-  },
-  {
-    "objectID": "research/chapters/mukherjee-gamification-2019/index.html#abstract",
-    "href": "research/chapters/mukherjee-gamification-2019/index.html#abstract",
-    "title": "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students",
-    "section": "",
-    "text": "Research and development are important for the sustenance of any modern economy. Hence, in any society it is important to have a strong supply of scientists and engineers. From an Indian context, it is observed, however, that very few engineers choose to pursue research as their primary domain of interest. This chapter tries to identify from an institutional perspective on why engineers repeatedly shun their core branch subjects to pursue something else. The study highlights the mental framework of an engineering student and how the environment can be molded to invoke the interest of the student towards research and development. A gamified approach to solving this problem is proposed. The entire problem is fit into a gamification framework called Octalysis to identify the core motivators for engaging students in research. Finally, the chapter proposes reforms that can be adopted in order to create a holistic environment where students can participate freely and engage positively in cutting-edge projects."
-  },
-  {
-    "objectID": "research/chapters/mukherjee-gamification-2019/index.html#citation",
-    "href": "research/chapters/mukherjee-gamification-2019/index.html#citation",
-    "title": "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{mukherjee_pursuit_2019,\n    title = {Pursuit of {Research}: {A} {Gamified} {Approach} {Promoting} {Research} {Engagement} {Among} {Undergraduate} {Students}},\n    author = {Jain, Bhavika and Khosla, Arun and Chand, Kulbhushan and Ahuja, Kiran},\n    doi = {10.4018/978-1-5225-7470-5.ch006},\n    booktitle = {Fostering {Multiple} {Levels} of {Engagement} in {Higher} {Education} {Environments}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {6},\n    pages = {132-155}}"
-  },
-  {
-    "objectID": "research/chapters/setia-gamification-2019/index.html",
-    "href": "research/chapters/setia-gamification-2019/index.html",
-    "title": "Enhancing Tourism and Cultural Experience Through Gamification",
-    "section": "",
-    "text": "We all travel to different historical places but rarely notice the cultural significance of the place: the history behind the various things and locations. The primary aim of this chapter is to devise and develop means to enhance tourism and provide culturally important knowledge to people. Moreover, internet is booming, and the number of smartphones is increasing day by day. The same is happening in many developing countries. Therefore, in this chapter, the authors propose a criterion that uses technology to promote historical significance and enhances tourism industry as well. The proposed app uses the concept of gamification that acts as a platform to fuel the process of branding in a manner that engages the tourists and provide them with an experience that can make them feel more connected to the tourism destinations."
-  },
-  {
-    "objectID": "research/chapters/setia-gamification-2019/index.html#abstract",
-    "href": "research/chapters/setia-gamification-2019/index.html#abstract",
-    "title": "Enhancing Tourism and Cultural Experience Through Gamification",
-    "section": "",
-    "text": "We all travel to different historical places but rarely notice the cultural significance of the place: the history behind the various things and locations. The primary aim of this chapter is to devise and develop means to enhance tourism and provide culturally important knowledge to people. Moreover, internet is booming, and the number of smartphones is increasing day by day. The same is happening in many developing countries. Therefore, in this chapter, the authors propose a criterion that uses technology to promote historical significance and enhances tourism industry as well. The proposed app uses the concept of gamification that acts as a platform to fuel the process of branding in a manner that engages the tourists and provide them with an experience that can make them feel more connected to the tourism destinations."
-  },
-  {
-    "objectID": "research/chapters/setia-gamification-2019/index.html#citation",
-    "href": "research/chapters/setia-gamification-2019/index.html#citation",
-    "title": "Enhancing Tourism and Cultural Experience Through Gamification",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@incollection{setia_enhancing_2019,\n    title = {Enhancing {Tourism} and {Cultural} {Experience} {Through} {Gamification}},\n    author = {Setia, Deepanshu and Singh, Rupinder and Sharma, Amol and Khosla, Arun and Ahuja, Kiran and Chand, Kulbhushan},\n    doi = {10.4018/978-1-5225-7253-4.ch007},\n    booktitle = {Positioning and {Branding} {Tourism} {Destinations} for {Global} {Competitiveness}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {7},\n    pages = {152-171}}"
-  },
-  {
-    "objectID": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html",
-    "href": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html",
-    "title": "Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters",
-    "section": "",
-    "text": "Background: Indian classical music is categorized structurally and combinational and may benefit mental health. However, the psychological and physiological consequences of auditory stimuli like the Indian Classical ragas (a type of music) are less well known. Aim & Objective: To address the literature gap, this study aims to find the relaxation effects of classical Raga (Raga Bhairavi) in an immersive environment. Method: A within-group design study was performed with 22 participants following three interventions in the following order: Relaxed-baseline (paced breathing), Stress-baseline (using a mental arithmetic exam), and VR Raga (listening to classical music in an immersive environment). On the first day, all three interventions were delivered in order, while for the next six days, the Raga intervention was delivered only in virtual reality (VR) simulation. The participant’s heart rate variability (HRV) was recorded during the intervention on the first and sixth days. Also, the Depression, Anxiety, and Stress Scale-21 (DASS-21) questionnaire was executed at the study’s start (first day) and end (sixth day), respectively. Result: After six days of VR-based Raga intervention, the participants showed a significant reduction in the DASS-21 scores for stress, anxiety, and depression and significant improvement in the RR triangular index and reduction in the respiratory rate. We discuss how Raga interventions in VR could provide a conducive method for managing stress, anxiety, and depression."
-  },
-  {
-    "objectID": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#abstract",
-    "href": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#abstract",
-    "title": "Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters",
-    "section": "",
-    "text": "Background: Indian classical music is categorized structurally and combinational and may benefit mental health. However, the psychological and physiological consequences of auditory stimuli like the Indian Classical ragas (a type of music) are less well known. Aim & Objective: To address the literature gap, this study aims to find the relaxation effects of classical Raga (Raga Bhairavi) in an immersive environment. Method: A within-group design study was performed with 22 participants following three interventions in the following order: Relaxed-baseline (paced breathing), Stress-baseline (using a mental arithmetic exam), and VR Raga (listening to classical music in an immersive environment). On the first day, all three interventions were delivered in order, while for the next six days, the Raga intervention was delivered only in virtual reality (VR) simulation. The participant’s heart rate variability (HRV) was recorded during the intervention on the first and sixth days. Also, the Depression, Anxiety, and Stress Scale-21 (DASS-21) questionnaire was executed at the study’s start (first day) and end (sixth day), respectively. Result: After six days of VR-based Raga intervention, the participants showed a significant reduction in the DASS-21 scores for stress, anxiety, and depression and significant improvement in the RR triangular index and reduction in the respiratory rate. We discuss how Raga interventions in VR could provide a conducive method for managing stress, anxiety, and depression."
-  },
-  {
-    "objectID": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#citation",
-    "href": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#citation",
-    "title": "Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@inproceedings{chandra_impact_2023,\n    title = {Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1145/3594806.3596555},\n      booktitle = {Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}},\n    year = {2023},\n    pages = {746-753}}"
+    "objectID": "talks/index.html#section-3",
+    "href": "talks/index.html#section-3",
+    "title": "Talks",
+    "section": "2019",
+    "text": "2019\n\n\n\n    \n    \n                  \n            June 17, 2019\n        \n        \n            Arduino and Open-Source Technologies\n            Invited talk for the engineering graduate students at DAV Institute of Engineering and Technology | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Expert Lecture\n                    \n                \n                \n                \n                    \n                     In-person\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html",
@@ -448,38 +84,444 @@
     "text": "Book chapters\n\n\n\n    \n        \n            \n                Bhavika Jain, Arun Khosla, Kulbhushan Chand, and Kiran Ahuja, “The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions,” chap. 13 in Global Initiatives for Waste Reduction and Cutting Food Loss, doi: 10.4018/978-1-5225-7706-5.ch013\n            \n\n            \n            \n                \n                    \n                            Gamification\n                        \n                    \n                    \n                            Food waste reduction\n                        \n                    \n                    \n                            Decision-making Method\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                Games ignite the spark\n            \n                 / Students fight to leave a mark\n            \n                 / Food waste fades in the dark\n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Ayushman Mukherjee, Prachi Goyal, Amandeep Singh, Arun Khosla, Kiran Ahuja, and Kulbhushan Chand, “Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students,” chap. 6 in Fostering Multiple Levels of Engagement in Higher Education Environments, doi: 10.4018/978-1-5225-7470-5.ch006\n            \n\n            \n            \n                \n                    \n                            Gamification\n                        \n                    \n                    \n                            Research engagement\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                Engineers stray wide\n            \n                 / Dreams of research cast aside\n            \n                 / Games can turn the tide\n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Ganta Sandeep V. Padmakar, Arun Khosla, Kiran Ahuja, and Kulbhushan Chand, “LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia,” chap. 12 in Emerging Trends in the Diagnosis and Intervention of Neurodevelopmental Disorders, doi: 10.4018/978-1-5225-7004-2.ch012\n            \n\n            \n            \n                \n                    \n                            Dyslexia\n                        \n                    \n                    \n                            Learning disabilities\n                        \n                    \n                    \n                            Android app\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                Dyslexia they face\n            \n                 / Sound and symbol find their place\n            \n                 / Tech brings them to grace\n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Deepanshu Setia, Rupinder Singh, Amol Sharma, Arun Khosla, Kiran Ahuja, and Kulbhushan Chand, “Enhancing Tourism and Cultural Experience Through Gamification,” chap. 7 in Positioning and Branding Tourism Destinations for Global Competitiveness, doi: 10.4018/978-1-5225-7253-4.ch007\n            \n\n            \n            \n                \n                    \n                            Gamification\n                        \n                    \n                    \n                            Tourism enhancement\n                        \n                    \n                    \n                            Cultural heritage\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                Smartphones in our hands\n            \n                 / Stories rise from ancient sands\n            \n                 / Tourism expands\n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html",
+    "href": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html",
+    "title": "Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters",
     "section": "",
-    "text": "This page contains the briefs of various workshops, talks, lectures, and presentations I’ve given."
+    "text": "Background: Indian classical music is categorized structurally and combinational and may benefit mental health. However, the psychological and physiological consequences of auditory stimuli like the Indian Classical ragas (a type of music) are less well known. Aim & Objective: To address the literature gap, this study aims to find the relaxation effects of classical Raga (Raga Bhairavi) in an immersive environment. Method: A within-group design study was performed with 22 participants following three interventions in the following order: Relaxed-baseline (paced breathing), Stress-baseline (using a mental arithmetic exam), and VR Raga (listening to classical music in an immersive environment). On the first day, all three interventions were delivered in order, while for the next six days, the Raga intervention was delivered only in virtual reality (VR) simulation. The participant’s heart rate variability (HRV) was recorded during the intervention on the first and sixth days. Also, the Depression, Anxiety, and Stress Scale-21 (DASS-21) questionnaire was executed at the study’s start (first day) and end (sixth day), respectively. Result: After six days of VR-based Raga intervention, the participants showed a significant reduction in the DASS-21 scores for stress, anxiety, and depression and significant improvement in the RR triangular index and reduction in the respiratory rate. We discuss how Raga interventions in VR could provide a conducive method for managing stress, anxiety, and depression."
   },
   {
-    "objectID": "talks/index.html#section",
-    "href": "talks/index.html#section",
-    "title": "Talks",
-    "section": "2023",
-    "text": "2023\n\n\n\n    \n    \n                  \n            December 15, 2023\n        \n        \n            Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters\n            Conference presentation at Mind, Brain, and Consciousness Conference (MBCC) - 2023 conducted by Indian Institute of Technology Mandi | Mandi, India\n\n            \n            \n                \n                \n                    \n                     Conference presentation\n                    \n                \n                \n                \n                    \n                     In-person\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            October 15, 2023\n        \n        \n            Human Motivation and Engagement Analysis using Octalysis Gamification Framework\n            Invited talk for 5th Winter School on Cognitive Modeling - 2023 conducted by Indian Institute of Technology Mandi | Mandi, India\n\n            \n            \n                \n                \n                    \n                     Invited talk\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            February 22, 2023\n        \n        \n            Octalysis Gamification Framework\n            Guest Lecture for undergraduate course Gamification (ECOE-496) at National Institute of Technology Jalandhar | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Expert lecture\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#abstract",
+    "href": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#abstract",
+    "title": "Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters",
+    "section": "",
+    "text": "Background: Indian classical music is categorized structurally and combinational and may benefit mental health. However, the psychological and physiological consequences of auditory stimuli like the Indian Classical ragas (a type of music) are less well known. Aim & Objective: To address the literature gap, this study aims to find the relaxation effects of classical Raga (Raga Bhairavi) in an immersive environment. Method: A within-group design study was performed with 22 participants following three interventions in the following order: Relaxed-baseline (paced breathing), Stress-baseline (using a mental arithmetic exam), and VR Raga (listening to classical music in an immersive environment). On the first day, all three interventions were delivered in order, while for the next six days, the Raga intervention was delivered only in virtual reality (VR) simulation. The participant’s heart rate variability (HRV) was recorded during the intervention on the first and sixth days. Also, the Depression, Anxiety, and Stress Scale-21 (DASS-21) questionnaire was executed at the study’s start (first day) and end (sixth day), respectively. Result: After six days of VR-based Raga intervention, the participants showed a significant reduction in the DASS-21 scores for stress, anxiety, and depression and significant improvement in the RR triangular index and reduction in the respiratory rate. We discuss how Raga interventions in VR could provide a conducive method for managing stress, anxiety, and depression."
   },
   {
-    "objectID": "talks/index.html#section-1",
-    "href": "talks/index.html#section-1",
-    "title": "Talks",
-    "section": "2022",
-    "text": "2022\n\n\n\n    \n    \n                  \n            October 18, 2022\n        \n        \n            Human Motivation and Engagement Analysis using Octalysis Gamification Framework\n            Invited talk for 4th Winter School on Cognitive Modeling - 2022 conducted by Indian Institute of Technology Mandi | Mandi, India\n\n            \n            \n                \n                \n                    \n                     Invited talk\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n    \n                  \n            September 15, 2022\n        \n        \n            Octalysis Gamification Framework\n            Guest Lectures (4) for undergraduate course Gamification (ECX-488) at National Institute of Technology Jalandhar | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Expert lecture\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#citation",
+    "href": "research/conference-papers/chand-chandra-dutt-petra-hrv-2023/index.html#citation",
+    "title": "Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@inproceedings{chandra_impact_2023,\n    title = {Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1145/3594806.3596555},\n      booktitle = {Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}},\n    year = {2023},\n    pages = {746-753}}"
   },
   {
-    "objectID": "talks/index.html#section-2",
-    "href": "talks/index.html#section-2",
-    "title": "Talks",
-    "section": "2020",
-    "text": "2020\n\n\n\n    \n    \n                  \n            November 17, 2020\n        \n        \n            Octalysis\n            Invited talk for AICTE ATAL Sponsored Online Faculty Development Program on Gamification conducted by National Institute of Technology Jalandhar | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Invited talk\n                    \n                \n                \n                \n                    \n                     Online\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "research/chapters/setia-gamification-2019/index.html",
+    "href": "research/chapters/setia-gamification-2019/index.html",
+    "title": "Enhancing Tourism and Cultural Experience Through Gamification",
+    "section": "",
+    "text": "We all travel to different historical places but rarely notice the cultural significance of the place: the history behind the various things and locations. The primary aim of this chapter is to devise and develop means to enhance tourism and provide culturally important knowledge to people. Moreover, internet is booming, and the number of smartphones is increasing day by day. The same is happening in many developing countries. Therefore, in this chapter, the authors propose a criterion that uses technology to promote historical significance and enhances tourism industry as well. The proposed app uses the concept of gamification that acts as a platform to fuel the process of branding in a manner that engages the tourists and provide them with an experience that can make them feel more connected to the tourism destinations."
   },
   {
-    "objectID": "talks/index.html#section-3",
-    "href": "talks/index.html#section-3",
-    "title": "Talks",
-    "section": "2019",
-    "text": "2019\n\n\n\n    \n    \n                  \n            June 17, 2019\n        \n        \n            Arduino and Open-Source Technologies\n            Invited talk for the engineering graduate students at DAV Institute of Engineering and Technology | Jalandhar, India\n\n            \n            \n                \n                \n                    \n                     Expert Lecture\n                    \n                \n                \n                \n                    \n                     In-person\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "research/chapters/setia-gamification-2019/index.html#abstract",
+    "href": "research/chapters/setia-gamification-2019/index.html#abstract",
+    "title": "Enhancing Tourism and Cultural Experience Through Gamification",
+    "section": "",
+    "text": "We all travel to different historical places but rarely notice the cultural significance of the place: the history behind the various things and locations. The primary aim of this chapter is to devise and develop means to enhance tourism and provide culturally important knowledge to people. Moreover, internet is booming, and the number of smartphones is increasing day by day. The same is happening in many developing countries. Therefore, in this chapter, the authors propose a criterion that uses technology to promote historical significance and enhances tourism industry as well. The proposed app uses the concept of gamification that acts as a platform to fuel the process of branding in a manner that engages the tourists and provide them with an experience that can make them feel more connected to the tourism destinations."
+  },
+  {
+    "objectID": "research/chapters/setia-gamification-2019/index.html#citation",
+    "href": "research/chapters/setia-gamification-2019/index.html#citation",
+    "title": "Enhancing Tourism and Cultural Experience Through Gamification",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@incollection{setia_enhancing_2019,\n    title = {Enhancing {Tourism} and {Cultural} {Experience} {Through} {Gamification}},\n    author = {Setia, Deepanshu and Singh, Rupinder and Sharma, Amol and Khosla, Arun and Ahuja, Kiran and Chand, Kulbhushan},\n    doi = {10.4018/978-1-5225-7253-4.ch007},\n    booktitle = {Positioning and {Branding} {Tourism} {Destinations} for {Global} {Competitiveness}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {7},\n    pages = {152-171}}"
+  },
+  {
+    "objectID": "research/chapters/mukherjee-gamification-2019/index.html",
+    "href": "research/chapters/mukherjee-gamification-2019/index.html",
+    "title": "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students",
+    "section": "",
+    "text": "Research and development are important for the sustenance of any modern economy. Hence, in any society it is important to have a strong supply of scientists and engineers. From an Indian context, it is observed, however, that very few engineers choose to pursue research as their primary domain of interest. This chapter tries to identify from an institutional perspective on why engineers repeatedly shun their core branch subjects to pursue something else. The study highlights the mental framework of an engineering student and how the environment can be molded to invoke the interest of the student towards research and development. A gamified approach to solving this problem is proposed. The entire problem is fit into a gamification framework called Octalysis to identify the core motivators for engaging students in research. Finally, the chapter proposes reforms that can be adopted in order to create a holistic environment where students can participate freely and engage positively in cutting-edge projects."
+  },
+  {
+    "objectID": "research/chapters/mukherjee-gamification-2019/index.html#abstract",
+    "href": "research/chapters/mukherjee-gamification-2019/index.html#abstract",
+    "title": "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students",
+    "section": "",
+    "text": "Research and development are important for the sustenance of any modern economy. Hence, in any society it is important to have a strong supply of scientists and engineers. From an Indian context, it is observed, however, that very few engineers choose to pursue research as their primary domain of interest. This chapter tries to identify from an institutional perspective on why engineers repeatedly shun their core branch subjects to pursue something else. The study highlights the mental framework of an engineering student and how the environment can be molded to invoke the interest of the student towards research and development. A gamified approach to solving this problem is proposed. The entire problem is fit into a gamification framework called Octalysis to identify the core motivators for engaging students in research. Finally, the chapter proposes reforms that can be adopted in order to create a holistic environment where students can participate freely and engage positively in cutting-edge projects."
+  },
+  {
+    "objectID": "research/chapters/mukherjee-gamification-2019/index.html#citation",
+    "href": "research/chapters/mukherjee-gamification-2019/index.html#citation",
+    "title": "Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@incollection{mukherjee_pursuit_2019,\n    title = {Pursuit of {Research}: {A} {Gamified} {Approach} {Promoting} {Research} {Engagement} {Among} {Undergraduate} {Students}},\n    author = {Jain, Bhavika and Khosla, Arun and Chand, Kulbhushan and Ahuja, Kiran},\n    doi = {10.4018/978-1-5225-7470-5.ch006},\n    booktitle = {Fostering {Multiple} {Levels} of {Engagement} in {Higher} {Education} {Environments}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {6},\n    pages = {132-155}}"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-daq-2022/index.html",
+    "href": "research/articles/chand-khosla-daq-2022/index.html",
+    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
+    "section": "",
+    "text": "Paper (open acess)\nGitHub repository"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-daq-2022/index.html#important-links",
+    "href": "research/articles/chand-khosla-daq-2022/index.html#important-links",
+    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
+    "section": "",
+    "text": "Paper (open acess)\nGitHub repository"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-daq-2022/index.html#abstract",
+    "href": "research/articles/chand-khosla-daq-2022/index.html#abstract",
+    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
+    "section": "Abstract",
+    "text": "Abstract\nAfDaq is an open-source, plug-and-play, MATLAB-based tool that offers the capabilities of multichannel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. The MATLAB Arduino package suffers from serious timing jitter during real-time data acquisition. This timing jitter associated with four main commands (analog read, digital read, digital write, and PWM set) available in MATLAB Arduino package is statistically analyzed, and a simple post-hoc timing jitter correction mechanism is proposed to acquire data points with high timing accuracy. The benchmark of the final program is conducted at various sampling rates for multichannel acquisition with 10 Hz comes as the maximum sampling rate for 5 channel recording. In the end, a use case of the developed tool for physiological data acquisition in multimodal biofeedback is presented. The software tool, data, and analysis scripts that support the findings of this study are released as an open-source project to support the replicability and reproducibility of the research."
+  },
+  {
+    "objectID": "research/articles/chand-khosla-daq-2022/index.html#important-figures",
+    "href": "research/articles/chand-khosla-daq-2022/index.html#important-figures",
+    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 4: (a) Timing jitter in MATLAB Arduino package for various commands computed for 100 samples, (b) Probability density plot of the timing jitter. The median value is represented by a red line in each plot, (c) Probability density plot of multiple calls to Analog Read command per sample, (d) Ridgeline probability density plot showing timing jitter associated with calculations and multiple line plots\n\n\n\n\n\nFigure 9: Acquisition of EDA and HR signal (blue and orange lines respectively) from a subject using AfDaq. A short video clip containing jump scare is manually shown at marked time intervals."
+  },
+  {
+    "objectID": "research/articles/chand-khosla-daq-2022/index.html#citation",
+    "href": "research/articles/chand-khosla-daq-2022/index.html#citation",
+    "title": "MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{chand_matlab-based_2022,\n    title = {{MATLAB}-{Based} {Real}-{Time} {Data} {Acquisition} {Tool} for {Multimodal} {Biofeedback} and {Arduino}-{Based} {Instruments}: {Arduino} {Firmata} {Data} {Acquisition} ({AfDaq})},\n    author = {Chand, Kulbhushan and Khosla, Arun},\n    doi = {10.4018/JITR.299922},\n    journal = {Journal of Information Technology Research (JITR)},\n    year = {2022},\n    volume = {15},\n    number = {1},\n    pages = {1-20}}"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html",
+    "href": "research/articles/chand-khosla-biofeedback-2022/index.html",
+    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
+    "section": "",
+    "text": "Paper (open acess)\nGitHub repository"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#important-links",
+    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#important-links",
+    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
+    "section": "",
+    "text": "Paper (open acess)\nGitHub repository"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#abstract",
+    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#abstract",
+    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
+    "section": "Abstract",
+    "text": "Abstract\nVideo games are used to increase the engagement of biofeedback systems. For cost-effectiveness, the original Nintendo Entertainment System (NES) games can be used. Therefore, a multimodal biofeedback system was developed to leverage the NES games for biofeedback. This study aims to test the efficacy of the developed system, the motivation of participants, and the usability of the system. A within-group design study was conducted with 16 participants followed through four interventions: deep breathing, stress-test, non-biofeedback game (control), and biofeedback game (experiment), where their HRV was recorded. Participants showed significantly different HRV during interventions (F(1.60, 23.93) = 11.94, p &lt; 0.001) and reported higher HRV when using biofeedback game than the non-biofeedback game (t(15) = 9.14, p &lt; 0.0001). The motivation was reported to be the same with biofeedback and non-biofeedback version of the game, and the overall system was reported as usable. The results of this study support the efficacy of using original NES games in biofeedback for mental relaxation."
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#important-figures",
+    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#important-figures",
+    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: (a) Participant interacting with the system during biofeedback intervention. The acquisition hardware is attached to the ear-lobe to acquire the PPG signal. The GUI of the acquisition S/W is behind the game window and not visible to the player. The in-game visual feedback bar is displayed at the top of the in-game screen. In the figure, the feedback bar is at the 3rd level or 60%-70% deviation of current HRV from the baseline HRV value of the player, (b) System block diagram showing the various components of the developed biofeedback system.\n\n\n\n\n\nFigure 4: The phase-wise experiment design for the study. The three main phases are the baseline measurements, counterbalanced trials between control and experiment groups, and the final interview.\n\n\n\n\n\nFigure 6: Respiratory Sinus Arrhythmia (RSA) was exhibited by participant 1 during the 4 different interventions. The RSA is pronounced in the DB and Experiment conditions, whereas desynchronization occurs in both CWT and control conditions."
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biofeedback-2022/index.html#citation",
+    "href": "research/articles/chand-khosla-biofeedback-2022/index.html#citation",
+    "title": "Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{chand_efficacy_2022,\n    title = {Efficacy of {Using} {Retro} {Games} in {Multimodal} {Biofeedback} {Systems} for {Mental} {Relaxation}},\n    author = {Chand, Kulbhushan and Khosla, Arun},\n    doi = {10.4018/IJGCMS.295874},\n    journal = {International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)},\n    year = {2022},\n    volume = {14},\n    number = {1},\n    pages = {1-23}}"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html",
+    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html",
+    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
+    "section": "",
+    "text": "Paper (open acess)"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-links",
+    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-links",
+    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
+    "section": "",
+    "text": "Paper (open acess)"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#abstract",
+    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#abstract",
+    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
+    "section": "Abstract",
+    "text": "Abstract\nBackground: Heart rate variability (HRV) is a crucial metric that provides valuable insight into the balance between relaxation and stress. Previous research has shown that most HRV parameters improve during periods of mental relaxation, while decreasing during tasks involving cognitive workload. Although a comprehensive analysis of both linear and non-linear HRV parameters has been carried out in existing literature, there still exists a need for further research in this area. Additionally, limited knowledge exists regarding how specific interventions may influence the interpretation of these parameters and how the different parameters correlate under different interventions. This study aims to address these gaps by conducting a thorough comparison of different linear and non-linear HRV parameters under mentally relaxed versus stressful states.\nMethodology: Participants were randomly and equally divided among two between-subjects groups: relaxed-stress (RS) (N = 22) and stress-relaxed (SR) (N = 22). In the RS group, a paced breathing task was given for 5 min to create relaxation, and was followed by a 5-min time-based mental calculation task to create stress. In the SR group, the order of the stress and relaxed tasks was reversed. There was a washout period of 15 min after the first task in both groups.\nResults: Of the 37 HRV parameters, 33 differed significantly between the two interventions. The majority of the parameters exhibited an improving and degrading tendency of HRV parameters in the relaxed and stressed states, respectively. The correlation of the majority of HRV parameters decreases during stress, while prominent time domain and geometric domain parameters stand out in the correlation.\nConclusion: Overall, HRV parameters can be reliably used to assess a person’s relaxed and stressed mental states during paced breathing and mental arithmetic task respectively. Furthermore, non-linear HRV parameters provide accurate estimators of the mental state, in addition to the commonly used linear parameters."
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-figures",
+    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#important-figures",
+    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 2: Experimental design of the study.\n\n\n\n\n\nFigure 4: Data from one of the participants showing the TD (left) and FD (right) representation of the RR tachogram taken during 5 min of relaxation (top) and stress (bottom). In TD plots (left), RR intervals are shown with a mean (dotted blue line) and SD (gray band). In the FD plots (right), four frequency bands are shown in the spectrum of the RR tachogram: Very Low Frequency (VLF), Low Frequency (LF), High Frequency (HF), and Very High Frequency (VHF). (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#citation",
+    "href": "research/articles/chand-chandra-dutt-hrvparameters-2024/index.html#citation",
+    "title": "A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{chand_comprehensive_2024,\n    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1016/j.heliyon.2024.e32195},\n    journal = {Heliyon},\n    year = {2024},\n    volume = {10},\n    number = {11},\n    pages = {e32195}}"
+  },
+  {
+    "objectID": "now/index.html",
+    "href": "now/index.html",
+    "title": "What I’m doing now",
+    "section": "",
+    "text": "As of January 17, 2025, I’m spending all my time on these things:\n\nStaying in the Himalayas and working as a Post Doctoral fellow in the IIT Mandi iHub and HCI Foundation at the Indian Institute of Technology Mandi\nMost of the time residing in the Center for Human Computer Interaction lab for research work.\nWorking in few large projects involving the use of technologies for mental health.\nDeveloping Proof of Concepts (mostly wearables and affordable healthcare devices) for the translation research.\nWriting and submitting manuscripts for the publication."
+  },
+  {
+    "objectID": "disclaimer/index.html",
+    "href": "disclaimer/index.html",
+    "title": "Disclaimer",
+    "section": "",
+    "text": "The opinions expressed on this website are author’s own in his personal capacity. They do not reflect the views of anyone else."
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can reach me out on my email-id. Additionally you can visit my online profiles listed below:"
+  },
+  {
+    "objectID": "contact/index.html#contact",
+    "href": "contact/index.html#contact",
+    "title": "Contact",
+    "section": "Contact",
+    "text": "Contact\nThe email ID is obfuscated to prevent scraping. Click below to reveal it.\n\n\n Email:\n\n\nclgsb@mdhaao.ukh.cihlnamnuunscramble"
+  },
+  {
+    "objectID": "contact/index.html#online-profiles",
+    "href": "contact/index.html#online-profiles",
+    "title": "Contact",
+    "section": "Online profiles",
+    "text": "Online profiles\n LinkedIn\n Google Scholar\n ORCID\n ResearchGate\n GitHub\n OSF\n YouTube"
+  },
+  {
+    "objectID": "blog/2024/12/20/first-post/index.html",
+    "href": "blog/2024/12/20/first-post/index.html",
+    "title": "Welcome quarto…!",
+    "section": "",
+    "text": "Work in progress\n\n\n\nThis is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.\n\n\nWelcome to quarto website\n\n\n\n\n\nCitationBibTeX citation:@online{chand2024,\n  author = {Chand, Kulbhushan},\n  title = {Welcome Quarto...!},\n  date = {2024-12-20},\n  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChand, Kulbhushan. 2024. “Welcome Quarto...!” December 20,\n2024. https://kulbhushanchand.github.io/blog/2024/12/20/first-post/."
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            December 20, 2024\n        \n        \n            Welcome quarto...!\n\n            \n            \n                \n                \n                    first\n                \n                \n                \n                    goals\n                \n                \n                \n                    quarto\n                \n                \n            \n            \n\n            Testing out the blog post\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello there!",
+    "section": "",
+    "text": "I’m a Post Doctoral fellow in Technology Innovation Hub at the Indian Institute of Technology Mandi. I received a PhD in electronics and communication engineering from National Institute of Technology Jalandhar in 2022.\nBroadly my research areas overlaps Human Computer Interaction (HCI), Indian Knowledge System (IKS) and mental healthcare. Specifically, I do research in developing biofeedback systems, validating alternate form of medications (like biofeedback, music, meditation etc.) for mental stress management, and making biofeedback protocols more engaging through gamification.\nI mostly use open-source tools/technologies in my work, and my PhD work is freely available. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I am an avid supporter of open source technologies and use most of them for my projects. These are some of the open source projects I have made. Hope you’ll find them useful."
+  },
+  {
+    "objectID": "projects/index.html#technical-projects",
+    "href": "projects/index.html#technical-projects",
+    "title": "Projects",
+    "section": "Technical Projects",
+    "text": "Technical Projects\n\n\n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Biofeedback Nintendo Entertainment System \n                \n            \n            \n                BioNES\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                MATLAB\n                            \n                        \n                        \n                                Biofeedback\n                            \n                        \n                        \n                                Video game\n                            \n                        \n                \n            \n\n            A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                    \n                        \n                             Open Hardware\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Arduino Firmata Data Acquisition \n                \n            \n            \n                AfDaq\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                MATLAB\n                            \n                        \n                \n            \n\n            A plug and play MATLAB based tool for biofeedback and Arduino based instruments\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                MCP4251 \n                \n            \n            \n                MCP4251\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Arduino\n                            \n                        \n                        \n                                Library\n                            \n                        \n                        \n                                Digital potentiometer\n                            \n                        \n                \n            \n\n            Arduino library for MCP4251 Digital Potentiometer\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.0.0\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Documentation\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                classroom-gamification \n                \n            \n            \n                classroom-gamification\n                \n                | Author\n                \n            \n\n            \n                \n                    \n                        \n                                Gamification\n                            \n                        \n                \n            \n\n            Tool to gamify your classroom with an online leaderboard\n\n            \n                \n                    \n                    \n                        \n                        \n                        \n                             Repository\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             v1.1.2\n                        \n                    \n                    \n                    \n                        \n                        \n                        \n                             Demo\n                        \n                    \n                    \n                    \n                        \n                             Open Software\n                        \n                    \n                    \n                \n                \n\n        \n    \n    \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
+    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
+    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
+    "section": "",
+    "text": "Paper (open acess)"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-links",
+    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-links",
+    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
+    "section": "",
+    "text": "Paper (open acess)"
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#abstract",
+    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#abstract",
+    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
+    "section": "Abstract",
+    "text": "Abstract\nThe effects of classical music on psychophysiological parameters are not well understood. This study aimed to investigate the impact of listening to raga Bhairavi, an Indian Classical Music for six days on anxiety, stress, depression, and heart rate variability (HRV) parameters. Forty-four individuals were randomly assigned to either the intervention group (VR-raga), where they listened to raga Bhairavi via 360° video in a virtual reality environment, or the control group, where there was no exposure to raga Bhairavi for six days. Before allocation, the HRV baselines (relax-baseline and stress-baseline) were recorded on the first day. On the first and sixth days of the intervention, HRV was monitored, and the Depression, Anxiety, and Stress Scale (DASS-21) questionnaire was administered before and after the intervention. After six days, all DASS-21 subscales were significantly reduced in the VR-raga group. A similar trend was observed in the seven HRV parameters evaluated in this study, which demonstrated reduced physiological stress and enhanced autonomic balance following the six-day intervention. The findings collectively indicated the efficacy of the VR-based raga Bhairavi intervention in reducing psychological stress markers and highlighted the potential applications of utilizing the VR-based raga intervention for improving mental well-being in the real-world context."
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-figures",
+    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#important-figures",
+    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Participants from the VR-raga group wearing Meta Quest2 during the intervention. The PPG data was taken from the ear lobe, where an ear clip can be seen. The hardware was connected to the left side of the computer’s USB port and data acquisition software can be seen running on the computer’s screen.\n\n\n\n\n\nFigure 2: Phase-wise experimental design for the between-group study."
+  },
+  {
+    "objectID": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#citation",
+    "href": "research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html#citation",
+    "title": "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{chand_raga_2024,\n    title = {Raga {Bhairavi} in virtual reality reduces stress-related psychophysiological markers},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1038/s41598-024-74932-1},\n    journal = {Scientific Reports},\n    year = {2024},\n    volume = {14},\n    number = {1},\n    pages = {24816}}"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biones-2022/index.html",
+    "href": "research/articles/chand-khosla-biones-2022/index.html",
+    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
+    "section": "",
+    "text": "Paper (open acess)\nGitHub repository"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biones-2022/index.html#important-links",
+    "href": "research/articles/chand-khosla-biones-2022/index.html#important-links",
+    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
+    "section": "",
+    "text": "Paper (open acess)\nGitHub repository"
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biones-2022/index.html#abstract",
+    "href": "research/articles/chand-khosla-biones-2022/index.html#abstract",
+    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
+    "section": "Abstract",
+    "text": "Abstract\nIn the traditional biofeedback system, videogames are effectively used to increase engagement as a feedback delivery mechanism via changing in-game mechanics. The original 8-bit Nintendo Entertainment System (NES) games make them an excellent choice for biofeedback for their popularity and simple gameplay mechanics. For this, we present BioNES, which is a MATLAB-based GUI tool to leverage the NES games for multimodal biofeedback. The RR beats can be received from any Arduino compatible board to compute the heart rate variability (HRV). The deviation of HRV from baseline corresponds to the mental stress of the player and is used to compute feedback which is then delivered via NES game running in FCEUX emulator. The player can then use any relaxation protocol, like paced breathing to learn stress management during gameplay. The system performance and efficacy via randomized controlled trials have been proved in the separate open data research. The BioNES is meant to be a simple plug-and-play and affordable biofeedback solution for researchers without programming experience and casual users to use video games for health."
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biones-2022/index.html#important-figures",
+    "href": "research/articles/chand-khosla-biones-2022/index.html#important-figures",
+    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: (a) Block diagram of overall biofeedback system. BioNES forms the software part for the system, (b) Graphical user interface of BioNES, (c) Screenshot of NES game running in FCEUX. The biofeedback bar (current position is at bar = 4) is shown at the top of the in-game screen.\n\n\n\n\n\nFigure 5: The player interacts with the system during biofeedback intervention. The acquisition hardware is attached to the ear-lobe to acquire the PPG signal. The screen shows both the BioNES GUI and FCEUX window."
+  },
+  {
+    "objectID": "research/articles/chand-khosla-biones-2022/index.html#citation",
+    "href": "research/articles/chand-khosla-biones-2022/index.html#citation",
+    "title": "BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{chand_biones_2022,\n    title = {BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback},\n    author = {Chand, Kulbhushan and Khosla, Arun},\n    doi = {10.1016/j.softx.2022.101184},\n    journal = {SoftwareX},\n    year = {2022},\n    volume = {19},\n    number = {1},\n    pages = {101184}}"
+  },
+  {
+    "objectID": "research/chapters/jain-gamification-2019/index.html",
+    "href": "research/chapters/jain-gamification-2019/index.html",
+    "title": "The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions",
+    "section": "",
+    "text": "Games are ordered activities, generally undertaken for recreation. The design elements of these games are being used by people all around the planet to make this world a better place. The opportunities for gamification are being discussed in this chapter along with the use of a decision-making method as both have been applied to the study using a local running mobile application as platform for encouraging students enrolled in various educational institutions to promote avoidance of mess food wastage and in gaining confidence to integrate to use this approach to fight the cause of this global malady in their everyday life. The overarching issue of student mentality about food wastage is being discussed along with how to merge gamification with digital technology in this aspect and its participatory design. This provides the background for addressing points of using a gameful system to foster empowerment and connection among the students of NIT Jalandhar where this case was studied and the proposed approach was implemented."
+  },
+  {
+    "objectID": "research/chapters/jain-gamification-2019/index.html#abstract",
+    "href": "research/chapters/jain-gamification-2019/index.html#abstract",
+    "title": "The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions",
+    "section": "",
+    "text": "Games are ordered activities, generally undertaken for recreation. The design elements of these games are being used by people all around the planet to make this world a better place. The opportunities for gamification are being discussed in this chapter along with the use of a decision-making method as both have been applied to the study using a local running mobile application as platform for encouraging students enrolled in various educational institutions to promote avoidance of mess food wastage and in gaining confidence to integrate to use this approach to fight the cause of this global malady in their everyday life. The overarching issue of student mentality about food wastage is being discussed along with how to merge gamification with digital technology in this aspect and its participatory design. This provides the background for addressing points of using a gameful system to foster empowerment and connection among the students of NIT Jalandhar where this case was studied and the proposed approach was implemented."
+  },
+  {
+    "objectID": "research/chapters/jain-gamification-2019/index.html#citation",
+    "href": "research/chapters/jain-gamification-2019/index.html#citation",
+    "title": "The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@incollection{jain_pursuit_2019,\n    title = {The {Pursuit} of {Zero} {Food} {Waste}: {A} {Gamified} {Approach} {Promoting} {Avoidance} of {Dormitory} {Mess} {Food} {Wastage} in {Educational} {Institutions}},\n    author = {Jain, Bhavika and Khosla, Arun and Chand, Kulbhushan and Ahuja, Kiran},\n    doi = {10.4018/978-1-5225-7706-5.ch013},\n    booktitle = {Global {Initiatives} for {Waste} {Reduction} and {Cutting} {Food} {Loss}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {13},\n    pages = {243-267}}"
+  },
+  {
+    "objectID": "research/chapters/padmakar-game-2019/index.html",
+    "href": "research/chapters/padmakar-game-2019/index.html",
+    "title": "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia",
+    "section": "",
+    "text": "The recent studies show that the children with learning disabilities numbers have been gradually increased in India. Though the main reason for the cause of this disorder is unknown, the authors strongly believe that this neurological disorder is explained as a genetic disorder passed from elder hierarchy to the next generation. With the available resources, the awareness programs are limited to urban areas only on account of using current technology in diagnosing disorders. In developed countries, it is seen that new technologies taking birth every day for the treatment of these disorders. This includes LCD 3D display, Kinect games, computer games (psychotherapeutic) in therapy sessions, etc. These kinds of games make children more attentive towards the intervention bringing new changes in the day-to-day lives of the children. In this chapter, a new algorithm has been highlighted for the intervention of children with dyslexia by using the Android application as a source to increase the level of perception and sound-symbol association of the respective alphabets used and studied."
+  },
+  {
+    "objectID": "research/chapters/padmakar-game-2019/index.html#abstract",
+    "href": "research/chapters/padmakar-game-2019/index.html#abstract",
+    "title": "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia",
+    "section": "",
+    "text": "The recent studies show that the children with learning disabilities numbers have been gradually increased in India. Though the main reason for the cause of this disorder is unknown, the authors strongly believe that this neurological disorder is explained as a genetic disorder passed from elder hierarchy to the next generation. With the available resources, the awareness programs are limited to urban areas only on account of using current technology in diagnosing disorders. In developed countries, it is seen that new technologies taking birth every day for the treatment of these disorders. This includes LCD 3D display, Kinect games, computer games (psychotherapeutic) in therapy sessions, etc. These kinds of games make children more attentive towards the intervention bringing new changes in the day-to-day lives of the children. In this chapter, a new algorithm has been highlighted for the intervention of children with dyslexia by using the Android application as a source to increase the level of perception and sound-symbol association of the respective alphabets used and studied."
+  },
+  {
+    "objectID": "research/chapters/padmakar-game-2019/index.html#citation",
+    "href": "research/chapters/padmakar-game-2019/index.html#citation",
+    "title": "LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@incollection{padmakar_learneasy-android_2019,\n    title = {{LearnEasy}-{Android} {Application} as a {Technological} {Intervention} for {Children} {With} {Dyslexia}},\n    author = {Padmakar, Ganta Sandeep V and Khosla, Arun and Chand, Kulbhushan},\n    doi = {10.4018/978-1-5225-7004-2.ch012},\n    booktitle = {Emerging {Trends} in the {Diagnosis} and {Intervention} of {Neurodevelopmental} {Disorders}},\n    publisher = {IGI Global},\n    year = {2019},\n    chapter = {12},\n    pages = {236-248}}"
+  },
+  {
+    "objectID": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html",
+    "href": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html",
+    "title": "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters",
+    "section": "",
+    "text": "Paper (open acess)"
+  },
+  {
+    "objectID": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#important-links",
+    "href": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#important-links",
+    "title": "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters",
+    "section": "",
+    "text": "Paper (open acess)"
+  },
+  {
+    "objectID": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#citation",
+    "href": "research/conference-papers/chand-chandra-dutt-mbcc-hrv-2024/index.html#citation",
+    "title": "Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters",
+    "section": "Citation",
+    "text": "Citation\n\n@article{chand_comprehensive_2024,\n    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1016/j.heliyon.2024.e32195},\n    journal = {Heliyon},\n    year = {2024},\n    volume = {10},\n    number = {11},\n    pages = {e32195}}"
+  },
+  {
+    "objectID": "research/conference-papers/rao-petra-tdcs-2023/index.html",
+    "href": "research/conference-papers/rao-petra-tdcs-2023/index.html",
+    "title": "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning",
+    "section": "",
+    "text": "Prior research shows that transcranial direct current stimulation (tDCS) has the propensity to induce performance gains in human subjects in various cognitive processes. However, very little is known about whether these gains can be predicted via machine learning data using Electroencephalography (EEG) data. To address this gap, in this study, feature-selection approaches and machine learning (ML) are performed on various features extracted from EEG data to predict human performance gains due to tDCS administration. Human data was collected from two distinct groups of people (tDCS (N = 15) and sham (N = 15)), one of which undertook tDCS administration over six days (sham did not undertake the tDCS administration). On day 1 and day 8, data was collected on the user’s performance in an underwater search-and-shoot simulation. 32-channel EEG data was acquired during task execution. Different feature-selection and regression-based machine learning techniques were attempted to predict the change in performance on day 8 compared to day 1. Results revealed that univariate feature selection performed best with random forest regression with an 8% error among different feature selection techniques. We highlight the inferences of our results for performance gain prediction from tDCS and allied interventions."
+  },
+  {
+    "objectID": "research/conference-papers/rao-petra-tdcs-2023/index.html#abstract",
+    "href": "research/conference-papers/rao-petra-tdcs-2023/index.html#abstract",
+    "title": "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning",
+    "section": "",
+    "text": "Prior research shows that transcranial direct current stimulation (tDCS) has the propensity to induce performance gains in human subjects in various cognitive processes. However, very little is known about whether these gains can be predicted via machine learning data using Electroencephalography (EEG) data. To address this gap, in this study, feature-selection approaches and machine learning (ML) are performed on various features extracted from EEG data to predict human performance gains due to tDCS administration. Human data was collected from two distinct groups of people (tDCS (N = 15) and sham (N = 15)), one of which undertook tDCS administration over six days (sham did not undertake the tDCS administration). On day 1 and day 8, data was collected on the user’s performance in an underwater search-and-shoot simulation. 32-channel EEG data was acquired during task execution. Different feature-selection and regression-based machine learning techniques were attempted to predict the change in performance on day 8 compared to day 1. Results revealed that univariate feature selection performed best with random forest regression with an 8% error among different feature selection techniques. We highlight the inferences of our results for performance gain prediction from tDCS and allied interventions."
+  },
+  {
+    "objectID": "research/conference-papers/rao-petra-tdcs-2023/index.html#citation",
+    "href": "research/conference-papers/rao-petra-tdcs-2023/index.html#citation",
+    "title": "Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@inproceedings{k_rao_prediction_2023,\n    title = {Prediction of decision-making performance post-longitudinal {tDCS} administration via {EEG} features and machine learning},\n    author = {K Rao, Akash and Fatma, Zoha and K Menon, Vishnu and Bhavsar, Arnav and Roy Chowdhury, Shubhajit and Chandra, Sushil and Dutt, Varun and Chand, Kulbhushan},\n    doi = {10.1145/3594806.3596579},\n    booktitle = {Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}},\n    year = {2023},\n    pages = {760--765}}"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Gamification \n                \n            \n            \n                ECX-488 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding basic concepts of Gamification, case-studies, and applications for real-world problems\n\n            \n                \n                 \n                 Spring 2020\n                \n                \n                 \n                 Fall 2019\n                \n                \n                 \n                 Spring 2019\n                \n                \n                 \n                 Fall 2018\n                \n                \n                 \n                 Spring 2018\n                \n                \n                 \n                 Fall 2017\n                \n                \n                 \n                 Spring 2017\n                \n                \n                 \n                 Fall 2016\n                \n                \n                 \n                 Spring 2016\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Scientific Computing Lab \n                \n            \n            \n                ECPC-351 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding of the capabilities, features and usage of scientific computing platform(s) for implementing numerical computations, algorithm development, simulation, and testing and system evaluation\n\n            \n                \n                 \n                 Spring 2020\n                \n                \n                 \n                 Fall 2019\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Electronics for Chemists Lab \n                \n            \n            \n                CY-592; EC-636 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding basic concepts of electronics for the MSc Chemistry students\n\n            \n                \n                 \n                 Spring 2019\n                \n                \n                 \n                 Spring 2018\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Analysis and Synthesis of Networks \n                \n            \n            \n                ECX-201 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding principles of circuit analysis, network theorems, frequency domain techniques, and synthesis methods for linear electrical networks\n\n            \n                \n                 \n                 Fall 2017\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Analysis and Synthesis of Networks Lab \n                \n            \n            \n                ECX-211 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Hands-on experience in verifying network theorems, analyzing circuit behavior, and designing networks using practical experiments and simulation tools\n\n            \n                \n                 \n                 Fall 2018\n                \n                \n                 \n                 Fall 2017\n                \n                \n                 \n                 Fall 2016\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Basic Electronics Lab \n                \n            \n            \n                ECX-102 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Hands-on experience with basic electronic components and circuits to understand and apply fundamental electronic principles\n\n            \n                \n                 \n                 Spring 2017\n                \n                \n                 \n                 Spring 2016\n                \n                \n                 \n                 Fall 2015\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section",
+    "href": "teaching/index.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "Gamification \n                \n            \n            \n                ECX-488 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding basic concepts of Gamification, case-studies, and applications for real-world problems\n\n            \n                \n                 \n                 Spring 2020\n                \n                \n                 \n                 Fall 2019\n                \n                \n                 \n                 Spring 2019\n                \n                \n                 \n                 Fall 2018\n                \n                \n                 \n                 Spring 2018\n                \n                \n                 \n                 Fall 2017\n                \n                \n                 \n                 Spring 2017\n                \n                \n                 \n                 Fall 2016\n                \n                \n                 \n                 Spring 2016\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Scientific Computing Lab \n                \n            \n            \n                ECPC-351 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding of the capabilities, features and usage of scientific computing platform(s) for implementing numerical computations, algorithm development, simulation, and testing and system evaluation\n\n            \n                \n                 \n                 Spring 2020\n                \n                \n                 \n                 Fall 2019\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Electronics for Chemists Lab \n                \n            \n            \n                CY-592; EC-636 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding basic concepts of electronics for the MSc Chemistry students\n\n            \n                \n                 \n                 Spring 2019\n                \n                \n                 \n                 Spring 2018\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Analysis and Synthesis of Networks \n                \n            \n            \n                ECX-201 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Understanding principles of circuit analysis, network theorems, frequency domain techniques, and synthesis methods for linear electrical networks\n\n            \n                \n                 \n                 Fall 2017\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Analysis and Synthesis of Networks Lab \n                \n            \n            \n                ECX-211 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Hands-on experience in verifying network theorems, analyzing circuit behavior, and designing networks using practical experiments and simulation tools\n\n            \n                \n                 \n                 Fall 2018\n                \n                \n                 \n                 Fall 2017\n                \n                \n                 \n                 Fall 2016\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Basic Electronics Lab \n                \n            \n            \n                ECX-102 | \n                National Institute of Technology Jalandhar\n                \n                | TA, as PhD student\n                \n            \n            Hands-on experience with basic electronic components and circuits to understand and apply fundamental electronic principles\n\n            \n                \n                 \n                 Spring 2017\n                \n                \n                 \n                 Spring 2016\n                \n                \n                 \n                 Fall 2015\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-1",
+    "href": "teaching/index.html#section-1",
+    "title": "Teaching",
+    "section": "2014–15",
+    "text": "2014–15\n\n\n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Digital Signal Processing \n                \n            \n            \n                ECE300 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding digital signal processing, including discrete-time systems, Fourier analysis, filter design, and real-world applications\n\n            \n                \n                 \n                 Spring 2015\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Digital Signal Processing Laboratory \n                \n            \n            \n                ECE324 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Hands-on to the practical implementation of digital signal processing concepts, using MATLAB\n\n            \n                \n                 \n                 Spring 2015\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Analytical Skills-II \n                \n            \n            \n                PEA302 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Developing analytical skills through quantitative aptitude, data interpretation, and problem-solving for exams and placements\n\n            \n                \n                 \n                 Spring 2015\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Adaptive Signal Processing \n                \n            \n            \n                ECE531 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding the basics of adaptive signal processing, including filter design, LMS and RLS algorithms, and applications in noise cancellation and system modeling\n\n            \n                \n                 \n                 Fall 2014\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Signal and Systems \n                \n            \n            \n                ECE220 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding the fundamental concepts of signals and systems, including signal properties, system behavior, Fourier and Laplace transforms, and their applications in communication and filtering\n\n            \n                \n                 \n                 Fall 2014\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Basic Simulation Laboratory \n                \n            \n            \n                CSE222 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Hands-on course on introduction to MATLAB programming, focusing on matrix operations, plotting, function scripting, and simulation techniques for basic engineering applications\n\n            \n                \n                 \n                 Fall 2014\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-2",
+    "href": "teaching/index.html#section-2",
+    "title": "Teaching",
+    "section": "2013–14",
+    "text": "2013–14\n\n\n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Electronic Devices and Circuits \n                \n            \n            \n                ECE206 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding the principles, operation, and applications of semiconductor devices and circuits that form the foundation of modern electronic systems\n\n            \n                \n                 \n                 Summer 2014\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Digital Signal Processing \n                \n            \n            \n                ECE300 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding digital signal processing, including discrete-time systems, Fourier analysis, filter design, and real-world applications\n\n            \n                \n                 \n                 Spring 2014\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Probability and Stochastic Processes \n                \n            \n            \n                ECE256 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding probability theory, random variables, and stochastic processes, focusing on their applications in analyzing and predicting systems under uncertainty\n\n            \n                \n                 \n                 Spring 2014\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Digital Signal Processing Laboratory \n                \n            \n            \n                ECE324 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Hands-on to the practical implementation of digital signal processing concepts, using MATLAB\n\n            \n                \n                 \n                 Spring 2014\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Electronic Devices and Circuits \n                \n            \n            \n                ECE206 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding the principles, operation, and applications of semiconductor devices and circuits that form the foundation of modern electronic systems\n\n            \n                \n                 \n                 Fall 2013\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Basic Electrical Engineering \n                \n            \n            \n                ECE133 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding the principles of electrical engineering, including circuits and machines, forms the foundation for designing power systems\n\n            \n                \n                 \n                 Fall 2013\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Analog and Linear Integrated Circuits Laboratory \n                \n            \n            \n                ECE317 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Understanding the design, analysis, and practical applications of analog and linear integrated circuits through hands-on experiments is the core focus of this course\n\n            \n                \n                 \n                 Fall 2013\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Basic Electrical Engineering Laboratory \n                \n            \n            \n                ECE134 | \n                Lovely Professional University\n                \n                | as Assistant Professor\n                \n            \n            Hands-on experience with basic electrical engineering concepts, including domestic wiring, circuit analysis, transformers, motors, and safety practices\n\n            \n                \n                 \n                 Fall 2013\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-3",
+    "href": "teaching/index.html#section-3",
+    "title": "Teaching",
+    "section": "2011–13",
+    "text": "2011–13\n\n\n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Introduction to Practical Electronics \n                \n            \n            \n                ECE100 | \n                Lovely Professional University\n                \n                | TA, as MTech student\n                \n            \n            Hands-on with the practical electronics circuits for every day use\n\n            \n                \n                 \n                 Fall 2012\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Electrical and Electronics Workshop \n                \n            \n            \n                ECE130 | \n                Lovely Professional University\n                \n                | TA, as MTech student\n                \n            \n            Hands-on to the basic electrical and electronics circuits and tools\n\n            \n                \n                 \n                 Spring 2012\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section-4",
+    "href": "teaching/index.html#section-4",
+    "title": "Teaching",
+    "section": "2010–11",
+    "text": "2010–11\n\n\n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Microcontroller and Applications \n                \n            \n            \n                ECE310 | \n                Lovely Professional University\n                \n                | as Lecturer\n                \n            \n            Understanding the architecture, programming, and interfacing of microcontrollers, emphasizing their applications in embedded systems and real-time control\n\n            \n                \n                 \n                 Spring 2011\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Introduction to Practical Electronics \n                \n            \n            \n                ECE100 | \n                Lovely Professional University\n                \n                | as Lecturer\n                \n            \n            Hands-on to the practical electronics circuits for every day use\n\n            \n                \n                 \n                 Spring 2011\n                \n                \n            \n        \n    \n    \n    \n        \n            \n            \n            \n        \n        \n            \n                \n                Unified Electronics Laboratory - II \n                \n            \n            \n                ECE208 | \n                Lovely Professional University\n                \n                | as Lecturer\n                \n            \n            Introduction to analog electronics circuits, PSPICE, and MATLAB\n\n            \n                \n                 \n                 Spring 2011\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
   }
 ]
