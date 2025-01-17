@@ -1,0 +1,65 @@
+- title: Digital Signal Processing
+  description: "Understanding digital signal processing, including discrete-time systems, Fourier analysis, filter design, and real-world applications"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE300
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2015
+    url: 
+
+- title: Digital Signal Processing Laboratory
+  description: "Hands-on to the practical implementation of digital signal processing concepts, using MATLAB"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE324
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2015
+    url: 
+
+- title: Analytical Skills-II
+  description: "Developing analytical skills through quantitative aptitude, data interpretation, and problem-solving for exams and placements"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: PEA302
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2015
+    url: 
+
+- title: Adaptive Signal Processing
+  description: "Understanding the basics of adaptive signal processing, including filter design, LMS and RLS algorithms, and applications in noise cancellation and system modeling"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE531
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2014
+    url: 
+
+- title: Signal and Systems
+  description: "Understanding the fundamental concepts of signals and systems, including signal properties, system behavior, Fourier and Laplace transforms, and their applications in communication and filtering"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE220
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2014
+    url: 
+
+- title: Basic Simulation Laboratory
+  description: "Hands-on course on introduction to MATLAB programming, focusing on matrix operations, plotting, function scripting, and simulation techniques for basic engineering applications"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: CSE222
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2014
+    url: 

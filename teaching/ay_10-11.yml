@@ -1,0 +1,32 @@
+- title: Microcontroller and Applications
+  description: "Understanding the architecture, programming, and interfacing of microcontrollers, emphasizing their applications in embedded systems and real-time control"
+  university: Lovely Professional University
+  role: as Lecturer
+  number: ECE310
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2011
+    url: 
+
+- title: Introduction to Practical Electronics
+  description: "Hands-on to the practical electronics circuits for every day use"
+  university: Lovely Professional University
+  role: as Lecturer
+  number: ECE100
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2011
+    url: 
+
+- title: Unified Electronics Laboratory - II
+  description: "Introduction to analog electronics circuits, PSPICE, and MATLAB"
+  university: Lovely Professional University
+  role: as Lecturer
+  number: ECE208
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2011
+    url: 

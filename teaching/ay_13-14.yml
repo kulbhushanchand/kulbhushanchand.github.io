@@ -1,0 +1,87 @@
+- title: Electronic Devices and Circuits
+  description: "Understanding the principles, operation, and applications of semiconductor devices and circuits that form the foundation of modern electronic systems"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE206
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Summer 2014
+    url: 
+
+- title: Digital Signal Processing
+  description: "Understanding digital signal processing, including discrete-time systems, Fourier analysis, filter design, and real-world applications"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE300
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2014
+    url: 
+
+- title: Probability and Stochastic Processes
+  description: "Understanding probability theory, random variables, and stochastic processes, focusing on their applications in analyzing and predicting systems under uncertainty"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE256
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2014
+    url: 
+
+- title: Digital Signal Processing Laboratory
+  description: "Hands-on to the practical implementation of digital signal processing concepts, using MATLAB"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE324
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2014
+    url: 
+
+- title: Electronic Devices and Circuits
+  description: "Understanding the principles, operation, and applications of semiconductor devices and circuits that form the foundation of modern electronic systems"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE206
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2013
+    url: 
+
+- title: Basic Electrical Engineering
+  description: "Understanding the principles of electrical engineering, including circuits and machines, forms the foundation for designing power systems"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE133
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2013
+    url: 
+
+- title: Analog and Linear Integrated Circuits Laboratory
+  description: "Understanding the design, analysis, and practical applications of analog and linear integrated circuits through hands-on experiments is the core focus of this course"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE317
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2013
+    url: 
+
+- title: Basic Electrical Engineering Laboratory
+  description: "Hands-on experience with basic electrical engineering concepts, including domestic wiring, circuit analysis, transformers, motors, and safety practices"
+  university: Lovely Professional University
+  role: as Assistant Professor
+  number: ECE134
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2013
+    url: 

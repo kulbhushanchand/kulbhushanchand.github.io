@@ -1,0 +1,21 @@
+- title: Introduction to Practical Electronics
+  description: "Hands-on with the practical electronics circuits for every day use"
+  university: Lovely Professional University
+  role: TA, as MTech student
+  number: ECE100
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Fall 2012
+    url: 
+
+- title: Electrical and Electronics Workshop
+  description: "Hands-on to the basic electrical and electronics circuits and tools"
+  university: Lovely Professional University
+  role: TA, as MTech student
+  number: ECE130
+  url: 
+  logo: logos/teaching-generic-lpu.png
+  semester:
+  - name: Spring 2012
+    url: 

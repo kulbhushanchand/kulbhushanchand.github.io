@@ -1,0 +1,93 @@
+- title: Gamification
+  description: "Understanding basic concepts of Gamification, case-studies, and applications for real-world problems"
+  university: National Institute of Technology Jalandhar
+  role: TA, as PhD student
+  number: ECX-488
+  url: 
+  logo: logos/teaching-generic-nitj.png
+  semester:
+  - name: Spring 2020
+    url: 
+  - name: Fall 2019
+    url: 
+  - name: Spring 2019
+    url: 
+  - name: Fall 2018
+    url: 
+  - name: Spring 2018
+    url: 
+  - name: Fall 2017
+    url: 
+  - name: Spring 2017
+    url: 
+  - name: Fall 2016
+    url: 
+  - name: Spring 2016
+    url: 
+
+- title: Scientific Computing Lab
+  description: "Understanding of the capabilities, features and usage of scientific computing platform(s) for implementing numerical computations, algorithm development, simulation, and testing and system evaluation"
+  university: National Institute of Technology Jalandhar
+  role: TA, as PhD student
+  number: ECPC-351
+  url: 
+  logo: logos/teaching-generic-nitj.png
+  semester:
+  - name: Spring 2020
+    url: 
+  - name: Fall 2019
+    url: 
+
+- title: Electronics for Chemists Lab
+  description: "Understanding basic concepts of electronics for the MSc Chemistry students"
+  university: National Institute of Technology Jalandhar
+  role: TA, as PhD student
+  number: CY-592; EC-636  
+  url: 
+  logo: logos/teaching-generic-nitj.png
+  semester:
+  - name: Spring 2019
+    url: 
+  - name: Spring 2018
+    url: 
+
+- title: Analysis and Synthesis of Networks
+  description: "Understanding principles of circuit analysis, network theorems, frequency domain techniques, and synthesis methods for linear electrical networks"
+  university: National Institute of Technology Jalandhar
+  role: TA, as PhD student
+  number: ECX-201
+  url: 
+  logo: logos/teaching-generic-nitj.png
+  semester:
+  - name: Fall 2017
+    url: 
+    
+- title: Analysis and Synthesis of Networks Lab
+  description: "Hands-on experience in verifying network theorems, analyzing circuit behavior, and designing networks using practical experiments and simulation tools"
+  university: National Institute of Technology Jalandhar
+  role: TA, as PhD student
+  number: ECX-211
+  url: 
+  logo: logos/teaching-generic-nitj.png
+  semester:
+  - name: Fall 2018
+    url: 
+  - name: Fall 2017
+    url: 
+  - name: Fall 2016
+    url: 
+
+- title: Basic Electronics Lab
+  description: "Hands-on experience with basic electronic components and circuits to understand and apply fundamental electronic principles"
+  university: National Institute of Technology Jalandhar
+  role: TA, as PhD student
+  number: ECX-102 
+  url: 
+  logo: logos/teaching-generic-nitj.png
+  semester:
+  - name: Spring 2017
+    url: 
+  - name: Spring 2016
+    url: 
+  - name: Fall 2015
+    url: 
