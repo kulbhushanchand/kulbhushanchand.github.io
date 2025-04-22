@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2025-01-17
+date: 2025-04-22
 description: Kulbhushan Chand's email and online profiles
 published-title: Last updated
 title-block-banner: "#771C6D"
@@ -12,7 +12,7 @@ include-before-body:
     <script type="application/javascript" src="/html/scramble.js"></script>
 include-after-body:
   text: |
-    <script> emailScramble = new scrambledString(document.getElementById('email'), 'emailScramble', 'no.n@ashmbguahclc.iakldmuh', [10,25,11,15,17,9,7,5,19,4,18,2,14,8,12,3,24,23,21,20,1,22,16,26,6,13]); </script>
+    <script> pemailScramble = new scrambledString(document.getElementById('pemail'), 'pemailScramble', 'no.n@ashmbguahclc.iakldmuh', [10,25,11,15,17,9,7,5,19,4,18,2,14,8,12,3,24,23,21,20,1,22,16,26,6,13]); iemailScramble = new scrambledString(document.getElementById('iemail'), 'iemailScramble', 'ntl.hniusahkiimi.cint.@dhabua', [29,12,3,24,5,21,17,2,7,20,8,1,13,28,19,16,27,26,23,10,18,15,11,22,14,9,4,6,25]); </script>
     
 ---
 
@@ -32,9 +32,22 @@ You can reach me out on my email-id. Additionally you can visit my online profil
 The email ID is obfuscated to prevent scraping. Click below to reveal it.
 
 <div>
-  <div style="display: inline;">{{< iconify bi envelope-at-fill size=1.1em title='Email' >}} Email: </div>
-  <div id="email" style="display: inline;">clgsb@mdhaao.ukh.cihlnamnu<a href="#" onclick="emailScramble.initAnimatedBubbleSort();return false;">unscramble </a></div>
+  <div style="display: inline;">{{< iconify bi envelope-fill size=1.1em title='Email' >}} **Institute Email:** </div>
+  <div id="iemail" style="display: inline;">clgsb@mdhaao.ukh.cihlnamnu<a href="#" onclick="iemailScramble.initAnimatedBubbleSort();return false;">unscramble </a></div>
 </div>
+
+<div>
+  <div style="display: inline;">{{< iconify bi envelope-fill size=1.1em title='Email' >}} **Persistent Email:** </div>
+  <div id="pemail" style="display: inline;">clgsb@mdhaao.ukh.cihlnamnu<a href="#" onclick="pemailScramble.initAnimatedBubbleSort();return false;">unscramble </a></div>
+</div>
+
+{{< iconify bi house-fill size=1.1em title='Email' >}} **Address:**  
+Center for Human Computer Interaction,  
+A14 building, 3rd floor, North Campus,  
+Indian Institute of Technology Mandi,   
+Kamand, Mandi, Himachal Pradesh,   
+India,  
+Pin - 175075  
 
 :::
 
