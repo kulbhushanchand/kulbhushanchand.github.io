@@ -1,6 +1,10 @@
 ---
 title: "Talks"
 listing:
+  - id: talks_2025
+    contents: talks_2025.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
   - id: talks_2023
     contents: talks_2023.yml
     sort: "date desc"
@@ -36,6 +40,11 @@ This page contains the briefs of various workshops, talks, lectures, and present
 ### Copyright
 
 Except where noted, all content is © Kulbhushan Chand and licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
+:::
+
+## 2025
+
+:::{#talks_2025}
 :::
 
 ## 2023
