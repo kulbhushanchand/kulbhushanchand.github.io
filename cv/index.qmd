@@ -1,13 +1,13 @@
 ---
 title: Curriculum vitæ
 description: "Kulbhushan Chand's CV"
-date: 2025-06-28
+date: 2025-08-12
 title-block-banner: "#771C6D"
 published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "2025-06-28_kulbhushan-chand-cv.pdf"
+  pdf: "2025-08-12_kulbhushan-chand-cv.pdf"
 ---
 
 ```{css, echo=FALSE}
