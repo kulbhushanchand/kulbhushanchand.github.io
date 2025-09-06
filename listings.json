@@ -6,6 +6,7 @@
   {
     "listing": "/research/index.html",
     "items": [
+      "/research/articles/kumar-affordable-2025/index.html",
       "/research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.html",
       "/research/articles/chand-chandra-dutt-hrvparameters-2024/index.html",
       "/research/articles/chand-khosla-biones-2022/index.html",
@@ -21,10 +22,8 @@
     ]
   },
   {
-    "listing": "/atom.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
+    "listing": "/projects/index.html",
+    "items": []
   },
   {
     "listing": "/blog/index.html",
@@ -33,8 +32,10 @@
     ]
   },
   {
-    "listing": "/projects/index.html",
-    "items": []
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
   },
   {
     "listing": "/rss.html",
