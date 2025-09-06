@@ -1,0 +1,81 @@
+---
+title: "Affordable ECG Sensing: A Machine Learning-Enhanced Framework for Scalable Human-Machine Interaction in Telehealth"
+date: 2025-08-05
+author:
+  - name: Yashwant Kumar
+    affiliation: Indian Institute of Technology Mandi, India    
+  - name: Shreya Garg
+    affiliation: Indian Institute of Technology Mandi, India
+  - name: Peeyush Agarwal
+    affiliation: Indian Institute of Technology Mandi, India
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation, Indian Institute of Technology Mandi, India
+  - name: Arnav Bhavsar
+    affiliation: Indian Institute of Technology Mandi, India
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi, India
+categories:
+  - ECG monitoring
+  - Human machine interaction
+  - Heart rate variability
+  - Machine learning
+  - Low-cost sensors
+  - Telehealth
+pub-info:
+  reference: >-
+    Yashwant Kumar, Shreya Garg, Peeyush Agarwal, <strong>Kulbhushan Chand</strong>, Arnav Bhavsar, and Varun Dutt, "Affordable ECG Sensing: A Machine Learning-Enhanced Framework for Scalable Human-Machine Interaction in Telehealth," <em>IEEE Sensors Journal</em> (2025), doi: <a href="https://doi.org/10.1109/JSEN.2025.3593819"><code>10.1109/JSEN.2025.3593819</code></a>
+  links:
+    - name: PDF
+      url: 
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1109/JSEN.2025.3593819
+      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1109/JSEN.2025.3593819
+      icon: ai ai-zotero-square
+doi: 10.1109/JSEN.2025.3593819
+haiku:
+  - Signals on the skin
+  - Machine learning bridges gaps
+  - Hearts share their rhythms
+---
+
+## Important links
+
+- [Supplementary data (open acess)](https://doi.org/10.21227/s3dc-hd94)
+
+
+## Abstract
+
+Affordable and accurate cardiovascular monitoring is a pervasive issue in resource-constrained and rural settings, where sophisticated clinical-grade electrocardiogram (ECG) devices are exorbitantly expensive. Low-cost ECG sensors available today are prone to motion artifacts and noisy signals, limiting their use to heart rate variability (HRV) estimation. To fill this gap, we present a proof-of-concept system calibrating noisy, wearable ECG-based HRV measurements using machine learning (ML) models, against a gold standard clinical-grade sensor. Our objective is to evaluate the feasibility of accurate HRV prediction i.e., SDNN and RMSSD using low-cost sensors (AD8232, MAX30003) using ensemble and regression-based ML models. Data were collected in semi-controlled wearable settings, digital-filtered preprocessed, and processed with model ensembles optimized for generalizability. The top-performing models yielded RMSEs of 14.09 ms (SDNN) and 9.09 ms (RMSSD), with sensor type variable performance. In addition to signal calibration, the system includes a real-time human–machine interface (HMI) with wireless ECG visualization and feedback, integrated by an IoT-capable microcontroller. While preliminary and unclinically validated, our results suggest ML-augmented low-cost ECG systems to be feasible for scaled telehealth and affect-aware applications.
+
+
+## Important figures
+
+![Figure 1: The weighted ensemble learning framework for HRV parameter prediction from AD8232 and MAX30003 low-cost sensor data against BitBrain reference recordings.](affordable-2025-fig1.jpg)
+
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1109/JSEN.2025.3593819">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{kumar_affordable_2025,
+    title = {Affordable {ECG} {Sensing}: {A} {Machine} {Learning}-{Enhanced} {Framework} for {Scalable} {Human}-{Machine} {Interaction} in {Telehealth}},
+    author = {Kumar, Yashwant and Garg, Shreya and Agarwal, Peeyush and Chand, Kulbhushan and Bhavsar, Arnav and Dutt, Varun},
+    doi = {10.1109/JSEN.2025.3593819},
+    journal = {IEEE Sensors Journal},
+    year = {2025},
+    volume = {TBA},
+    number = {TBA},
+    pages = {TBA}}
+```
