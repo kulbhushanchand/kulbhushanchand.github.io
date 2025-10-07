@@ -54,6 +54,7 @@ Pin - 175075
 
 ::: {.g-col-12 .g-col-sm-4}
 ## Online profiles
+[{{< iconify fa:university size=1.1em title='University' >}} Institute Profile](https://chci.iitmandi.ac.in/team-details.php?id=8&type=researcher)   
 [{{< iconify bi linkedin size=1.1em title='LinkedIn' >}} LinkedIn](https://www.linkedin.com/in/kulbhushan-chand)  
 [{{< fa brands google-scholar size=1.1em title='Google Scholar' >}} Google Scholar](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)  
 [{{< fa brands orcid size=1.1em title='ORCID' >}} ORCID](https://orcid.org/0000-0001-6502-0748)  
