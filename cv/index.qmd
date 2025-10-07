@@ -7,7 +7,7 @@ published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "2025-09-05_kulbhushan-chand-cv.pdf"
+  pdf: "2025-10-07_kulbhushan-chand-cv.pdf"
 ---
 
 ```{css, echo=FALSE}
