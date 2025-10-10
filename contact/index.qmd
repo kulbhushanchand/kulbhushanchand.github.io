@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2025-04-22
+date: 2025-10-10
 description: Kulbhushan Chand's email and online profiles
 published-title: Last updated
 title-block-banner: "#771C6D"
@@ -29,7 +29,7 @@ You can reach me out on my email-id. Additionally you can visit my online profil
 ::: {.g-col-12 .g-col-sm-8}
 
 ## Contact
-The email ID is obfuscated to prevent scraping. Click below to reveal it.
+The email IDs are obfuscated to prevent scraping. Click below to reveal it.
 
 <div>
   <div style="display: inline;">{{< iconify bi envelope-fill size=1.1em title='Email' >}} **Institute Email:** </div>
