@@ -31,8 +31,8 @@ format:
 ::: {.g-col-12 .g-col-sm-8}
 I'm a Post Doctoral fellow in [Technology Innovation Hub](https://www.ihubiitmandi.in/) at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in/). I received a PhD in electronics and communication engineering from [National Institute of Technology Jalandhar](https://www.nitj.ac.in/) in 2022.
 
-Broadly my research areas overlaps [Human Computer Interaction (HCI)](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), [Indian Knowledge System (IKS)](https://en.wikipedia.org/wiki/Indian_Knowledge_Systems) and mental healthcare. Specifically, I do research in developing biofeedback systems, validating alternate form of medications (like biofeedback, music, meditation etc.) for mental stress management, and making biofeedback protocols more engaging through gamification.
+Broadly, my research areas overlap [Human Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), affective and physiological computing, serious games for health, assistive technologies, and [Indian Knowledge System](https://en.wikipedia.org/wiki/Indian_Knowledge_Systems) inspired approaches for mental wellbeing. I develop affordable [biofeedback](https://en.wikipedia.org/wiki/Biofeedback) systems, video games for health, non-medicative interventions for stress management, and rehabilitation tools for neurodiverse populations. My teaching emphasizes project-based learning supported by interactive tools and open-source pedagogical resources.
 
-I mostly use open-source tools/technologies in my work, and my PhD work is freely available. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative.
+I mostly use open-source tools/technologies in my work. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative.
 :::
 :::::
