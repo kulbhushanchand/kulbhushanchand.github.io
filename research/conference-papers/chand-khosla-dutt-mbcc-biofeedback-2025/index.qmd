@@ -1,0 +1,63 @@
+---
+title: "Towards Affordable Biofeedback System for Mental Relaxation"
+date: 2025-06-07
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi
+categories:
+  - Biofeedback
+  - Mental relaxation
+  - Stress management
+  - Affordability
+  - Reproducibility
+  - Video Games
+pub-info:
+  reference: >-
+    <strong>Kulbhushan Chand</strong>, and Varun Dutt, “Towards Affordable Biofeedback System for Mental Relaxation,” <em>Mind, Brain, and Consciousness Conference (MBCC)</em> (2025)
+  links:
+    - name: PDF
+      url: mbcc-biofeedback-2025.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+#    - name: Final version
+#      url: 
+#      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+#    - name: Add to Zotero
+#      url: 
+#      icon: ai ai-zotero-square
+#doi: 
+#haiku:
+#  - 
+#  - 
+#  - 
+  extra: >- 
+    It is an abstract publication for an ongoing study at that time.
+---
+
+## Important links
+
+- [Paper (author version)](mbcc-biofeedback-2025.pdf)
+
+## Citation
+<!--
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+-->
+```bibtex
+@inproceedings{chand_towards_2025,
+	address = {IIT Mandi, India},
+	title = {Towards {Affordable} {Biofeedback} {System} for {Mental} {Relaxation}},
+	copyright = {All rights reserved},
+	author = {Chand, Kulbhushan and Khosla, Arun and Dutt, Varun},
+	month = mar,
+	year = {2025},
+	note = {In Press}}
+```

@@ -18,6 +18,10 @@ listing:
     contents: "chapters/*/index.qmd"
     sort: "date desc"
     template: ../html/research/listing.ejs
+  - id: posters-and-extended-abstracts
+    contents: "posters-and-extended-abstracts/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
 page-layout: full
 include-back-link: false
 toc-location: right
@@ -30,17 +34,23 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 ::: {#articles}
 :::
 
-## Working papers
-
-::: {#working-papers}
-:::
-
 ## Conference papers
 
 ::: {#conference-papers}
 :::
 
+
+## Posters and Extended-abstracts
+
+::: {#posters-and-extended-abstracts}
+:::
+
 ## Book chapters
 
 ::: {#book-chapters}
+:::
+
+## Working papers
+
+::: {#working-papers}
 :::

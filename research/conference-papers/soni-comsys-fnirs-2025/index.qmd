@@ -1,0 +1,65 @@
+---
+title: "Development of a Wearable fNIRS System for Non-invasive Cerebral Oxygenation Monitoring"
+date: 2025-09-27
+author:
+  - name: Shreyash Soni
+    affiliation: Indian Institute of Technology Mandi
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation
+  - name: Shubhajit Roy Chowdhury
+    affiliation: Indian Institute of Technology Mandi
+categories:
+  - fNIRS
+  - Cerebral Oxygen Monitoring
+  - Data Acquisition
+  - Flexible Printed Circuit Board
+pub-info:
+  reference: >-
+    Shreyash Soni, <strong>Kulbhushan Chand</strong>, and Shubhajit Roy Chowdhury, “Development of a Wearable fNIRS System for Non-invasive Cerebral Oxygenation Monitoring,” <em>6th International Conference on Frontiers in Computing and Systems (COMSYS 2025)</em> (2025)
+  links:
+#    - name: PDF
+#      url: 
+#      icon: fa-solid fa-file-pdf
+#      local: true
+#    - name: Final version
+#      url: 
+#      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+#    - name: Add to Zotero
+#      url: 
+#      icon: ai ai-zotero-square
+#doi: 
+#haiku:
+#  - 
+#  - 
+#  - 
+#  extra: >- 
+
+---
+
+## Abstract
+Near-infrared spectroscopy (NIRS) is a non-invasive method extensively employed to observe real-time data regarding tissue oxygenation levels, hemodynamics, and metabolic activity. By utilizing infrared light to penetrate biological tissue and analyzing the absorption and scattering of light, NIRS offers critical insights into oxygen saturation and blood flow dynamics. This paper details the design and development of a cost-effective, wearable, multichannel functional NIRS (fNIRS) device for measuring regional cerebral oxygen saturation (∆rSO₂) across the prefrontal (fp1, fp2, f7, f8) and frontal (f3, f4) cortex regions. The device integrates optodes with four infrared wavelengths (660, 750, 850, and 880 nm) mounted on a flexible printed circuit board (PCB), ensuring optimal orthogonal contact with the skin and enhancing light penetration for improved signal strength. To validate the device's performance, a forearm occlusion experiment was conducted, and the results were compared against a standard cerebral oximeter device. Results indicated a Mean Absolute Error of 0.83% in ∆rSO₂ and a Mean Percentage Error of 0.89%. The findings confirm the system’s capability for accurate, real-time cerebral oxygenation monitoring, highlighting its potential for clinical and research applications where affordability, portability, and reliability are essential.
+<!--
+## Important links
+
+- [Paper (author version)]()
+-->
+## Citation
+<!--
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+-->
+```bibtex
+@inproceedings{soni_development_2025,
+	address = {Warsaw University of Technology, Poland},
+	title = {Development of a {Wearable} {fNIRS} {System} for {Non}-invasive {Cerebral} {Oxygenation} {Monitoring}},
+	copyright = {All rights reserved},
+	author = {Soni, Shreyash and Chand, Kulbhushan and Chowdhury, Shubhajit Roy},
+	year = {2025},
+	note = {In Press}}
+```

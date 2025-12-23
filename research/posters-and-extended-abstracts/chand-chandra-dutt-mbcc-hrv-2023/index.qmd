@@ -19,14 +19,14 @@ categories:
   - Cognitive workload
 pub-info:
   reference: >-
-    <strong>Kulbhushan Chand</strong>, Shilpa Chandra, and Varun Dutt, “Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters,” <em>Mind, Brain, and Consciousness Conference (MBCC)</em> (2024), url: <a href="https://iksmha.iitmandi.ac.in/mbcc/#proceedings"><code>https://iksmha.iitmandi.ac.in/mbcc/#proceedings</code></a>
+    <strong>Kulbhushan Chand</strong>, Shilpa Chandra, and Varun Dutt, “Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters,” <em>Mind, Brain, and Consciousness Conference (MBCC)</em> (2023), url: <a href="https://iksmha.iitmandi.ac.in/mbcc/2023/ProceedingsMBCC_10May.pdf"><code>https://iksmha.iitmandi.ac.in/mbcc/2023/ProceedingsMBCC_10May.pdf</code></a>
   links:
     - name: PDF
-      url: mbcc-hrv-2024.pdf
+      url: mbcc-hrv-2023.pdf
       icon: fa-solid fa-file-pdf
       local: true
     - name: Final version
-      url: https://iksmha.iitmandi.ac.in/mbcc/#proceedings
+      url: https://iksmha.iitmandi.ac.in/mbcc/2023/ProceedingsMBCC_10May.pdf
       icon: fa-solid fa-scroll
 #    - name: Code
 #      url: 
@@ -45,7 +45,7 @@ pub-info:
 
 ## Important links
 
-- [Paper (open acess)](mbcc-hrv-2024.pdf)
+- [Paper (open acess)](mbcc-hrv-2023.pdf)
 
 ## Citation
 <!--
@@ -54,13 +54,14 @@ pub-info:
 </p>
 -->
 ```bibtex
-@article{chand_comprehensive_2024,
-    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},
-    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},
-    doi = {10.1016/j.heliyon.2024.e32195},
-    journal = {Heliyon},
-    year = {2024},
-    volume = {10},
-    number = {11},
-    pages = {e32195}}
+@inproceedings{chand_effects_2023,
+	address = {IIT Mandi, India},
+	title = {Effects of {Relaxed} and {Stressful} {Mental} {States} on the {Heart} {Rate} {Variability} {Parameters}},
+	copyright = {All rights reserved},
+	url = {https://iksmha.iitmandi.ac.in/mbcc/2023/ProceedingsMBCC_10May.pdf},
+	booktitle = {Mind, {Brain}, and {Consciousness} {Conference} ({MBCC} 2023)},
+	author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},
+	month = dec,
+	year = {2023},
+	pages = {293--294}}
 ```

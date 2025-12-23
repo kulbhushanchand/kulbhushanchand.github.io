@@ -1,0 +1,65 @@
+---
+title: "Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers"
+date: 2025-11-20
+author:
+  - name: Kulbhushan Chand
+    url: https://kulbhushanchand.github.io
+    orcid: 0000-0003-2042-7063
+    affiliation: IIT Mandi iHub and HCI Foundation
+  - name: Shilpa Chandra
+    affiliation: Indian Institute of Technology Mandi
+  - name: Varun Dutt
+    affiliation: Indian Institute of Technology Mandi
+categories:
+  - Indian classical music
+  - Raga bhairavi
+  - DASS
+  - Heart rate variability
+  - Virtual reality
+pub-info:
+  reference: >-
+    <strong>Kulbhushan Chand</strong>, Shilpa Chandra, and Varun Dutt, “Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers,” <em>Adani Global Indology Conclave</em> (2025), url: <a href="https://iksindia.org/Adani_Global_Indology_Conclave.php"><code>https://iksindia.org/Adani_Global_Indology_Conclave.php</code></a>
+  links:
+    - name: PDF
+      url: chand-chandra-dutt-adani-ragabhairavi-2025.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+#    - name: Final version
+#      url: chand-chandra-dutt-adani-ragabhairavi-2025
+#      icon: fa-solid fa-scroll
+#    - name: Code
+#      url: 
+#      icon: fa-brands fa-github
+#    - name: Add to Zotero
+#      url: 
+#      icon: ai ai-zotero-square
+#doi: 
+#haiku:
+#  - 
+#  - 
+#  - 
+#  extra: >- 
+#    It is an abstract publication for an ongoing study at that time.
+---
+<!--
+## Important links
+
+- [Poster (open acess)](chand-chandra-dutt-adani-ragabhairavi-2025.pdf)
+-->
+## Citation
+<!--
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+-->
+```bibtex
+@misc{chand_raga_2025,
+	address = {Ahmedabad, India},
+	type = {Poster},
+	title = {Raga {Bhairavi} in virtual reality reduces stress-related psychophysiological markers},
+	url = {https://iksindia.org/Adani_Global_Indology_Conclave.php},
+	author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},
+	month = nov,
+	year = {2025},
+	note = {Presented by: Kulbhushan Chand}}
+```
