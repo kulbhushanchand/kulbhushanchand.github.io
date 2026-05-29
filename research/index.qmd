@@ -6,10 +6,10 @@ listing:
     sort: "date desc"
     template: ../html/research/listing.ejs
     categories: true
-  - id: working-papers
-    contents: "working-papers/*/index.qmd"
-    sort: "date desc"
-    template: ../html/research/listing.ejs
+#  - id: working-papers
+#    contents: "working-papers/*/index.qmd"
+#    sort: "date desc"
+#    template: ../html/research/listing.ejs
   - id: conference-papers
     contents: "conference-papers/*/index.qmd"
     sort: "date desc"
