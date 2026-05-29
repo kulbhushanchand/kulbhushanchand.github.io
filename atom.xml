@@ -10,7 +10,7 @@
 <atom:link href="https://kulbhushanchand.github.io/atom.xml" rel="self" type="application/rss+xml"/>
 <description>Kulbhushan Chand&#39;s blog</description>
 <language>en</language>
-<generator>quarto-1.7.30</generator>
+<generator>quarto-1.9.37</generator>
 <lastBuildDate>Thu, 19 Dec 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Welcome quarto…!</title>
@@ -28,7 +28,7 @@
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Work in progress
+<span class="screen-reader-only">Important</span>Work in progress
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -49,8 +49,8 @@ Work in progress
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chand2024" class="csl-entry quarto-appendix-citeas">
-Chand, Kulbhushan. 2024. <span>“Welcome Quarto...!”</span> December 20,
-2024. <a href="https://kulbhushanchand.github.io/blog/2024/12/20/first-post/">https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</a>.
+Chand, Kulbhushan. 2024. <span>“Welcome Quarto...!”</span> December 20.
+<a href="https://kulbhushanchand.github.io/blog/2024/12/20/first-post/">https://kulbhushanchand.github.io/blog/2024/12/20/first-post/</a>.
 </div></div></section></div> ]]></description>
   <category>first</category>
   <category>goals</category>

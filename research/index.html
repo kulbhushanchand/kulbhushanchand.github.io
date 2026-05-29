@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,6 +10,9 @@
 
 <title>Research | Kulbhushan Chand – Kulbhushan Chand</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e4b8024a137a066106f64e849fce2999.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e19f81c97bc45f6835df6be9cce9fdc9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b0fe8b807c82216629ea372229a5eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-fdebaa7be19b9379016b9922998a0988.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script src="../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
@@ -84,41 +87,13 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-haiku','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-engines','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-haiku','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-haiku","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-engines","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-haiku","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-articles'] = new List('listing-articles', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-working-papers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-working-papers'] = new List('listing-working-papers', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -140,9 +115,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-engines','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-engines","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -168,9 +143,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-haiku','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-engines','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-haiku','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-haiku","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-engines","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-haiku","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -196,9 +171,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-engines','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-engines","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -223,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -236,7 +211,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -362,7 +337,7 @@ window.Quarto = {
   <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working papers</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="QWZmb3JkYWJpbGl0eQ==">Affordability <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QW5kcm9pZCUyMGFwcA==">Android app <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXJkdWlubw==">Arduino <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXV0aXNtJTIwU3BlY3RydW0lMjBEaXNvcmRlcg==">Autism Spectrum Disorder <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXV0b25vbWljJTIwbmVydm91cyUyMHN5c3RlbQ==">Autonomic nervous system <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmlvZmVlZGJhY2s=">Biofeedback <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmlvZmVlZGJhY2slMjBzeXN0ZW0=">Biofeedback system <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2VyZWJyYWwlMjBPeHlnZW4lMjBNb25pdG9yaW5n">Cerebral Oxygen Monitoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29nbml0aXZlJTIwRW5oYW5jZW1lbnQ=">Cognitive Enhancement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29nbml0aXZlJTIwd29ya2xvYWQ=">Cognitive workload <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q3VsdHVyYWwlMjBoZXJpdGFnZQ==">Cultural heritage <span class="quarto-category-count">(1)</span></div><div class="category" data-category="REFTUw==">DASS <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RGF0YSUyMEFjcXVpc2l0aW9u">Data Acquisition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGVjaXNpb24tbWFraW5nJTIwTWV0aG9k">Decision-making Method <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHlzbGV4aWE=">Dyslexia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RUNHJTIwbW9uaXRvcmluZw==">ECG monitoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmVhdHVyZSUyMHNlbGVjdGlvbg==">Feature selection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmlybWF0YQ==">Firmata <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmxleGlibGUlMjBQcmludGVkJTIwQ2lyY3VpdCUyMEJvYXJk">Flexible Printed Circuit Board <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Zk5JUlM=">fNIRS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9vZCUyMHdhc3RlJTIwcmVkdWN0aW9u">Food waste reduction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2FtaWZpY2F0aW9u">Gamification <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R3JhcGhpY2FsJTIwdXNlciUyMGludGVyZmFjZQ==">Graphical user interface <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SGVhcnQlMjByYXRlJTIwdmFyaWFiaWxpdHk=">Heart rate variability <span class="quarto-category-count">(8)</span></div><div class="category" data-category="SGlnaC1kaW1lbnNpb25hbCUyMEVFRyUyMGRhdGFzZXQ=">High-dimensional EEG dataset <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SHVtYW4lMjBtYWNoaW5lJTIwaW50ZXJhY3Rpb24=">Human machine interaction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kaWFuJTIwY2xhc3NpY2FsJTIwbXVzaWM=">Indian classical music <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TGVhcm5pbmclMjBkaXNhYmlsaXRpZXM=">Learning disabilities <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGluZWFyJTIwYW5kJTIwbm9uLWxpbmVhciUyMEhSVg==">Linear and non-linear HRV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TG93LWNvc3QlMjBzZW5zb3Jz">Low-cost sensors <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFjaGluZSUyMGxlYXJuaW5n">Machine learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TUFUTEFC">MATLAB <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TWVudGFsJTIwcmVsYXhhdGlvbg==">Mental relaxation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TWVudGFsJTIwc3RyZXNz">Mental stress <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWljcm9zb2Z0JTIwS2luZWN0">Microsoft Kinect <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmludGVuZG8lMjBFbnRlcnRhaW5tZW50JTIwU3lzdGVt">Nintendo Entertainment System <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmludGVuZG8lMjBlbnRlcnRhaW5tZW50JTIwc3lzdGVtJTIwZ2FtZXM=">Nintendo entertainment system games <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3Blbi1zb3VyY2UlMjBzb2Z0d2FyZQ==">Open-source software <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T3B0aW11bSUyMHNhbXBsaW5nJTIwcmF0ZQ==">Optimum sampling rate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFjZWQlMjBicmVhdGhpbmc=">Paced breathing <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGh5c2lvbG9naWNhbCUyMHNpZ25hbCUyMGFjcXVpc2l0aW9u">Physiological signal acquisition <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGx1ZyUyMGFuZCUyMHBsYXklMjBzeXN0ZW0=">Plug and play system <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmFnYSUyMGJoYWlyYXZp">Raga bhairavi <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UmFuZG9tJTIwZm9yZXN0">Random forest <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVsYXhhdGlvbg==">Relaxation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVwcm9kdWNpYmlsaXR5">Reproducibility <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZWFyY2glMjBlbmdhZ2VtZW50">Research engagement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VyaW91cyUyMEdhbWU=">Serious Game <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RyZXNz">Stress <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RyZXNzJTIwbWFuYWdlbWVudA==">Stress management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dERDUw==">tDCS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGVsZWhlYWx0aA==">Telehealth <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGltaW5nJTIwaml0dGVy">Timing jitter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGltaW5nJTIwaml0dGVyJTIwY29ycmVjdGlvbiUyMG1lY2hhbmlzbQ==">Timing jitter correction mechanism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VG91cmlzbSUyMGVuaGFuY2VtZW50">Tourism enhancement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW5pdmFyaWF0ZSUyMGZlYXR1cmUlMjBzZWxlY3Rpb24=">Univariate feature selection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmlkZW8lMjBHYW1lcw==">Video Games <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmlydHVhbCUyMHJlYWxpdHk=">Virtual reality <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(16)</span></div><div class="category" data-category="QWZmb3JkYWJpbGl0eQ==">Affordability <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QW5kcm9pZCUyMGFwcA==">Android app <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXJkdWlubw==">Arduino <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXV0aXNtJTIwU3BlY3RydW0lMjBEaXNvcmRlcg==">Autism Spectrum Disorder <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXV0b25vbWljJTIwbmVydm91cyUyMHN5c3RlbQ==">Autonomic nervous system <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmlvZmVlZGJhY2s=">Biofeedback <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmlvZmVlZGJhY2slMjBzeXN0ZW0=">Biofeedback system <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29nbml0aXZlJTIwRW5oYW5jZW1lbnQ=">Cognitive Enhancement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29nbml0aXZlJTIwd29ya2xvYWQ=">Cognitive workload <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q3VsdHVyYWwlMjBoZXJpdGFnZQ==">Cultural heritage <span class="quarto-category-count">(1)</span></div><div class="category" data-category="REFTUw==">DASS <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RGVjaXNpb24tbWFraW5nJTIwTWV0aG9k">Decision-making Method <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHlzbGV4aWE=">Dyslexia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RUNHJTIwbW9uaXRvcmluZw==">ECG monitoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmVhdHVyZSUyMHNlbGVjdGlvbg==">Feature selection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmlybWF0YQ==">Firmata <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9vZCUyMHdhc3RlJTIwcmVkdWN0aW9u">Food waste reduction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2FtaWZpY2F0aW9u">Gamification <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R3JhcGhpY2FsJTIwdXNlciUyMGludGVyZmFjZQ==">Graphical user interface <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SGVhcnQlMjByYXRlJTIwdmFyaWFiaWxpdHk=">Heart rate variability <span class="quarto-category-count">(8)</span></div><div class="category" data-category="SGlnaC1kaW1lbnNpb25hbCUyMEVFRyUyMGRhdGFzZXQ=">High-dimensional EEG dataset <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SHVtYW4lMjBtYWNoaW5lJTIwaW50ZXJhY3Rpb24=">Human machine interaction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kaWFuJTIwY2xhc3NpY2FsJTIwbXVzaWM=">Indian classical music <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TGVhcm5pbmclMjBkaXNhYmlsaXRpZXM=">Learning disabilities <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGluZWFyJTIwYW5kJTIwbm9uLWxpbmVhciUyMEhSVg==">Linear and non-linear HRV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TG93LWNvc3QlMjBzZW5zb3Jz">Low-cost sensors <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFjaGluZSUyMGxlYXJuaW5n">Machine learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TUFUTEFC">MATLAB <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TWVudGFsJTIwcmVsYXhhdGlvbg==">Mental relaxation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TWVudGFsJTIwc3RyZXNz">Mental stress <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWljcm9zb2Z0JTIwS2luZWN0">Microsoft Kinect <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmludGVuZG8lMjBFbnRlcnRhaW5tZW50JTIwU3lzdGVt">Nintendo Entertainment System <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmludGVuZG8lMjBlbnRlcnRhaW5tZW50JTIwc3lzdGVtJTIwZ2FtZXM=">Nintendo entertainment system games <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3Blbi1zb3VyY2UlMjBzb2Z0d2FyZQ==">Open-source software <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T3B0aW11bSUyMHNhbXBsaW5nJTIwcmF0ZQ==">Optimum sampling rate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFjZWQlMjBicmVhdGhpbmc=">Paced breathing <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGh5c2lvbG9naWNhbCUyMHNpZ25hbCUyMGFjcXVpc2l0aW9u">Physiological signal acquisition <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGx1ZyUyMGFuZCUyMHBsYXklMjBzeXN0ZW0=">Plug and play system <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmFnYSUyMGJoYWlyYXZp">Raga bhairavi <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UmFuZG9tJTIwZm9yZXN0">Random forest <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVsYXhhdGlvbg==">Relaxation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVwcm9kdWNpYmlsaXR5">Reproducibility <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZWFyY2glMjBlbmdhZ2VtZW50">Research engagement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VyaW91cyUyMEdhbWU=">Serious Game <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RyZXNz">Stress <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RyZXNzJTIwbWFuYWdlbWVudA==">Stress management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dERDUw==">tDCS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGVsZWhlYWx0aA==">Telehealth <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGltaW5nJTIwaml0dGVy">Timing jitter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGltaW5nJTIwaml0dGVyJTIwY29ycmVjdGlvbiUyMG1lY2hhbmlzbQ==">Timing jitter correction mechanism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VG91cmlzbSUyMGVuaGFuY2VtZW50">Tourism enhancement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW5pdmFyaWF0ZSUyMGZlYXR1cmUlMjBzZWxlY3Rpb24=">Univariate feature selection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmlkZW8lMjBHYW1lcw==">Video Games <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmlydHVhbCUyMHJlYWxpdHk=">Virtual reality <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -943,49 +918,7 @@ window.Quarto = {
 <div class="research project-list">
 <ul class="list">
     
-        <li class="project" data-index="0" data-categories="Zk5JUlMlMkNDZXJlYnJhbCUyME94eWdlbiUyME1vbml0b3JpbmclMkNEYXRhJTIwQWNxdWlzaXRpb24lMkNGbGV4aWJsZSUyMFByaW50ZWQlMjBDaXJjdWl0JTIwQm9hcmQ=" data-listing-date-sort="1758911400000" data-listing-file-modified-sort="1766495958513" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
-            <div class="project-content listing-pub-info">
-                <p>Shreyash Soni, <strong>Kulbhushan Chand</strong>, and Shubhajit Roy Chowdhury, “Development of a Wearable fNIRS System for Non-invasive Cerebral Oxygenation Monitoring,” <em>6th International Conference on Frontiers in Computing and Systems (COMSYS 2025)</em> (2025)</p>
-            </div>
-
-            
-            <div class="project-categories">
-                
-                    <div class="project-category"><a href="#category=fNIRS">
-                            fNIRS
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=Cerebral Oxygen Monitoring">
-                            Cerebral Oxygen Monitoring
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=Data Acquisition">
-                            Data Acquisition
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=Flexible Printed Circuit Board">
-                            Flexible Printed Circuit Board
-                        </a></div>
-                    
-            </div>
-            
-
-            
-            
-            
-            <div class="project-details-listing">
-                <ul class="project-links">
-                    <li class="project-link details">
-                        <a href="../research/conference-papers/soni-comsys-fnirs-2025/index.html" class="listing-name">
-                            <i class="fa-solid fa-circle-info"></i> Full details »
-                        </a>
-                    </li>
-                    
-                </ul>
-            </div>
-        </li>
-        
-        <li class="project" data-index="1" data-categories="QmlvZmVlZGJhY2slMkNNZW50YWwlMjByZWxheGF0aW9uJTJDU3RyZXNzJTIwbWFuYWdlbWVudCUyQ0FmZm9yZGFiaWxpdHklMkNSZXByb2R1Y2liaWxpdHklMkNWaWRlbyUyMEdhbWVz" data-listing-date-sort="1749234600000" data-listing-file-modified-sort="1766470986789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+        <li class="project" data-index="0" data-categories="QmlvZmVlZGJhY2slMkNNZW50YWwlMjByZWxheGF0aW9uJTJDU3RyZXNzJTIwbWFuYWdlbWVudCUyQ0FmZm9yZGFiaWxpdHklMkNSZXByb2R1Y2liaWxpdHklMkNWaWRlbyUyMEdhbWVz" data-listing-date-sort="1749234600000" data-listing-file-modified-sort="1766470986789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
             <div class="project-content listing-pub-info">
                 <p><strong>Kulbhushan Chand</strong>, and Varun Dutt, “Towards Affordable Biofeedback System for Mental Relaxation,” <em>Mind, Brain, and Consciousness Conference (MBCC)</em> (2025)</p>
             </div>
@@ -1045,7 +978,7 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="2" data-categories="UmFnYSUyMGJoYWlyYXZpJTJDSW5kaWFuJTIwY2xhc3NpY2FsJTIwbXVzaWMlMkNIZWFydCUyMHJhdGUlMjB2YXJpYWJpbGl0eSUyQ0RBU1MlMkNWaXJ0dWFsJTIwcmVhbGl0eQ==" data-listing-date-sort="1691605800000" data-listing-file-modified-sort="1734703948410" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
+        <li class="project" data-index="1" data-categories="UmFnYSUyMGJoYWlyYXZpJTJDSW5kaWFuJTIwY2xhc3NpY2FsJTIwbXVzaWMlMkNIZWFydCUyMHJhdGUlMjB2YXJpYWJpbGl0eSUyQ0RBU1MlMkNWaXJ0dWFsJTIwcmVhbGl0eQ==" data-listing-date-sort="1691605800000" data-listing-file-modified-sort="1734703948410" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
             <div class="project-content listing-pub-info">
                 <p>Shilpa Chandra, <strong>Kulbhushan Chand</strong>, and Varun Dutt, “Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters,” <em>Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments</em> (2024), doi: <a href="https://doi.org/10.1145/3594806.3596555"><code>10.1145/3594806.3596555</code></a></p>
             </div>
@@ -1109,7 +1042,7 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="3" data-categories="RmVhdHVyZSUyMHNlbGVjdGlvbiUyQ01hY2hpbmUlMjBsZWFybmluZyUyQ1VuaXZhcmlhdGUlMjBmZWF0dXJlJTIwc2VsZWN0aW9uJTJDUmFuZG9tJTIwZm9yZXN0JTJDdERDUyUyQ0hpZ2gtZGltZW5zaW9uYWwlMjBFRUclMjBkYXRhc2V0" data-listing-date-sort="1691605800000" data-listing-file-modified-sort="1734703948411" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
+        <li class="project" data-index="2" data-categories="RmVhdHVyZSUyMHNlbGVjdGlvbiUyQ01hY2hpbmUlMjBsZWFybmluZyUyQ1VuaXZhcmlhdGUlMjBmZWF0dXJlJTIwc2VsZWN0aW9uJTJDUmFuZG9tJTIwZm9yZXN0JTJDdERDUyUyQ0hpZ2gtZGltZW5zaW9uYWwlMjBFRUclMjBkYXRhc2V0" data-listing-date-sort="1691605800000" data-listing-file-modified-sort="1734703948411" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
             <div class="project-content listing-pub-info">
                 <p>Akash K Rao, Zoha Fatma, Vishnu K Menon, Arnav Bhavsar, Shubhajit Roy Chowdhury, Sushil Chandra, Varun Dutt, and <strong>Kulbhushan Chand</strong>, “Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning,” <em>Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments</em> (2024), doi: <a href="https://doi.org/10.1145/3594806.3596579"><code>10.1145/3594806.3596579</code></a></p>
             </div>
@@ -1632,13 +1565,8 @@ window.Quarto = {
 </section>
 <section id="working-papers" class="level2">
 <h2 class="anchored" data-anchor-id="working-papers">Working papers</h2>
-<div id="listing-working-papers" class="quarto-listing quarto-listing-container-custom">
-<div class="research project-list">
-<ul class="list">
-    
-</ul>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
+<div id="working-papers">
+
 </div>
 
 
@@ -1697,13 +1625,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
