@@ -29,9 +29,9 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-sm-8}
-I'm a Post Doctoral fellow in [Technology Innovation Hub](https://www.ihubiitmandi.in/) at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in/). I received a PhD in electronics and communication engineering from [National Institute of Technology Jalandhar](https://www.nitj.ac.in/) in 2022.
+I'm a Senior Project Scientist at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in/). I received a PhD in electronics and communication engineering from [National Institute of Technology Jalandhar](https://www.nitj.ac.in/) in 2022.
 
-Broadly, my research areas overlap [Human Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), affective and physiological computing, serious games for health, assistive technologies, and [Indian Knowledge System](https://en.wikipedia.org/wiki/Indian_Knowledge_Systems) inspired approaches for mental wellbeing. I develop affordable [biofeedback](https://en.wikipedia.org/wiki/Biofeedback) systems, video games for health, non-medicative interventions for stress management, and rehabilitation tools for neurodiverse populations. My teaching emphasizes project-based learning supported by interactive tools and open-source pedagogical resources.
+I'm an interdisciplinary researcher working at the intersection of Human-Computer Interaction, extended reality, physiological computing, wearable sensing, and intelligent interactive systems. My work focuses on the design and development of biofeedback technologies, immersive virtual environments, and multimodal interaction techniques for applications in healthcare, disaster resilience, human performance, and assistive technologies. My teaching emphasizes project-based and research-oriented learning supported by interactive tools and open-source technologies.
 
 I mostly use open-source tools/technologies in my work. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative.
 :::
