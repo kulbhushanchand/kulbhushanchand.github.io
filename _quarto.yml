@@ -31,6 +31,8 @@ website:
   site-url: "https://kulbhushanchand.github.io"
   repo-url: "https://github.com/kulbhushanchand/kulbhushanchand.github.io"  
 
+ # Help out the robots
+  llms-txt: true
 
 #  google-analytics: 
 
