@@ -1,0 +1,18 @@
+> **IMPORTANT:**
+>
+> I have to yet to populate this page. Stay tuned…!
+
+I often discuss with the curious ones about my research workflow and the different tools I use. I tried to describe in a more detailed list of all the interconnected programs I use.
+
+I try to keep this updated fairly regularly. As of January 17, 2025 this is what I’m using:
+
+## Development
+
+### Science and research
+
+- I post almost everything I write or develop on [GitHub](https://github.com/kulbhushanchand).
+
+### Web
+
+- I build my website using [Quarto](https://quarto.org/) hosted on [GitHub](https://github.com/).
+- I use firefox dediactely with enough extensions for my need for all by web browsing tasks.

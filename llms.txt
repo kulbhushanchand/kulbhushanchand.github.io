@@ -1,0 +1,36 @@
+# Kulbhushan Chand
+
+> Kulbhushan Chand is a Senior Project Scientist at IIT Mandi, working on human-computer interaction, extended reality, and physiological computing.
+
+## Pages
+
+- [What I use](https://kulbhushanchand.github.io/uses/index.llms.md)
+- [Talks](https://kulbhushanchand.github.io/talks/index.llms.md)
+- [Technology-Assisted Cognitive Enhancement in ASD: Impact of a Gesture-Based Serious Game Intervention](https://kulbhushanchand.github.io/research/posters-and-extended-abstracts/sharma-chand-khosla-autism-2025/index.llms.md)
+- [Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers](https://kulbhushanchand.github.io/research/posters-and-extended-abstracts/chand-chandra-dutt-adani-ragabhairavi-2025/index.llms.md)
+- [Prediction of decision-making performance post-longitudinal tDCS administration via EEG features and machine learning](https://kulbhushanchand.github.io/research/conference-papers/rao-petra-tdcs-2023/index.llms.md)
+- [Impact of Indian Classical Raga in Immersive Environments on Human Psycho-physiological Parameters](https://kulbhushanchand.github.io/research/conference-papers/chand-chandra-dutt-petra-ragabhairavi-2023/index.llms.md)
+- [LearnEasy-Android Application as a Technological Intervention for Children With Dyslexia](https://kulbhushanchand.github.io/research/chapters/padmakar-game-2019/index.llms.md)
+- [The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions](https://kulbhushanchand.github.io/research/chapters/jain-gamification-2019/index.llms.md)
+- [MATLAB-Based Real-Time Data Acquisition Tool for Multimodal Biofeedback and Arduino-Based Instruments: Arduino Firmata Data Acquisition (AfDaq)](https://kulbhushanchand.github.io/research/articles/chand-khosla-daq-2022/index.llms.md)
+- [Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation](https://kulbhushanchand.github.io/research/articles/chand-khosla-biofeedback-2022/index.llms.md)
+- [A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state](https://kulbhushanchand.github.io/research/articles/chand-chandra-dutt-hrvparameters-2024/index.llms.md)
+- [What I'm doing now](https://kulbhushanchand.github.io/now/index.llms.md)
+- [Disclaimer](https://kulbhushanchand.github.io/disclaimer/index.llms.md)
+- [Contact](https://kulbhushanchand.github.io/contact/index.llms.md)
+- [Welcome quarto...!](https://kulbhushanchand.github.io/blog/2024/12/20/first-post/index.llms.md)
+- [Kulbhushan Chand's blog](https://kulbhushanchand.github.io/atom.llms.md)
+- [Blog](https://kulbhushanchand.github.io/blog/index.llms.md)
+- [Curriculum vitæ](https://kulbhushanchand.github.io/cv/index.llms.md)
+- [Hello there!](https://kulbhushanchand.github.io/index.llms.md)
+- [Projects](https://kulbhushanchand.github.io/projects/index.llms.md)
+- [Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers](https://kulbhushanchand.github.io/research/articles/chand-chandra-dutt-ragabhairavifull-2024/index.llms.md)
+- [BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback](https://kulbhushanchand.github.io/research/articles/chand-khosla-biones-2022/index.llms.md)
+- [Affordable ECG Sensing: A Machine Learning-Enhanced Framework for Scalable Human-Machine Interaction in Telehealth](https://kulbhushanchand.github.io/research/articles/kumar-affordable-2025/index.llms.md)
+- [Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students](https://kulbhushanchand.github.io/research/chapters/mukherjee-gamification-2019/index.llms.md)
+- [Enhancing Tourism and Cultural Experience Through Gamification](https://kulbhushanchand.github.io/research/chapters/setia-gamification-2019/index.llms.md)
+- [Towards Affordable Biofeedback System for Mental Relaxation](https://kulbhushanchand.github.io/research/conference-papers/chand-khosla-dutt-mbcc-biofeedback-2025/index.llms.md)
+- [Research](https://kulbhushanchand.github.io/research/index.llms.md)
+- [Effects of Relaxed and Stressful Mental States on the Heart Rate Variability Parameters](https://kulbhushanchand.github.io/research/posters-and-extended-abstracts/chand-chandra-dutt-mbcc-hrv-2023/index.llms.md)
+- [Kulbhushan Chand's blog](https://kulbhushanchand.github.io/rss.llms.md)
+- [Teaching](https://kulbhushanchand.github.io/teaching/index.llms.md)
