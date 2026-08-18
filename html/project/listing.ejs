@@ -40,18 +40,18 @@
             <% if (course.links) { %>
                 <ul class="talk-links">
                     <% for (const link of course.links) { %>
+                        <% if (link.url) { %>
                     <li class="talk-link">
-                        <% if (link.local) { %>
-                        <a href="<%- talk.path.substring(0, talk.path.lastIndexOf('/')) %>/<%- link.url %>">
-                        <% } else { if (link.url) { %>
-                        <a href="<%- link.url %>">
-                        <% } } %>
-                            <iconify-icon icon="<%- link.icon %>" inline=""></iconify-icon> <%= link.name %>
-                        </a>
+                        <a href="<%- link.url %>"><iconify-icon icon="<%- link.icon %>" inline=""></iconify-icon> <%= link.name %></a>
                     </li>
+                        <% } else { %>
+                    <li class="talk-link no-link">
+                        <iconify-icon icon="<%- link.icon %>" inline=""></iconify-icon> <%= link.name %>
+                    </li>
+                        <% } %>
                     <% } %>
-                <% } %>
                 </ul>
+            <% } %>
 
         </div>
     </div>
