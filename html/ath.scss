@@ -420,11 +420,6 @@ p code.sourceCode, li code.sourceCode, td code.sourceCode {
             font-size: 1.6em;
             line-height: 1.4;
         }
-
-        @media (max-width: map-get($grid-breakpoints, md)) {
-            .doha-deva { font-size: 1.15em; }
-            .doha-english { font-size: 1.2em; }
-        }
     }
     
 
