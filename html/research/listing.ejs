@@ -25,6 +25,15 @@
             <% } %>
             </div>
             <% } %>
+
+            <% if (item.doha && item.doha.english) { %>
+                <div class="doha">
+                    <% for (var i=0; i < item.doha.english.length; i++) { %>
+                        <% if (i> 0) { %> / <% } %>
+                                <%= item.doha.english[i] %>
+                                    <% } %>
+                </div>
+                <% } %>
             
             <div class="project-details-listing">
                 <ul class="project-links">

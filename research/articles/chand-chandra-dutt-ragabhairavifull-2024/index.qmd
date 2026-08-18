@@ -35,9 +35,13 @@ pub-info:
       icon: ai ai-zotero-square
 doi: 10.1038/s41598-024-74932-1
 haiku:
-  - Bhairavi in VR
-  - Six days of healing within
-  - Stress fades, hearts find peace
+doha:
+  devanagari:
+    - "भैरवी सुर नैन बसे, छह दिन बीते जाय।"
+    - "थमी धड़कनों की चाल, हिय में सुख अति छाय॥"
+  english:
+    - "Bhairavi's notes take root in the eyes; six days slip past"
+    - "The heart's racing slows; ease settles in the breast"
 ---
 
 ## Important links
