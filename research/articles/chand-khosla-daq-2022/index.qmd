@@ -36,10 +36,13 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.4018/JITR.299922
       icon: ai ai-zotero-square
 doi: 10.4018/JITR.299922
-haiku:
-  - Timings once astray
-  - Post-hoc fixes pave the way
-  - Signals now obey
+doha:
+  devanagari:
+    - "यंत्र समय चाल सुधरे, हर पल सही समय पाय।"
+    - "मुफ्त यंत्र सबको मिले, शोध सरल हो जाय॥"
+  english:
+    - "The tool corrects time's stumble; each moment finds its true pace"
+    - "Free, open, for all who seek it; the work turns simple and clear"
 ---
 
 ## Important links

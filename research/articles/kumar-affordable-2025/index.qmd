@@ -42,9 +42,13 @@ pub-info:
       icon: ai ai-zotero-square
 doi: 10.1109/JSEN.2025.3593819
 haiku:
-  - Signals on the skin
-  - Machine learning bridges gaps
-  - Hearts share their rhythms
+doha:
+  devanagari:
+    - "सस्ता यंत्र सीख समझे, महँगे निकट जाय।"
+    - "हृदय गिनी सच के निकट, अभी न पूरी पाय॥"
+  english:
+    - "The cheap machine learns and understands; draws near its costly kin"
+    - "The heart's count nears the truth; not yet fully attained"
 ---
 
 ## Important links

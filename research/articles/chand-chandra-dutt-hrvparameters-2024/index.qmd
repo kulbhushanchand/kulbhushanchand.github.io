@@ -36,9 +36,13 @@ pub-info:
       icon: ai ai-zotero-square
 doi: 10.1016/j.heliyon.2024.e32195
 haiku:
-  - In stress, chaos reigns
-  - In relax, calm sustains
-  - Heartbeat tells its truth
+doha:
+  devanagari:
+    - "कान लगी डोरी कहे, हृदय भेद की बात।"
+    - "चौआलिस जन साख भई, साँस-अंक की जात॥"
+  english:
+    - "A wire at the ear tells; what the heart has been keeping"
+    - "Forty-four stood witness; to what breath, and sums, reveal"
 ---
 
 ## Important links

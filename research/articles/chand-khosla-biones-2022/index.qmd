@@ -34,9 +34,13 @@ pub-info:
       icon: ai ai-zotero-square
 doi: 10.1016/j.softx.2022.101184
 haiku:
-  - Old games turn to heal
-  - Retro play for health revealed
-  - Breathe deep, stress can’t steal
+doha:
+  devanagari:
+    - "कोड छुए बिन खेल का, यंत्र दिखावे राह।"
+    - "खुला यंत्र बिन दाम है, शोधक पावे चाह॥"
+  english:
+    - "The code stays untouched; the tool shows the way"
+    - "Open, and free of cost; the researcher gets their wish"
 ---
 
 ## Important links

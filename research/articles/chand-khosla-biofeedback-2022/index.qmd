@@ -36,9 +36,13 @@ pub-info:
       icon: ai ai-zotero-square
 doi: 10.4018/IJGCMS.295874
 haiku:
-  - Relax to play, breathe deep
-  - Retro games where calm will keep
-  - In each breath, your stress will sleep
+doha:
+  devanagari:
+    - "खेल पुराना नव भया, हिय संग सधे ताल।"
+    - "मारियो पर साँस चले, मन पावे खुशहाल॥"
+  english:
+    - "The old game turns new; the heart keeps its rhythm"
+    - "Breath moves through Mario; the mind finds its ease"
 ---
 
 ## Important links
