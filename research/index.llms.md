@@ -16,7 +16,7 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 
   [Telehealth](#category=Telehealth)
 
-  Signals on the skin / Machine learning bridges gaps / Hearts share their rhythms
+  The cheap machine learns and understands; draws near its costly kin / The heart's count nears the truth; not yet fully attained
 
   - [ Full details »](../research/articles/kumar-affordable-2025/index.llms.md)
   - [ PDF](../research/articles/kumar-affordable-2025/)
@@ -56,7 +56,7 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 
   [Linear and non-linear HRV](#category=Linear%20and%20non-linear%20HRV)
 
-  In stress, chaos reigns / In relax, calm sustains / Heartbeat tells its truth
+  A wire at the ear tells; what the heart has been keeping / Forty-four stood witness; to what breath, and sums, reveal
 
   - [ Full details »](../research/articles/chand-chandra-dutt-hrvparameters-2024/index.llms.md)
   - [ PDF](../research/articles/chand-chandra-dutt-hrvparameters-2024/hrvparameters-2024.pdf)
@@ -77,7 +77,7 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 
   [Arduino](#category=Arduino)
 
-  Old games turn to heal / Retro play for health revealed / Breathe deep, stress can’t steal
+  The code stays untouched; the tool shows the way / Open, and free of cost; the researcher gets their wish
 
   - [ Full details »](../research/articles/chand-khosla-biones-2022/index.llms.md)
   - [ PDF](../research/articles/chand-khosla-biones-2022/biones-2022.pdf)
@@ -103,7 +103,7 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 
   [Physiological signal acquisition](#category=Physiological%20signal%20acquisition)
 
-  Relax to play, breathe deep / Retro games where calm will keep / In each breath, your stress will sleep
+  The old game turns new; the heart keeps its rhythm / Breath moves through Mario; the mind finds its ease
 
   - [ Full details »](../research/articles/chand-khosla-biofeedback-2022/index.llms.md)
   - [ PDF](../research/articles/chand-khosla-biofeedback-2022/biofeedback-2022.pdf)
@@ -131,7 +131,7 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 
   [Timing jitter correction mechanism](#category=Timing%20jitter%20correction%20mechanism)
 
-  Timings once astray / Post-hoc fixes pave the way / Signals now obey
+  The tool corrects time's stumble; each moment finds its true pace / Free, open, for all who seek it; the work turns simple and clear
 
   - [ Full details »](../research/articles/chand-khosla-daq-2022/index.llms.md)
   - [ PDF](../research/articles/chand-khosla-daq-2022/daq-2022.pdf)
