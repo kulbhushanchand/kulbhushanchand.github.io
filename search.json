@@ -273,18 +273,32 @@
     "text": "Citation\n\n Add to Zotero \n\n@article{chand_comprehensive_2024,\n    title = {A comprehensive evaluation of linear and non-linear HRV parameters between paced breathing and stressful mental state},\n    author = {Chand, Kulbhushan and Chandra, Shilpa and Dutt, Varun},\n    doi = {10.1016/j.heliyon.2024.e32195},\n    journal = {Heliyon},\n    year = {2024},\n    volume = {10},\n    number = {11},\n    pages = {e32195}}"
   },
   {
-    "objectID": "now/index.html",
-    "href": "now/index.html",
-    "title": "What I’m doing now",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello there!",
     "section": "",
-    "text": "As of January 17, 2025, I’m spending all my time on these things:\n\nStaying in the Himalayas and working as a Post Doctoral fellow in the IIT Mandi iHub and HCI Foundation at the Indian Institute of Technology Mandi\n\nMost of the time residing in the Center for Human Computer Interaction lab for research work.\nWorking in few large projects involving the use of technologies for mental health.\nDeveloping Proof of Concepts (mostly wearables and affordable healthcare devices) for the translation research.\nWriting and submitting manuscripts for the publication."
+    "text": "I’m a Senior Project Scientist at the Indian Institute of Technology Mandi. I received a PhD in electronics and communication engineering from National Institute of Technology Jalandhar in 2022.\nI’m an interdisciplinary researcher working at the intersection of Human-Computer Interaction, extended reality, physiological computing, wearable sensing, and intelligent interactive systems. My work focuses on the design and development of biofeedback technologies, immersive virtual environments, and multimodal interaction techniques for applications in healthcare, disaster resilience, human performance, and assistive technologies. My teaching emphasizes project-based and research-oriented learning supported by interactive tools and open-source technologies.\nI mostly use open-source tools/technologies in my work. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative."
   },
   {
-    "objectID": "disclaimer/index.html",
-    "href": "disclaimer/index.html",
-    "title": "Disclaimer",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
     "section": "",
-    "text": "The opinions expressed on this website are author’s own in his personal capacity. They do not reflect the views of anyone else."
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            December 20, 2024\n        \n        \n            Welcome quarto...!\n\n            \n            \n                \n                \n                    first\n                \n                \n                \n                    goals\n                \n                \n                \n                    quarto\n                \n                \n            \n            \n\n            Testing out the blog post\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "blog/2024/12/20/first-post/index.html",
+    "href": "blog/2024/12/20/first-post/index.html",
+    "title": "Welcome quarto…!",
+    "section": "",
+    "text": "ImportantWork in progress\n\n\n\nThis is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.\n\n\nWelcome to quarto website\n\n\n\n\n\nCitationBibTeX citation:@online{chand2024,\n  author = {Chand, Kulbhushan},\n  title = {Welcome Quarto...!},\n  date = {2024-12-20},\n  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChand, Kulbhushan. 2024. “Welcome Quarto...!” December 20.\nhttps://kulbhushanchand.github.io/blog/2024/12/20/first-post/."
   },
   {
     "objectID": "contact/index.html",
@@ -308,32 +322,11 @@
     "text": "Online profiles\n Institute Profile LinkedIn Google Scholar ORCID ResearchGate GitHub OSF YouTube"
   },
   {
-    "objectID": "blog/2024/12/20/first-post/index.html",
-    "href": "blog/2024/12/20/first-post/index.html",
-    "title": "Welcome quarto…!",
+    "objectID": "disclaimer/index.html",
+    "href": "disclaimer/index.html",
+    "title": "Disclaimer",
     "section": "",
-    "text": "ImportantWork in progress\n\n\n\nThis is a quick blog post to test giscus comments and to make website live on github. This post is likely to change in future.\n\n\nWelcome to quarto website\n\n\n\n\n\nCitationBibTeX citation:@online{chand2024,\n  author = {Chand, Kulbhushan},\n  title = {Welcome Quarto...!},\n  date = {2024-12-20},\n  url = {https://kulbhushanchand.github.io/blog/2024/12/20/first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChand, Kulbhushan. 2024. “Welcome Quarto...!” December 20.\nhttps://kulbhushanchand.github.io/blog/2024/12/20/first-post/."
-  },
-  {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "Blog",
-    "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            December 20, 2024\n        \n        \n            Welcome quarto...!\n\n            \n            \n                \n                \n                    first\n                \n                \n                \n                    goals\n                \n                \n                \n                    quarto\n                \n                \n            \n            \n\n            Testing out the blog post\n            \n            \n        \n        \n        \n            \n\n        \n    \n    \n\nNo matching items"
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there!",
-    "section": "",
-    "text": "I’m a Senior Project Scientist at the Indian Institute of Technology Mandi. I received a PhD in electronics and communication engineering from National Institute of Technology Jalandhar in 2022.\nI’m an interdisciplinary researcher working at the intersection of Human-Computer Interaction, extended reality, physiological computing, wearable sensing, and intelligent interactive systems. My work focuses on the design and development of biofeedback technologies, immersive virtual environments, and multimodal interaction techniques for applications in healthcare, disaster resilience, human performance, and assistive technologies. My teaching emphasizes project-based and research-oriented learning supported by interactive tools and open-source technologies.\nI mostly use open-source tools/technologies in my work. When I’m not researching, I enjoy exploring new ideas, learning new technologies, or building something fun and creative."
+    "text": "The opinions expressed on this website are author’s own in his personal capacity. They do not reflect the views of anyone else."
   },
   {
     "objectID": "projects/index.html",
