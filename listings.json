@@ -4,22 +4,6 @@
     "items": []
   },
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/atom.html",
-    "items": [
-      "/blog/2024/12/20/first-post/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": []
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/articles/kumar-affordable-2025/index.html",
@@ -35,9 +19,24 @@
       "/research/chapters/mukherjee-gamification-2019/index.html",
       "/research/chapters/padmakar-game-2019/index.html",
       "/research/chapters/setia-gamification-2019/index.html",
-      "/research/posters-and-extended-abstracts/sharma-chand-khosla-autism-2025/index.html",
       "/research/posters-and-extended-abstracts/chand-chandra-dutt-adani-ragabhairavi-2025/index.html",
       "/research/posters-and-extended-abstracts/chand-chandra-dutt-mbcc-hrv-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/12/20/first-post/index.html"
     ]
   },
   {

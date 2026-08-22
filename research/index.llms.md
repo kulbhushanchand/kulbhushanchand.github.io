@@ -194,18 +194,6 @@ My research spans Human-Computer Interaction (HCI), Indian Knowledge Systems (IK
 
 ## Posters and Extended-abstracts
 
-- Neha Sharma, **Kulbhushan Chand**, and Arun Khosla, “Technology-Assisted Cognitive Enhancement in ASD: Impact of a Gesture-Based Serious Game Intervention,” *68th European Autism Congress* (2026), url: [`https://autism.psychiatryconferences.com/`](https://autism.psychiatryconferences.com/)
-
-  [Autism Spectrum Disorder](#category=Autism%20Spectrum%20Disorder)
-
-  [Microsoft Kinect](#category=Microsoft%20Kinect)
-
-  [Serious Game](#category=Serious%20Game)
-
-  [Cognitive Enhancement](#category=Cognitive%20Enhancement)
-
-  - [ Full details »](../research/posters-and-extended-abstracts/sharma-chand-khosla-autism-2025/index.llms.md)
-
 - **Kulbhushan Chand**, Shilpa Chandra, and Varun Dutt, “Raga Bhairavi in virtual reality reduces stress-related psychophysiological markers,” *Adani Global Indology Conclave* (2025), url: [`https://iksindia.org/Adani_Global_Indology_Conclave.php`](https://iksindia.org/Adani_Global_Indology_Conclave.php)
 
   [Indian classical music](#category=Indian%20classical%20music)

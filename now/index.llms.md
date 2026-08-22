@@ -1,7 +1,0 @@
-As of January 17, 2025, I’m spending all my time on these things:
-
-- Staying in the Himalayas and working as a Post Doctoral fellow in the [IIT Mandi iHub and HCI Foundation](https://www.ihubiitmandi.in/) at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in/)
-- Most of the time residing in the [Center for Human Computer Interaction](https://chci.iitmandi.ac.in/) lab for research work.
-- Working in few large projects involving the use of technologies for mental health.
-- Developing Proof of Concepts (mostly wearables and affordable healthcare devices) for the translation research.
-- Writing and submitting manuscripts for the publication.
