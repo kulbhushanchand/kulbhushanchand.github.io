@@ -10,8 +10,8 @@ author:
     affiliation: Indian Institute of Technology Mandi, India
   - name: Kulbhushan Chand
     url: https://kulbhushanchand.github.io
-    orcid: 0000-0003-2042-7063
-    affiliation: IIT Mandi iHub and HCI Foundation, Indian Institute of Technology Mandi, India
+    orcid: 0000-0001-6502-0748
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Arnav Bhavsar
     affiliation: Indian Institute of Technology Mandi, India
   - name: Varun Dutt

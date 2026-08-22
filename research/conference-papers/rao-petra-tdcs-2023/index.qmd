@@ -3,23 +3,23 @@ title: "Prediction of decision-making performance post-longitudinal tDCS adminis
 date: 2023-08-10
 author:
   - name: Akash K Rao
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Zoha Fatma
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Vishnu K Menon
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Arnav Bhavsar
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Shubhajit Roy Chowdhury
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Sushil Chandra
-    affiliation: Indian Institute of Technology Mandi  
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Varun Dutt
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Kulbhushan Chand
     url: https://kulbhushanchand.github.io
-    orcid: 0000-0003-2042-7063
-    affiliation: IIT Mandi iHub and HCI Foundation              
+    orcid: 0000-0001-6502-0748
+    affiliation: Indian Institute of Technology Mandi, India          
 categories:
   - Feature selection
   - Machine learning

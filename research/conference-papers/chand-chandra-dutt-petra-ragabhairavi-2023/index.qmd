@@ -3,13 +3,13 @@ title: "Impact of Indian Classical Raga in Immersive Environments on Human Psych
 date: 2023-08-10
 author:
   - name: Shilpa Chandra
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Kulbhushan Chand
     url: https://kulbhushanchand.github.io
-    orcid: 0000-0003-2042-7063
-    affiliation: IIT Mandi iHub and HCI Foundation
+    orcid: 0000-0001-6502-0748
+    affiliation: Indian Institute of Technology Mandi, India
   - name: Varun Dutt
-    affiliation: Indian Institute of Technology Mandi
+    affiliation: Indian Institute of Technology Mandi, India
 categories:
   - Raga bhairavi
   - Indian classical music

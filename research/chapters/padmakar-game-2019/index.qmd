@@ -8,7 +8,7 @@ author:
     affiliation: National Institute of Technology Jalandhar, India
   - name: Kulbhushan Chand
     url: https://kulbhushanchand.github.io
-    orcid: 0000-0003-2042-7063
+    orcid: 0000-0001-6502-0748
     affiliation: National Institute of Technology Jalandhar, India
 
 categories:
