@@ -13,8 +13,8 @@ clgsb@mdhaao.ukh.cihlnamnu[unscramble](#)
 clgsb@mdhaao.ukh.cihlnamnu[unscramble](#)
 
 **Address:**\
-Center for Human Computer Interaction,\
-A14 building, 3rd floor, North Campus,\
+Applied Cognitive Science Laboratory (ACS Lab),\
+A18 building, 4th floor, North Campus,\
 Indian Institute of Technology Mandi,\
 Kamand, Mandi, Himachal Pradesh,\
 India,\
